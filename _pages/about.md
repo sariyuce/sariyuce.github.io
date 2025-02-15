@@ -2,33 +2,29 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href="https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/sariyuce-a-erdem.detail.html">Associate Professor</a>, <a href='https://engineering.buffalo.edu/computer-science-engineering.html'>Department of Computer Science and Engineering</a>, <a href="https://www.buffalo.edu/">University at Buffalo</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: erdem.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address:
+    <p>erdem at buffalo dot edu</p>
+    <p>323 Davis Hall</p>
+    <p>Buffalo, NY 14260</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+news: true  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<b>***I'm on sabbatical during 2024-2025 academic year.***</b>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research is on <b>large-scale graph mining, management, and learning</b>. I develop algorithms and models to enable practical and insightful graph analytics for the real-world data which can be large, streaming, incomplete, and noisy.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I was the <a href="http://www.sandia.gov/careers/students_postdocs/fellowships/johnvonneumann_fellowship.html">John von Neumann Post-doctoral Fellow</a> at <a href="http://www.sandia.gov/">Sandia National Labs</a> in Livermore, CA.  I got my Ph.D. from the <a href="https://cse.osu.edu"> Computer Science and Engineering Department</a> at the <a href="https://www.osu.edu">Ohio State University</a> under the supervision of <a href="https://www.cc.gatech.edu/~umit/">Ümit V. Çatalyürek</a> (now at Georgia Tech).
+
+I received <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2236789">NSF CAREER</a> award and University at Buffalo Exceptional Scholar - Young Investigator Award in 2023. My work has been generously supported in part by grants from NSF and J.P. Morgan Chase AI.
+
+<a href="/name/">(More about my name and pronunciation)</a> <br>
