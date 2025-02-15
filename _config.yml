@@ -374,6 +374,7 @@ enable_progressbar:         true   # enables a horizontal progress bar linked to
 # Library versions
 # -----------------------------------------------------------------------------
 
+third_party_libraries:
   download: false # if true, download the versions of the libraries specified below and use the downloaded files
   bootstrap-table:
     integrity:
