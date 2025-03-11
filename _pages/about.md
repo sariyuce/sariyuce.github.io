@@ -23,8 +23,6 @@ social: false  # includes social icons at the bottom of the page
 
 My research is on <b>large-scale graph mining, management, and learning</b>. I develop algorithms and models to enable practical and insightful graph analytics for the real-world data which can be large, streaming, incomplete, and noisy.
 
-Previously, I was the <a href="http://www.sandia.gov/careers/students_postdocs/fellowships/johnvonneumann_fellowship.html">John von Neumann Post-doctoral Fellow</a> at <a href="http://www.sandia.gov/">Sandia National Labs</a> in Livermore, CA.  I got my Ph.D. from the <a href="https://cse.osu.edu"> Computer Science and Engineering Department</a> at the <a href="https://www.osu.edu">Ohio State University</a> under the supervision of <a href="https://www.cc.gatech.edu/~umit/">Ümit V. Çatalyürek</a> (now at Georgia Tech).
-
 I received <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2236789">NSF CAREER</a> award and University at Buffalo Exceptional Scholar - Young Investigator Award in 2023. My work has been generously supported in part by grants from NSF and J.P. Morgan Chase AI.
 
 <a href="/name/">(More about my name and pronunciation)</a> <br>
