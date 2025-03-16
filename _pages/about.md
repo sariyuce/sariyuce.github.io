@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/sariyuce-a-erdem.detail.html">Associate Professor</a>, <a href='https://engineering.buffalo.edu/computer-science-engineering.html'>Department of Computer Science and Engineering</a>, <a href="https://www.buffalo.edu/">University at Buffalo</a>
+subtitle: <a href="https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/sariyuce-a-erdem.detail.html">Associate Professor</a>, <a href='https://engineering.buffalo.edu/computer-science-engineering.html'>Department of Computer Science and Engineering</a>, <a href="https://www.buffalo.edu/">University at Buffalo</a><br>
+<a href="https://www.amazon.science/visiting-academics">Amazon Visiting Academic</a>, <a href="https://aws.amazon.com/neptune/">AWS Neptune</a>
 
 profile:
   align: right
