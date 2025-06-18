@@ -16,7 +16,7 @@ nav_order: 3
 
 <h4>Alumni</h4>
 <ul>
-    <li><a href="https://deerjason.github.io/jasonniu/">Jason Niu</a>, Ph.D., May 2025 (now at John Hopkins APL)</a></li>
+    <li><a href="https://deerjason.github.io/jasonniu/">Jason Niu</a>, Ph.D., May 2025 (now at John Hopkins APL)</li>
     <li>Jessica Breuhaus, B.S., May 2024 (now at Cornell)</li>
     <li>Mokshita Gupta, B.S., May 2024 (now at UCSD)</li>
     <li>Gurvinder Singh, M.S., May 2023 (now at Salesforce)</li>
