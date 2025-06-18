@@ -7,11 +7,7 @@ subtitle: <a href="https://engineering.buffalo.edu/computer-science-engineering/
 profile:
   align: right
   image: erdem.jpg
-  image_circular: true # crops the image to make it circular
-  address:
-    <p>erdem at buffalo dot edu</p>
-    <p>323 Davis Hall</p>
-    <p>Buffalo, NY 14260</p>
+  image_circular: false # crops the image to make it circular
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -26,3 +22,5 @@ My research is on <b>large-scale graph mining, management, and learning</b>. I d
 My work has been generously supported in part by grants from NSF, NSA, and J.P. Morgan Chase AI. I received NSF CAREER award and University at Buffalo Exceptional Scholar - Young Investigator Award.
 
 <a href="/name/">(More about my name and pronunciation)</a> <br>
+
+Contact: <p>erdem at buffalo dot edu</p>
