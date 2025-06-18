@@ -23,4 +23,4 @@ My work has been generously supported in part by grants from NSF, NSA, and J.P. 
 
 <a href="/name/">(More about my name and pronunciation)</a> <br>
 
-Contact: <p>erdem at buffalo dot edu</p>
+Contact: <b>erdem at buffalo dot edu</b>
