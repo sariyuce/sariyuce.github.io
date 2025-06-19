@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/sariyuce-a-erdem.detail.html">Associate Professor</a>, <a href='https://engineering.buffalo.edu/computer-science-engineering.html'>Department of Computer Science and Engineering</a>, <a href="https://www.buffalo.edu/">University at Buffalo</a><br><a href="https://www.amazon.science/scholars">Amazon Scholar</a>, <a href="https://aws.amazon.com/neptune/">AWS Neptune</a>
+subtitle: Associate Professor, <a href='https://engineering.buffalo.edu/computer-science-engineering.html'>Department of Computer Science and Engineering</a>, <a href="https://www.buffalo.edu/">University at Buffalo (SUNY)</a><br>Amazon Scholar, <a href="https://aws.amazon.com/neptune/">AWS Neptune</a>
 
 profile:
   align: right
@@ -21,6 +21,7 @@ My research is on <b>large-scale graph mining, management, and learning</b>. I d
 
 My work has been generously supported in part by grants from NSF, NSA, and J.P. Morgan Chase AI. I received NSF CAREER award and University at Buffalo Exceptional Scholar - Young Investigator Award.
 
+Contact: <b>erdem at buffalo dot edu</b>
+
 <a href="/name/">(More about my name and pronunciation)</a> <br>
 
-Contact: <b>erdem at buffalo dot edu</b>
