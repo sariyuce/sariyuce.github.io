@@ -608,15 +608,11 @@ footer.sticky-bottom {
   }
 
   ol.bibliography {
-    --bib-count: 46;
     list-style: none;
     padding: 0;
     margin-top: 0;
-    counter-reset: bib-counter var(--bib-count);
-
 
     li {
-      counter-increment: bib-counter -1;
       margin-bottom: 1rem;
 
       .preview {
@@ -645,9 +641,6 @@ footer.sticky-bottom {
       }
 
       .title {
-        ::before {
-          content: counter(bib-counter) ". ";
-        }
         font-weight: bolder;
       }
 
