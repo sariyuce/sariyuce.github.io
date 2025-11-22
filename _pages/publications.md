@@ -13,7 +13,7 @@ nav_order: 1
 
 </div>
 
-<div class="post">
+<!-- <div class="post">
   <header class="post-header">
     <h1 class="post-title">thesis</h1>
     <p class="post-description"></p>
@@ -39,4 +39,4 @@ nav_order: 1
       </ol>
     </div>
   </article>
-</div>
+</div> -->

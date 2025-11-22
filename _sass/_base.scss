@@ -610,6 +610,7 @@ footer.sticky-bottom {
   ol.bibliography {
     list-style: disc;
     padding: 0;
+    padding-left: 1.5rem; /* ensures bullets are visible */
     margin-top: 0;
 
     li {
