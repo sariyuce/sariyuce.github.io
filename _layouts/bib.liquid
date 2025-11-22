@@ -2,7 +2,6 @@
 ---
 <!-- _layouts/bib.html -->
       <div class="row">
-
         <!-- Entry bib key -->
         <div id="{{entry.key}}" class="col-sm-8">
         <!-- Title -->
@@ -36,9 +35,9 @@
         {% assign proceedings = "inproceedings,incollection" | split: ','%}
         {% assign thesis = "thesis,mastersthesis,phdthesis" | split: ','%}
         {% if entry.type == "article" -%}
-          {%- capture entrytype -%}<abbr class="badge">{{entry.abbr}}</abbr><em><b>{{entry.journal}}{{ ", " }}{{entry.year}}</b></em>{%- endcapture -%}
+          {%- capture entrytype -%}<b>{{entry.abbr}}{{ " " }}{{entry.year}}{{ " - " }}{{entry.journal}}</b>{%- endcapture -%}
         {%- elsif proceedings contains entry.type -%}
-          {%- capture entrytype -%}<abbr class="badge">{{entry.abbr}}</abbr><em><b>{{entry.booktitle}}{{ ", " }}{{entry.year}}</b></em> {%- endcapture -%}
+          {%- capture entrytype -%}<b>{{entry.abbr}}{{ " " }}{{entry.year}}{{ " - " }}{{entry.booktitle}}</b> {%- endcapture -%}
         {%- elsif thesis contains entry.type -%}
           {%- capture entrytype -%}<em>{{entry.school}}</em> {%- endcapture -%}
         {%- endif -%}
