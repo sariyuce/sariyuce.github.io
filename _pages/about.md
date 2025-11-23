@@ -6,7 +6,7 @@ subtitle: Associate Professor, <a href='https://engineering.buffalo.edu/computer
 
 profile:
   align: right
-  image: erdem.jpg
+  image: aes.jpg
   image_circular: false # crops the image to make it circular
 
 news: true  # includes a list of news items
