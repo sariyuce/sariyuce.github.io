@@ -16,10 +16,11 @@ nav_order: 3
 
 <h4>Alumni</h4>
 <ul>
-    <li><a href="https://deerjason.github.io/jasonniu/">Jason Niu</a>, Ph.D., May 2025 (now at John Hopkins APL)</li>
-    <li>Jessica Breuhaus, B.S., May 2024 (now at Cornell)</li>
-    <li>Mokshita Gupta, B.S., May 2024 (now at UCSD)</li>
-    <li>Gurvinder Singh, M.S., May 2023 (now at Salesforce)</li>
-    <li><a href="https://penghangliu.github.io/">Penghang Liu</a>, Ph.D., May 2023 (now at JPMorgan AI Research)</li>
-    <li>Md. Moniruzzaman Monir, M.S. May 2019 (now at Amazon)</li>
+    <li>Ahmet Demirbas, H.S., June 2025 (&rarr; Caltech)</li>
+    <li><a href="https://deerjason.github.io/jasonniu/">Jason Niu</a>, Ph.D., May 2025 (&rarr; John Hopkins APL)</li>
+    <li>Jessica Breuhaus, B.S., May 2024 (&rarr; Cornell)</li>
+    <li>Mokshita Gupta, B.S., May 2024 (&rarr; UCSD)</li>
+    <li>Gurvinder Singh, M.S., May 2023 (&rarr; Salesforce)</li>
+    <li><a href="https://penghangliu.github.io/">Penghang Liu</a>, Ph.D., May 2023 (&rarr; JPMorgan AI Research)</li>
+    <li>Md. Moniruzzaman Monir, M.S. May 2019 (&rarr; Amazon)</li>
 </ul>

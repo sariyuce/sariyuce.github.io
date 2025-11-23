@@ -15,13 +15,17 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<b>***I'm on sabbatical during 2024-2025 academic year.***</b>
+<b>***I'm currently on sabbatical.***</b>
 
-My research is on <b>large-scale graph mining, management, and learning</b>. I develop algorithms and models to enable practical and insightful graph analytics for the real-world data which can be large, streaming, incomplete, and noisy.
+My research develops scalable algorithms to analyze and learn from complex networks. 
+By uncovering how structures form and evolve, I create methods and models to
+understand, manage, and influence real-world social, financial, and technological systems.
 
 My work has been generously supported in part by grants from NSF, NSA, and J.P. Morgan Chase AI. I received NSF CAREER award and University at Buffalo Exceptional Scholar - Young Investigator Award.
 
+<a href="/name/">(More about my name and pronunciation)</a> <br>
+
 Contact: <b>erdem at buffalo dot edu</b>
 
-<a href="/name/">(More about my name and pronunciation)</a> <br>
+
 
