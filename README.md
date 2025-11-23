@@ -417,6 +417,7 @@ By default, there will be a related posts section on the bottom of the blog post
 
 #### Code quality checks
 
+
 Currently, we run some checks to ensure that the code quality and generated site are good. The checks are done using GitHub Actions and the following tools:
 
 - [Prettier](https://prettier.io/) - check if the formatting of the code follows the style guide
