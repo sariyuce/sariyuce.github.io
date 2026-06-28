@@ -93,6 +93,9 @@
           {%- if entry.website %}
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
           {%- endif %}
+          {%- if entry.blogpost %}
+            <a href="{{ entry.blogpost }}" class="btn btn-sm z-depth-0" role="button">Blog Post</a>
+          {%- endif %}
           {%- if entry.award %}
             <a class="btn btn-sm z-depth-1" style="background-color:red;color:white;"><b>{{entry.award}}</b></a>
           {%- endif %}
