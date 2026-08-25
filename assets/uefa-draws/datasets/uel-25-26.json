@@ -1,0 +1,1497 @@
+{
+  "id": "uel-25-26-league-phase",
+  "name": "UEL 2025-26 — League Phase",
+  "season": "2025-26",
+  "competition": "UEFA Europa League",
+  "phase": "League phase",
+  "directed": true,
+  "meta": {
+    "rounds": 8,
+    "roundLabel": "Matchday",
+    "groupings": [
+      "country",
+      "pot"
+    ]
+  },
+  "nodes": [
+    {
+      "id": "roma",
+      "label": "Roma",
+      "country": "Italy",
+      "countryCode": "ITA",
+      "pot": 1,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/330px-AS_Roma_logo_%282017%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "porto",
+      "label": "Porto",
+      "country": "Portugal",
+      "countryCode": "POR",
+      "pot": 1,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/FC_Porto.svg/330px-FC_Porto.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "rangers",
+      "label": "Rangers",
+      "country": "Scotland",
+      "countryCode": "SCO",
+      "pot": 1,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Rangers_FC.svg/330px-Rangers_FC.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "feyenoord",
+      "label": "Feyenoord",
+      "country": "Netherlands",
+      "countryCode": "NED",
+      "pot": 1,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Feyenoord_logo_since_2024.svg/960px-Feyenoord_logo_since_2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "lille",
+      "label": "Lille",
+      "country": "France",
+      "countryCode": "FRA",
+      "pot": 1,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Lille_OSC_2018_logo.svg/330px-Lille_OSC_2018_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "dinamo-zagreb",
+      "label": "Dinamo Zagreb",
+      "country": "Croatia",
+      "countryCode": "CRO",
+      "pot": 1,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Logo_GNK_Dinamo_Zagreb_%282019%29.svg/960px-Logo_GNK_Dinamo_Zagreb_%282019%29.svg.png",
+      "extra": {}
+    },
+    {
+      "id": "real-betis",
+      "label": "Real Betis",
+      "country": "Spain",
+      "countryCode": "ESP",
+      "pot": 1,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Real_betis_logo.svg/250px-Real_betis_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "red-bull-salzburg",
+      "label": "Red Bull Salzburg",
+      "country": "Austria",
+      "countryCode": "AUT",
+      "pot": 1,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/FC_Red_Bull_Salzburg_logo.svg/330px-FC_Red_Bull_Salzburg_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "aston-villa",
+      "label": "Aston Villa",
+      "country": "England",
+      "countryCode": "ENG",
+      "pot": 1,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aston_Villa_FC_new_crest.svg/330px-Aston_Villa_FC_new_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "fenerbahce",
+      "label": "Fenerbahçe",
+      "country": "Turkey",
+      "countryCode": "TUR",
+      "pot": 2,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Fenerbah%C3%A7e.svg/330px-Fenerbah%C3%A7e.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "braga",
+      "label": "Braga",
+      "country": "Portugal",
+      "countryCode": "POR",
+      "pot": 2,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/S.C._Braga_logo.svg/330px-S.C._Braga_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "red-star-belgrade",
+      "label": "Red Star Belgrade",
+      "country": "Serbia",
+      "countryCode": "SRB",
+      "pot": 2,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Red_Star_Belgrade_crest.svg/250px-Red_Star_Belgrade_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "lyon",
+      "label": "Lyon",
+      "country": "France",
+      "countryCode": "FRA",
+      "pot": 2,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Olympique_Lyonnais_logo.svg/330px-Olympique_Lyonnais_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "paok",
+      "label": "PAOK",
+      "country": "Greece",
+      "countryCode": "GRE",
+      "pot": 2,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/e6/PAOK_FC_EMBLEM.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "extra": {}
+    },
+    {
+      "id": "viktoria-plzen",
+      "label": "Viktoria Plzeň",
+      "country": "Czechia",
+      "countryCode": "CZE",
+      "pot": 2,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Viktoria_Plzen_logo.svg/250px-Viktoria_Plzen_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "ferencvaros",
+      "label": "Ferencváros",
+      "country": "Hungary",
+      "countryCode": "HUN",
+      "pot": 2,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ferencvarosi_TC.svg/960px-Ferencvarosi_TC.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "celtic",
+      "label": "Celtic",
+      "country": "Scotland",
+      "countryCode": "SCO",
+      "pot": 2,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Celtic_FC_crest.svg/330px-Celtic_FC_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "maccabi-tel-aviv",
+      "label": "Maccabi Tel Aviv",
+      "country": "Israel",
+      "countryCode": "ISR",
+      "pot": 2,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/e9/Maccabi_Tel_Aviv.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "extra": {}
+    },
+    {
+      "id": "young-boys",
+      "label": "Young Boys",
+      "country": "Switzerland",
+      "countryCode": "SUI",
+      "pot": 3,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/BSC_Young_Boys.svg/960px-BSC_Young_Boys.svg.png",
+      "extra": {}
+    },
+    {
+      "id": "basel",
+      "label": "Basel",
+      "country": "Switzerland",
+      "countryCode": "SUI",
+      "pot": 3,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/FC_Basel_crest.svg/330px-FC_Basel_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "midtjylland",
+      "label": "Midtjylland",
+      "country": "Denmark",
+      "countryCode": "DEN",
+      "pot": 3,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/FC_Midtjylland_logo.svg/330px-FC_Midtjylland_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "sc-freiburg",
+      "label": "SC Freiburg",
+      "country": "Germany",
+      "countryCode": "GER",
+      "pot": 3,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/SC_Freiburg_logo.svg/330px-SC_Freiburg_logo.svg.png",
+      "extra": {}
+    },
+    {
+      "id": "ludogorets-razgrad",
+      "label": "Ludogorets Razgrad",
+      "country": "Bulgaria",
+      "countryCode": "BUL",
+      "pot": 3,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/PFC_Ludogorets_Razgrad_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "extra": {}
+    },
+    {
+      "id": "nottingham-forest",
+      "label": "Nottingham Forest",
+      "country": "England",
+      "countryCode": "ENG",
+      "pot": 3,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/120px-Nottingham_Forest_F.C._logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "sturm-graz",
+      "label": "Sturm Graz",
+      "country": "Austria",
+      "countryCode": "AUT",
+      "pot": 3,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/SK_Sturm_Graz_logo.svg/330px-SK_Sturm_Graz_logo.svg.png",
+      "extra": {}
+    },
+    {
+      "id": "fcsb",
+      "label": "FCSB",
+      "country": "Romania",
+      "countryCode": "ROU",
+      "pot": 3,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fcsb-logo.svg/500px-Fcsb-logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "nice",
+      "label": "Nice",
+      "country": "France",
+      "countryCode": "FRA",
+      "pot": 3,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/OGC_Nice_logo.svg/250px-OGC_Nice_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "bologna",
+      "label": "Bologna",
+      "country": "Italy",
+      "countryCode": "ITA",
+      "pot": 4,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bologna_F.C._1909_logo.svg/250px-Bologna_F.C._1909_logo.svg.png",
+      "extra": {}
+    },
+    {
+      "id": "celta-vigo",
+      "label": "Celta Vigo",
+      "country": "Spain",
+      "countryCode": "ESP",
+      "pot": 4,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/250px-RC_Celta_de_Vigo_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "vfb-stuttgart",
+      "label": "VfB Stuttgart",
+      "country": "Germany",
+      "countryCode": "GER",
+      "pot": 4,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/500px-VfB_Stuttgart_1893_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "panathinaikos",
+      "label": "Panathinaikos",
+      "country": "Greece",
+      "countryCode": "GRE",
+      "pot": 4,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Panathinaikos_F.C._logo.svg/330px-Panathinaikos_F.C._logo.svg.png",
+      "extra": {}
+    },
+    {
+      "id": "malmo-ff",
+      "label": "Malmö FF",
+      "country": "Sweden",
+      "countryCode": "SWE",
+      "pot": 4,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Malmo_FF_logo.svg/250px-Malmo_FF_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "go-ahead-eagles",
+      "label": "Go Ahead Eagles",
+      "country": "Netherlands",
+      "countryCode": "NED",
+      "pot": 4,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Go_Ahead_Eagles_logo.svg/330px-Go_Ahead_Eagles_logo.svg.png",
+      "extra": {}
+    },
+    {
+      "id": "utrecht",
+      "label": "Utrecht",
+      "country": "Netherlands",
+      "countryCode": "NED",
+      "pot": 4,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/500px-Logo_FC_Utrecht.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "genk",
+      "label": "Genk",
+      "country": "Belgium",
+      "countryCode": "BEL",
+      "pot": 4,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_KRC_Genk.png",
+      "extra": {}
+    },
+    {
+      "id": "brann",
+      "label": "Brann",
+      "country": "Norway",
+      "countryCode": "NOR",
+      "pot": 4,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Brann_logo.svg/330px-Brann_logo.svg.png",
+      "extra": {}
+    }
+  ],
+  "edges": [
+    {
+      "id": "md1-midtjylland-sturm-graz",
+      "source": "midtjylland",
+      "target": "sturm-graz",
+      "round": 1,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md1-paok-maccabi-tel-aviv",
+      "source": "paok",
+      "target": "maccabi-tel-aviv",
+      "round": 1,
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "id": "md1-red-star-belgrade-celtic",
+      "source": "red-star-belgrade",
+      "target": "celtic",
+      "round": 1,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md1-dinamo-zagreb-fenerbahce",
+      "source": "dinamo-zagreb",
+      "target": "fenerbahce",
+      "round": 1,
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "id": "md1-malmo-ff-ludogorets-razgrad",
+      "source": "malmo-ff",
+      "target": "ludogorets-razgrad",
+      "round": 1,
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "id": "md1-nice-roma",
+      "source": "nice",
+      "target": "roma",
+      "round": 1,
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "id": "md1-real-betis-nottingham-forest",
+      "source": "real-betis",
+      "target": "nottingham-forest",
+      "round": 1,
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "id": "md1-braga-feyenoord",
+      "source": "braga",
+      "target": "feyenoord",
+      "round": 1,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md1-sc-freiburg-basel",
+      "source": "sc-freiburg",
+      "target": "basel",
+      "round": 1,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md1-go-ahead-eagles-fcsb",
+      "source": "go-ahead-eagles",
+      "target": "fcsb",
+      "round": 1,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "md1-lille-brann",
+      "source": "lille",
+      "target": "brann",
+      "round": 1,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md1-aston-villa-bologna",
+      "source": "aston-villa",
+      "target": "bologna",
+      "round": 1,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md1-young-boys-panathinaikos",
+      "source": "young-boys",
+      "target": "panathinaikos",
+      "round": 1,
+      "homeGoals": 1,
+      "awayGoals": 4
+    },
+    {
+      "id": "md1-red-bull-salzburg-porto",
+      "source": "red-bull-salzburg",
+      "target": "porto",
+      "round": 1,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "md1-utrecht-lyon",
+      "source": "utrecht",
+      "target": "lyon",
+      "round": 1,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "md1-ferencvaros-viktoria-plzen",
+      "source": "ferencvaros",
+      "target": "viktoria-plzen",
+      "round": 1,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md1-rangers-genk",
+      "source": "rangers",
+      "target": "genk",
+      "round": 1,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "md1-vfb-stuttgart-celta-vigo",
+      "source": "vfb-stuttgart",
+      "target": "celta-vigo",
+      "round": 1,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md2-roma-lille",
+      "source": "roma",
+      "target": "lille",
+      "round": 2,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "md2-bologna-sc-freiburg",
+      "source": "bologna",
+      "target": "sc-freiburg",
+      "round": 2,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md2-celtic-braga",
+      "source": "celtic",
+      "target": "braga",
+      "round": 2,
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "id": "md2-viktoria-plzen-malmo-ff",
+      "source": "viktoria-plzen",
+      "target": "malmo-ff",
+      "round": 2,
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "id": "md2-fenerbahce-nice",
+      "source": "fenerbahce",
+      "target": "nice",
+      "round": 2,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md2-fcsb-young-boys",
+      "source": "fcsb",
+      "target": "young-boys",
+      "round": 2,
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "id": "md2-panathinaikos-go-ahead-eagles",
+      "source": "panathinaikos",
+      "target": "go-ahead-eagles",
+      "round": 2,
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "id": "md2-ludogorets-razgrad-real-betis",
+      "source": "ludogorets-razgrad",
+      "target": "real-betis",
+      "round": 2,
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "id": "md2-brann-utrecht",
+      "source": "brann",
+      "target": "utrecht",
+      "round": 2,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md2-basel-vfb-stuttgart",
+      "source": "basel",
+      "target": "vfb-stuttgart",
+      "round": 2,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md2-porto-red-star-belgrade",
+      "source": "porto",
+      "target": "red-star-belgrade",
+      "round": 2,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md2-feyenoord-aston-villa",
+      "source": "feyenoord",
+      "target": "aston-villa",
+      "round": 2,
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "id": "md2-genk-ferencvaros",
+      "source": "genk",
+      "target": "ferencvaros",
+      "round": 2,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "md2-maccabi-tel-aviv-dinamo-zagreb",
+      "source": "maccabi-tel-aviv",
+      "target": "dinamo-zagreb",
+      "round": 2,
+      "homeGoals": 1,
+      "awayGoals": 3
+    },
+    {
+      "id": "md2-nottingham-forest-midtjylland",
+      "source": "nottingham-forest",
+      "target": "midtjylland",
+      "round": 2,
+      "homeGoals": 2,
+      "awayGoals": 3
+    },
+    {
+      "id": "md2-lyon-red-bull-salzburg",
+      "source": "lyon",
+      "target": "red-bull-salzburg",
+      "round": 2,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md2-celta-vigo-paok",
+      "source": "celta-vigo",
+      "target": "paok",
+      "round": 2,
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "id": "md2-sturm-graz-rangers",
+      "source": "sturm-graz",
+      "target": "rangers",
+      "round": 2,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md3-red-bull-salzburg-ferencvaros",
+      "source": "red-bull-salzburg",
+      "target": "ferencvaros",
+      "round": 3,
+      "homeGoals": 2,
+      "awayGoals": 3
+    },
+    {
+      "id": "md3-fenerbahce-vfb-stuttgart",
+      "source": "fenerbahce",
+      "target": "vfb-stuttgart",
+      "round": 3,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md3-fcsb-bologna",
+      "source": "fcsb",
+      "target": "bologna",
+      "round": 3,
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "id": "md3-go-ahead-eagles-aston-villa",
+      "source": "go-ahead-eagles",
+      "target": "aston-villa",
+      "round": 3,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md3-genk-real-betis",
+      "source": "genk",
+      "target": "real-betis",
+      "round": 3,
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "id": "md3-lyon-basel",
+      "source": "lyon",
+      "target": "basel",
+      "round": 3,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md3-braga-red-star-belgrade",
+      "source": "braga",
+      "target": "red-star-belgrade",
+      "round": 3,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md3-brann-rangers",
+      "source": "brann",
+      "target": "rangers",
+      "round": 3,
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "id": "md3-feyenoord-panathinaikos",
+      "source": "feyenoord",
+      "target": "panathinaikos",
+      "round": 3,
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "id": "md3-roma-viktoria-plzen",
+      "source": "roma",
+      "target": "viktoria-plzen",
+      "round": 3,
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "id": "md3-young-boys-ludogorets-razgrad",
+      "source": "young-boys",
+      "target": "ludogorets-razgrad",
+      "round": 3,
+      "homeGoals": 3,
+      "awayGoals": 2
+    },
+    {
+      "id": "md3-celtic-sturm-graz",
+      "source": "celtic",
+      "target": "sturm-graz",
+      "round": 3,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md3-lille-paok",
+      "source": "lille",
+      "target": "paok",
+      "round": 3,
+      "homeGoals": 3,
+      "awayGoals": 4
+    },
+    {
+      "id": "md3-maccabi-tel-aviv-midtjylland",
+      "source": "maccabi-tel-aviv",
+      "target": "midtjylland",
+      "round": 3,
+      "homeGoals": 0,
+      "awayGoals": 3
+    },
+    {
+      "id": "md3-malmo-ff-dinamo-zagreb",
+      "source": "malmo-ff",
+      "target": "dinamo-zagreb",
+      "round": 3,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md3-nottingham-forest-porto",
+      "source": "nottingham-forest",
+      "target": "porto",
+      "round": 3,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md3-celta-vigo-nice",
+      "source": "celta-vigo",
+      "target": "nice",
+      "round": 3,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md3-sc-freiburg-utrecht",
+      "source": "sc-freiburg",
+      "target": "utrecht",
+      "round": 3,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md4-red-bull-salzburg-go-ahead-eagles",
+      "source": "red-bull-salzburg",
+      "target": "go-ahead-eagles",
+      "round": 4,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md4-basel-fcsb",
+      "source": "basel",
+      "target": "fcsb",
+      "round": 4,
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "id": "md4-midtjylland-celtic",
+      "source": "midtjylland",
+      "target": "celtic",
+      "round": 4,
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "id": "md4-utrecht-porto",
+      "source": "utrecht",
+      "target": "porto",
+      "round": 4,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md4-red-star-belgrade-lille",
+      "source": "red-star-belgrade",
+      "target": "lille",
+      "round": 4,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md4-dinamo-zagreb-celta-vigo",
+      "source": "dinamo-zagreb",
+      "target": "celta-vigo",
+      "round": 4,
+      "homeGoals": 0,
+      "awayGoals": 3
+    },
+    {
+      "id": "md4-malmo-ff-panathinaikos",
+      "source": "malmo-ff",
+      "target": "panathinaikos",
+      "round": 4,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "md4-nice-sc-freiburg",
+      "source": "nice",
+      "target": "sc-freiburg",
+      "round": 4,
+      "homeGoals": 1,
+      "awayGoals": 3
+    },
+    {
+      "id": "md4-sturm-graz-nottingham-forest",
+      "source": "sturm-graz",
+      "target": "nottingham-forest",
+      "round": 4,
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "id": "md4-aston-villa-maccabi-tel-aviv",
+      "source": "aston-villa",
+      "target": "maccabi-tel-aviv",
+      "round": 4,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md4-bologna-brann",
+      "source": "bologna",
+      "target": "brann",
+      "round": 4,
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "id": "md4-viktoria-plzen-fenerbahce",
+      "source": "viktoria-plzen",
+      "target": "fenerbahce",
+      "round": 4,
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "id": "md4-ferencvaros-ludogorets-razgrad",
+      "source": "ferencvaros",
+      "target": "ludogorets-razgrad",
+      "round": 4,
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "id": "md4-paok-young-boys",
+      "source": "paok",
+      "target": "young-boys",
+      "round": 4,
+      "homeGoals": 4,
+      "awayGoals": 0
+    },
+    {
+      "id": "md4-rangers-roma",
+      "source": "rangers",
+      "target": "roma",
+      "round": 4,
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "id": "md4-real-betis-lyon",
+      "source": "real-betis",
+      "target": "lyon",
+      "round": 4,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md4-braga-genk",
+      "source": "braga",
+      "target": "genk",
+      "round": 4,
+      "homeGoals": 3,
+      "awayGoals": 4
+    },
+    {
+      "id": "md4-vfb-stuttgart-feyenoord",
+      "source": "vfb-stuttgart",
+      "target": "feyenoord",
+      "round": 4,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md5-roma-midtjylland",
+      "source": "roma",
+      "target": "midtjylland",
+      "round": 5,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md5-aston-villa-young-boys",
+      "source": "aston-villa",
+      "target": "young-boys",
+      "round": 5,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md5-porto-nice",
+      "source": "porto",
+      "target": "nice",
+      "round": 5,
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "id": "md5-viktoria-plzen-sc-freiburg",
+      "source": "viktoria-plzen",
+      "target": "sc-freiburg",
+      "round": 5,
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "id": "md5-fenerbahce-ferencvaros",
+      "source": "fenerbahce",
+      "target": "ferencvaros",
+      "round": 5,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md5-feyenoord-celtic",
+      "source": "feyenoord",
+      "target": "celtic",
+      "round": 5,
+      "homeGoals": 1,
+      "awayGoals": 3
+    },
+    {
+      "id": "md5-lille-dinamo-zagreb",
+      "source": "lille",
+      "target": "dinamo-zagreb",
+      "round": 5,
+      "homeGoals": 4,
+      "awayGoals": 0
+    },
+    {
+      "id": "md5-paok-brann",
+      "source": "paok",
+      "target": "brann",
+      "round": 5,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md5-ludogorets-razgrad-celta-vigo",
+      "source": "ludogorets-razgrad",
+      "target": "celta-vigo",
+      "round": 5,
+      "homeGoals": 3,
+      "awayGoals": 2
+    },
+    {
+      "id": "md5-bologna-red-bull-salzburg",
+      "source": "bologna",
+      "target": "red-bull-salzburg",
+      "round": 5,
+      "homeGoals": 4,
+      "awayGoals": 1
+    },
+    {
+      "id": "md5-red-star-belgrade-fcsb",
+      "source": "red-star-belgrade",
+      "target": "fcsb",
+      "round": 5,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md5-go-ahead-eagles-vfb-stuttgart",
+      "source": "go-ahead-eagles",
+      "target": "vfb-stuttgart",
+      "round": 5,
+      "homeGoals": 0,
+      "awayGoals": 4
+    },
+    {
+      "id": "md5-genk-basel",
+      "source": "genk",
+      "target": "basel",
+      "round": 5,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md5-maccabi-tel-aviv-lyon",
+      "source": "maccabi-tel-aviv",
+      "target": "lyon",
+      "round": 5,
+      "homeGoals": 0,
+      "awayGoals": 6
+    },
+    {
+      "id": "md5-nottingham-forest-malmo-ff",
+      "source": "nottingham-forest",
+      "target": "malmo-ff",
+      "round": 5,
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "id": "md5-panathinaikos-sturm-graz",
+      "source": "panathinaikos",
+      "target": "sturm-graz",
+      "round": 5,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md5-rangers-braga",
+      "source": "rangers",
+      "target": "braga",
+      "round": 5,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md5-real-betis-utrecht",
+      "source": "real-betis",
+      "target": "utrecht",
+      "round": 5,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md6-young-boys-lille",
+      "source": "young-boys",
+      "target": "lille",
+      "round": 6,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md6-midtjylland-genk",
+      "source": "midtjylland",
+      "target": "genk",
+      "round": 6,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md6-utrecht-nottingham-forest",
+      "source": "utrecht",
+      "target": "nottingham-forest",
+      "round": 6,
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "id": "md6-ferencvaros-rangers",
+      "source": "ferencvaros",
+      "target": "rangers",
+      "round": 6,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md6-dinamo-zagreb-real-betis",
+      "source": "dinamo-zagreb",
+      "target": "real-betis",
+      "round": 6,
+      "homeGoals": 1,
+      "awayGoals": 3
+    },
+    {
+      "id": "md6-nice-braga",
+      "source": "nice",
+      "target": "braga",
+      "round": 6,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "md6-ludogorets-razgrad-paok",
+      "source": "ludogorets-razgrad",
+      "target": "paok",
+      "round": 6,
+      "homeGoals": 3,
+      "awayGoals": 3
+    },
+    {
+      "id": "md6-sturm-graz-red-star-belgrade",
+      "source": "sturm-graz",
+      "target": "red-star-belgrade",
+      "round": 6,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "md6-vfb-stuttgart-maccabi-tel-aviv",
+      "source": "vfb-stuttgart",
+      "target": "maccabi-tel-aviv",
+      "round": 6,
+      "homeGoals": 4,
+      "awayGoals": 1
+    },
+    {
+      "id": "md6-celtic-roma",
+      "source": "celtic",
+      "target": "roma",
+      "round": 6,
+      "homeGoals": 0,
+      "awayGoals": 3
+    },
+    {
+      "id": "md6-porto-malmo-ff",
+      "source": "porto",
+      "target": "malmo-ff",
+      "round": 6,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md6-basel-aston-villa",
+      "source": "basel",
+      "target": "aston-villa",
+      "round": 6,
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "id": "md6-fcsb-feyenoord",
+      "source": "fcsb",
+      "target": "feyenoord",
+      "round": 6,
+      "homeGoals": 4,
+      "awayGoals": 3
+    },
+    {
+      "id": "md6-lyon-go-ahead-eagles",
+      "source": "lyon",
+      "target": "go-ahead-eagles",
+      "round": 6,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md6-panathinaikos-viktoria-plzen",
+      "source": "panathinaikos",
+      "target": "viktoria-plzen",
+      "round": 6,
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "id": "md6-celta-vigo-bologna",
+      "source": "celta-vigo",
+      "target": "bologna",
+      "round": 6,
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "id": "md6-sc-freiburg-red-bull-salzburg",
+      "source": "sc-freiburg",
+      "target": "red-bull-salzburg",
+      "round": 6,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md6-brann-fenerbahce",
+      "source": "brann",
+      "target": "fenerbahce",
+      "round": 6,
+      "homeGoals": 0,
+      "awayGoals": 4
+    },
+    {
+      "id": "md7-bologna-celtic",
+      "source": "bologna",
+      "target": "celtic",
+      "round": 7,
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "id": "md7-young-boys-lyon",
+      "source": "young-boys",
+      "target": "lyon",
+      "round": 7,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "md7-viktoria-plzen-porto",
+      "source": "viktoria-plzen",
+      "target": "porto",
+      "round": 7,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md7-fenerbahce-aston-villa",
+      "source": "fenerbahce",
+      "target": "aston-villa",
+      "round": 7,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "md7-feyenoord-sturm-graz",
+      "source": "feyenoord",
+      "target": "sturm-graz",
+      "round": 7,
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "id": "md7-malmo-ff-red-star-belgrade",
+      "source": "malmo-ff",
+      "target": "red-star-belgrade",
+      "round": 7,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "md7-paok-real-betis",
+      "source": "paok",
+      "target": "real-betis",
+      "round": 7,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md7-sc-freiburg-maccabi-tel-aviv",
+      "source": "sc-freiburg",
+      "target": "maccabi-tel-aviv",
+      "round": 7,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md7-brann-midtjylland",
+      "source": "brann",
+      "target": "midtjylland",
+      "round": 7,
+      "homeGoals": 3,
+      "awayGoals": 3
+    },
+    {
+      "id": "md7-roma-vfb-stuttgart",
+      "source": "roma",
+      "target": "vfb-stuttgart",
+      "round": 7,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md7-red-bull-salzburg-basel",
+      "source": "red-bull-salzburg",
+      "target": "basel",
+      "round": 7,
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "id": "md7-ferencvaros-panathinaikos",
+      "source": "ferencvaros",
+      "target": "panathinaikos",
+      "round": 7,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md7-dinamo-zagreb-fcsb",
+      "source": "dinamo-zagreb",
+      "target": "fcsb",
+      "round": 7,
+      "homeGoals": 4,
+      "awayGoals": 1
+    },
+    {
+      "id": "md7-nice-go-ahead-eagles",
+      "source": "nice",
+      "target": "go-ahead-eagles",
+      "round": 7,
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "id": "md7-rangers-ludogorets-razgrad",
+      "source": "rangers",
+      "target": "ludogorets-razgrad",
+      "round": 7,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md7-celta-vigo-lille",
+      "source": "celta-vigo",
+      "target": "lille",
+      "round": 7,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md7-braga-nottingham-forest",
+      "source": "braga",
+      "target": "nottingham-forest",
+      "round": 7,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md7-utrecht-genk",
+      "source": "utrecht",
+      "target": "genk",
+      "round": 7,
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "id": "md8-aston-villa-red-bull-salzburg",
+      "source": "aston-villa",
+      "target": "red-bull-salzburg",
+      "round": 8,
+      "homeGoals": 3,
+      "awayGoals": 2
+    },
+    {
+      "id": "md8-celtic-utrecht",
+      "source": "celtic",
+      "target": "utrecht",
+      "round": 8,
+      "homeGoals": 4,
+      "awayGoals": 2
+    },
+    {
+      "id": "md8-porto-rangers",
+      "source": "porto",
+      "target": "rangers",
+      "round": 8,
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "id": "md8-basel-viktoria-plzen",
+      "source": "basel",
+      "target": "viktoria-plzen",
+      "round": 8,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "md8-midtjylland-dinamo-zagreb",
+      "source": "midtjylland",
+      "target": "dinamo-zagreb",
+      "round": 8,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md8-red-star-belgrade-celta-vigo",
+      "source": "red-star-belgrade",
+      "target": "celta-vigo",
+      "round": 8,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md8-fcsb-fenerbahce",
+      "source": "fcsb",
+      "target": "fenerbahce",
+      "round": 8,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md8-go-ahead-eagles-braga",
+      "source": "go-ahead-eagles",
+      "target": "braga",
+      "round": 8,
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "id": "md8-genk-malmo-ff",
+      "source": "genk",
+      "target": "malmo-ff",
+      "round": 8,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md8-lille-sc-freiburg",
+      "source": "lille",
+      "target": "sc-freiburg",
+      "round": 8,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md8-maccabi-tel-aviv-bologna",
+      "source": "maccabi-tel-aviv",
+      "target": "bologna",
+      "round": 8,
+      "homeGoals": 0,
+      "awayGoals": 3
+    },
+    {
+      "id": "md8-nottingham-forest-ferencvaros",
+      "source": "nottingham-forest",
+      "target": "ferencvaros",
+      "round": 8,
+      "homeGoals": 4,
+      "awayGoals": 0
+    },
+    {
+      "id": "md8-lyon-paok",
+      "source": "lyon",
+      "target": "paok",
+      "round": 8,
+      "homeGoals": 4,
+      "awayGoals": 2
+    },
+    {
+      "id": "md8-panathinaikos-roma",
+      "source": "panathinaikos",
+      "target": "roma",
+      "round": 8,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md8-ludogorets-razgrad-nice",
+      "source": "ludogorets-razgrad",
+      "target": "nice",
+      "round": 8,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md8-real-betis-feyenoord",
+      "source": "real-betis",
+      "target": "feyenoord",
+      "round": 8,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md8-sturm-graz-brann",
+      "source": "sturm-graz",
+      "target": "brann",
+      "round": 8,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md8-vfb-stuttgart-young-boys",
+      "source": "vfb-stuttgart",
+      "target": "young-boys",
+      "round": 8,
+      "homeGoals": 3,
+      "awayGoals": 2
+    }
+  ],
+  "clusters": []
+}

@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>European Football Match-up Graph</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <aside id="sidebar">
+    <h1>Match-ups</h1>
+    <p id="datasetMeta" class="muted"></p>
+
+    <label>Dataset
+      <select id="datasetSelect"></select>
+    </label>
+
+    <label>Layout
+      <select id="layoutSelect">
+        <option value="cocluster" selected>Co-cluster proximity (d3-force)</option>
+        <option value="concentric-pot">Concentric (by pot)</option>
+        <option value="circle-country">Circle (by country)</option>
+        <option value="circle-pot">Circle (by pot)</option>
+        <option value="cise-pot">Cluster circles by pot (CISE)</option>
+        <option value="cise-country">Cluster circles by country (CISE)</option>
+        <option value="radial-country">Radial: dense countries at center</option>
+        <option value="cola">Force (cola, no overlap)</option>
+        <option value="grid">Grid</option>
+        <option value="preset">Saved positions</option>
+      </select>
+    </label>
+
+    <fieldset id="coclusterTuning">
+      <legend>Co-cluster layout</legend>
+      <label class="range">
+        Edge length <output id="edgeLengthVal">1.0</output>
+        <input type="range" id="edgeLength" min="0.3" max="2.5" step="0.1" value="1.0" />
+      </label>
+      <label class="range">
+        Repulsion <output id="repulsionVal">1.0</output>
+        <input type="range" id="repulsion" min="0.2" max="2.5" step="0.1" value="1.0" />
+      </label>
+    </fieldset>
+
+    <label>Highlight country
+      <select id="countryHighlight"></select>
+    </label>
+
+    <div id="clusterControls">
+      <label>Highlight cluster
+        <select id="clusterHighlight"></select>
+      </label>
+      <label class="check">
+        <input type="checkbox" id="showAllClusters" /> Show all clusters
+      </label>
+    </div>
+
+    <label class="check">
+      <input type="checkbox" id="showEdgeLabels" checked /> Show scores on edges
+    </label>
+    <label class="check">
+      <input type="checkbox" id="colorEdges" checked /> Color & direction on edges
+    </label>
+    <label class="check">
+      <input type="checkbox" id="focusSelected" /> Focus selected node only
+    </label>
+    <label class="check">
+      <input type="checkbox" id="showLogos" checked /> Show team logos
+    </label>
+
+    <fieldset>
+      <legend>Positions</legend>
+      <div class="row">
+        <button id="pinPositions" type="button">Pin → save</button>
+        <button id="clearPositions" type="button">Clear saved</button>
+      </div>
+    </fieldset>
+
+    <div id="info" class="muted">Click a node or edge for details.</div>
+
+    <details id="legend">
+      <summary>Legend</summary>
+      <div id="legendBody"></div>
+    </details>
+  </aside>
+
+  <main id="cyWrap">
+    <div id="cy"></div>
+  </main>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
