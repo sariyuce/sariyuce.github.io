@@ -243,7 +243,10 @@ defaults:
 # -----------------------------------------------------------------------------
 
 jekyll-minifier:
-  exclude: ['robots.txt']
+  exclude:
+    - 'robots.txt'
+    - 'assets/uefa-draws/*'
+    - 'assets/uefa-draws/**/*'
   uglifier_args:
     harmony: true
 

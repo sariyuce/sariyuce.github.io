@@ -1,0 +1,129 @@
+:root {
+  --bg: #0f1115;
+  --panel: #171a21;
+  --border: #262a33;
+  --text: #e6e8ee;
+  --muted: #8a90a0;
+  --accent: #5cc8ff;
+}
+
+* { box-sizing: border-box; }
+
+html, body { margin: 0; height: 100%; background: var(--bg); color: var(--text);
+  font: 13px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+
+body { display: grid; grid-template-columns: 280px 1fr; height: 100vh; }
+
+#sidebar {
+  background: var(--panel);
+  border-right: 1px solid var(--border);
+  padding: 14px 16px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+#sidebar h1 {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.2px;
+}
+
+#sidebar label {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+#sidebar label.check {
+  flex-direction: row;
+  align-items: center;
+  gap: 6px;
+  color: var(--text);
+  font-size: 13px;
+}
+
+#sidebar select, #sidebar button {
+  background: #0c0e13;
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 5px 8px;
+  font: inherit;
+}
+#sidebar button { cursor: pointer; }
+#sidebar button:hover { border-color: var(--accent); }
+
+#sidebar fieldset {
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 8px 10px 10px;
+  margin: 0;
+}
+#sidebar legend { color: var(--muted); padding: 0 4px; font-size: 12px; }
+
+.row { display: flex; gap: 6px; margin-top: 6px; }
+.row button { flex: 1; }
+
+.muted { color: var(--muted); font-size: 12px; }
+
+label.range {
+  flex-direction: column;
+  gap: 2px;
+}
+label.range output {
+  float: right;
+  font-variant-numeric: tabular-nums;
+  color: var(--text);
+}
+label.range input[type="range"] { width: 100%; accent-color: var(--accent); }
+
+#matchdayFilter {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 4px;
+}
+#matchdayFilter label {
+  flex-direction: row;
+  align-items: center;
+  gap: 4px;
+  color: var(--text);
+  font-size: 12px;
+  padding: 2px 4px;
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  cursor: pointer;
+}
+#matchdayFilter input { margin: 0; }
+
+#clusterControls { display: flex; flex-direction: column; gap: 6px; }
+
+#info {
+  margin-top: 4px;
+  padding: 8px;
+  background: #0c0e13;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  min-height: 60px;
+  white-space: pre-line;
+}
+
+#legend summary { cursor: pointer; color: var(--muted); }
+#legendBody { padding-top: 8px; display: grid; gap: 4px; }
+.legendRow { display: flex; align-items: center; gap: 6px; font-size: 12px; }
+.legendSwatch { width: 14px; height: 14px; border-radius: 3px; border: 1px solid #0006; }
+.legendBorder {
+  width: 18px; height: 12px; border-radius: 2px; background: var(--bg);
+  border: 2px solid #cdd1da;
+}
+.legendBorder.solid { border-style: solid; }
+.legendBorder.dashed { border-style: dashed; }
+.legendBorder.dotted { border-style: dotted; }
+.legendBorder.double { border-style: double; border-width: 4px; }
+
+#cyWrap { position: relative; }
+#cy { position: absolute; inset: 0; }

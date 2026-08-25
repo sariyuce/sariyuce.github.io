@@ -1,0 +1,1497 @@
+{
+  "id": "uel-24-25-league-phase",
+  "name": "UEL 2024-25 — League Phase",
+  "season": "2024-25",
+  "competition": "UEFA Europa League",
+  "phase": "League phase",
+  "directed": true,
+  "meta": {
+    "rounds": 8,
+    "roundLabel": "Matchday",
+    "groupings": [
+      "country",
+      "pot"
+    ]
+  },
+  "nodes": [
+    {
+      "id": "roma",
+      "label": "Roma",
+      "country": "Italy",
+      "countryCode": "ITA",
+      "pot": 1,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/330px-AS_Roma_logo_%282017%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "manchester-united",
+      "label": "Manchester United",
+      "country": "England",
+      "countryCode": "ENG",
+      "pot": 1,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/330px-Manchester_United_FC_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "porto",
+      "label": "Porto",
+      "country": "Portugal",
+      "countryCode": "POR",
+      "pot": 1,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/FC_Porto.svg/330px-FC_Porto.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "ajax",
+      "label": "Ajax",
+      "country": "Netherlands",
+      "countryCode": "NED",
+      "pot": 1,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_AFC_Ajax_%281928-1991%2C_2025-%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "extra": {}
+    },
+    {
+      "id": "rangers",
+      "label": "Rangers",
+      "country": "Scotland",
+      "countryCode": "SCO",
+      "pot": 1,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Rangers_FC.svg/330px-Rangers_FC.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "eintracht-frankfurt",
+      "label": "Eintracht Frankfurt",
+      "country": "Germany",
+      "countryCode": "GER",
+      "pot": 1,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Eintracht_Frankfurt_crest.svg/330px-Eintracht_Frankfurt_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "lazio",
+      "label": "Lazio",
+      "country": "Italy",
+      "countryCode": "ITA",
+      "pot": 1,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/S.S._Lazio_badge.svg/250px-S.S._Lazio_badge.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "tottenham-hotspur",
+      "label": "Tottenham Hotspur",
+      "country": "England",
+      "countryCode": "ENG",
+      "pot": 1,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/120px-Tottenham_Hotspur.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "slavia-prague",
+      "label": "Slavia Prague",
+      "country": "Czechia",
+      "countryCode": "CZE",
+      "pot": 1,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/SK_Slavia_Praha_full_logo.svg/500px-SK_Slavia_Praha_full_logo.svg.png",
+      "extra": {}
+    },
+    {
+      "id": "real-sociedad",
+      "label": "Real Sociedad",
+      "country": "Spain",
+      "countryCode": "ESP",
+      "pot": 2,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Real_Sociedad_logo.svg/250px-Real_Sociedad_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "az",
+      "label": "AZ",
+      "country": "Netherlands",
+      "countryCode": "NED",
+      "pot": 2,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AZ_Alkmaar.svg/250px-AZ_Alkmaar.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "braga",
+      "label": "Braga",
+      "country": "Portugal",
+      "countryCode": "POR",
+      "pot": 2,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/S.C._Braga_logo.svg/330px-S.C._Braga_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "olympiacos",
+      "label": "Olympiacos",
+      "country": "Greece",
+      "countryCode": "GRE",
+      "pot": 2,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Olympiacos_FC_crest.svg/330px-Olympiacos_FC_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "lyon",
+      "label": "Lyon",
+      "country": "France",
+      "countryCode": "FRA",
+      "pot": 2,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Olympique_Lyonnais_logo.svg/330px-Olympique_Lyonnais_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "paok",
+      "label": "PAOK",
+      "country": "Greece",
+      "countryCode": "GRE",
+      "pot": 2,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/e6/PAOK_FC_EMBLEM.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "extra": {}
+    },
+    {
+      "id": "fenerbahce",
+      "label": "Fenerbahçe",
+      "country": "Turkey",
+      "countryCode": "TUR",
+      "pot": 2,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Fenerbah%C3%A7e.svg/330px-Fenerbah%C3%A7e.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "maccabi-tel-aviv",
+      "label": "Maccabi Tel Aviv",
+      "country": "Israel",
+      "countryCode": "ISR",
+      "pot": 2,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/e9/Maccabi_Tel_Aviv.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "extra": {}
+    },
+    {
+      "id": "ferencvaros",
+      "label": "Ferencváros",
+      "country": "Hungary",
+      "countryCode": "HUN",
+      "pot": 2,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ferencvarosi_TC.svg/960px-Ferencvarosi_TC.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "qarabag",
+      "label": "Qarabağ",
+      "country": "Azerbaijan",
+      "countryCode": "AZE",
+      "pot": 3,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Qaraba%C4%9F_FK_logo.svg/250px-Qaraba%C4%9F_FK_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "galatasaray",
+      "label": "Galatasaray",
+      "country": "Turkey",
+      "countryCode": "TUR",
+      "pot": 3,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Galatasaray_S.K._Logo_2026_5-stars.svg/1920px-Galatasaray_S.K._Logo_2026_5-stars.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "viktoria-plzen",
+      "label": "Viktoria Plzeň",
+      "country": "Czechia",
+      "countryCode": "CZE",
+      "pot": 3,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Viktoria_Plzen_logo.svg/250px-Viktoria_Plzen_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "bod-glimt",
+      "label": "Bodø/Glimt",
+      "country": "Norway",
+      "countryCode": "NOR",
+      "pot": 3,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/FK_Bodo_Glimt_logo.svg/250px-FK_Bodo_Glimt_logo.svg.png",
+      "extra": {}
+    },
+    {
+      "id": "union-saint-gilloise",
+      "label": "Union Saint-Gilloise",
+      "country": "Belgium",
+      "countryCode": "BEL",
+      "pot": 3,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f6/USG.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "extra": {}
+    },
+    {
+      "id": "dynamo-kyiv",
+      "label": "Dynamo Kyiv",
+      "country": "Ukraine",
+      "countryCode": "UKR",
+      "pot": 3,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dynamo_logo.svg/500px-Dynamo_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "ludogorets-razgrad",
+      "label": "Ludogorets Razgrad",
+      "country": "Bulgaria",
+      "countryCode": "BUL",
+      "pot": 3,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/PFC_Ludogorets_Razgrad_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "extra": {}
+    },
+    {
+      "id": "midtjylland",
+      "label": "Midtjylland",
+      "country": "Denmark",
+      "countryCode": "DEN",
+      "pot": 3,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/FC_Midtjylland_logo.svg/330px-FC_Midtjylland_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "malmo-ff",
+      "label": "Malmö FF",
+      "country": "Sweden",
+      "countryCode": "SWE",
+      "pot": 3,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Malmo_FF_logo.svg/250px-Malmo_FF_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "athletic-bilbao",
+      "label": "Athletic Bilbao",
+      "country": "Spain",
+      "countryCode": "ESP",
+      "pot": 4,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Club_Athletic_Bilbao_logo.svg/250px-Club_Athletic_Bilbao_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "tsg-hoffenheim",
+      "label": "TSG Hoffenheim",
+      "country": "Germany",
+      "countryCode": "GER",
+      "pot": 4,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_TSG_Hoffenheim.svg/960px-Logo_TSG_Hoffenheim.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "nice",
+      "label": "Nice",
+      "country": "France",
+      "countryCode": "FRA",
+      "pot": 4,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/OGC_Nice_logo.svg/250px-OGC_Nice_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "anderlecht",
+      "label": "Anderlecht",
+      "country": "Belgium",
+      "countryCode": "BEL",
+      "pot": 4,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/R.S.C._Anderlecht.svg/330px-R.S.C._Anderlecht.svg.png",
+      "extra": {}
+    },
+    {
+      "id": "twente",
+      "label": "Twente",
+      "country": "Netherlands",
+      "countryCode": "NED",
+      "pot": 4,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/FC_Twente.svg/330px-FC_Twente.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "besiktas",
+      "label": "Beşiktaş",
+      "country": "Turkey",
+      "countryCode": "TUR",
+      "pot": 4,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/BesiktasJK-Logo.svg/250px-BesiktasJK-Logo.svg.png",
+      "extra": {}
+    },
+    {
+      "id": "fcsb",
+      "label": "FCSB",
+      "country": "Romania",
+      "countryCode": "ROU",
+      "pot": 4,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fcsb-logo.svg/500px-Fcsb-logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "rfs",
+      "label": "RFS",
+      "country": "Latvia",
+      "countryCode": "LVA",
+      "pot": 4,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/FK_RFS_logo.svg/330px-FK_RFS_logo.svg.png",
+      "extra": {}
+    },
+    {
+      "id": "if-elfsborg",
+      "label": "IF Elfsborg",
+      "country": "Sweden",
+      "countryCode": "SWE",
+      "pot": 4,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/IF_Elfsborg_logo.svg/330px-IF_Elfsborg_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    }
+  ],
+  "edges": [
+    {
+      "id": "md1-az-if-elfsborg",
+      "source": "az",
+      "target": "if-elfsborg",
+      "round": 1,
+      "homeGoals": 3,
+      "awayGoals": 2
+    },
+    {
+      "id": "md1-bod-glimt-porto",
+      "source": "bod-glimt",
+      "target": "porto",
+      "round": 1,
+      "homeGoals": 3,
+      "awayGoals": 2
+    },
+    {
+      "id": "md1-dynamo-kyiv-lazio",
+      "source": "dynamo-kyiv",
+      "target": "lazio",
+      "round": 1,
+      "homeGoals": 0,
+      "awayGoals": 3
+    },
+    {
+      "id": "md1-midtjylland-tsg-hoffenheim",
+      "source": "midtjylland",
+      "target": "tsg-hoffenheim",
+      "round": 1,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md1-galatasaray-paok",
+      "source": "galatasaray",
+      "target": "paok",
+      "round": 1,
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "id": "md1-manchester-united-twente",
+      "source": "manchester-united",
+      "target": "twente",
+      "round": 1,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md1-nice-real-sociedad",
+      "source": "nice",
+      "target": "real-sociedad",
+      "round": 1,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md1-ludogorets-razgrad-slavia-prague",
+      "source": "ludogorets-razgrad",
+      "target": "slavia-prague",
+      "round": 1,
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "id": "md1-anderlecht-ferencvaros",
+      "source": "anderlecht",
+      "target": "ferencvaros",
+      "round": 1,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md1-fenerbahce-union-saint-gilloise",
+      "source": "fenerbahce",
+      "target": "union-saint-gilloise",
+      "round": 1,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md1-malmo-ff-rangers",
+      "source": "malmo-ff",
+      "target": "rangers",
+      "round": 1,
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "id": "md1-ajax-besiktas",
+      "source": "ajax",
+      "target": "besiktas",
+      "round": 1,
+      "homeGoals": 4,
+      "awayGoals": 0
+    },
+    {
+      "id": "md1-roma-athletic-bilbao",
+      "source": "roma",
+      "target": "athletic-bilbao",
+      "round": 1,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md1-eintracht-frankfurt-viktoria-plzen",
+      "source": "eintracht-frankfurt",
+      "target": "viktoria-plzen",
+      "round": 1,
+      "homeGoals": 3,
+      "awayGoals": 3
+    },
+    {
+      "id": "md1-fcsb-rfs",
+      "source": "fcsb",
+      "target": "rfs",
+      "round": 1,
+      "homeGoals": 4,
+      "awayGoals": 1
+    },
+    {
+      "id": "md1-lyon-olympiacos",
+      "source": "lyon",
+      "target": "olympiacos",
+      "round": 1,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md1-braga-maccabi-tel-aviv",
+      "source": "braga",
+      "target": "maccabi-tel-aviv",
+      "round": 1,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md1-tottenham-hotspur-qarabag",
+      "source": "tottenham-hotspur",
+      "target": "qarabag",
+      "round": 1,
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "id": "md2-rfs-galatasaray",
+      "source": "rfs",
+      "target": "galatasaray",
+      "round": 2,
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "id": "md2-ferencvaros-tottenham-hotspur",
+      "source": "ferencvaros",
+      "target": "tottenham-hotspur",
+      "round": 2,
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "id": "md2-maccabi-tel-aviv-midtjylland",
+      "source": "maccabi-tel-aviv",
+      "target": "midtjylland",
+      "round": 2,
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "id": "md2-olympiacos-braga",
+      "source": "olympiacos",
+      "target": "braga",
+      "round": 2,
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "id": "md2-qarabag-malmo-ff",
+      "source": "qarabag",
+      "target": "malmo-ff",
+      "round": 2,
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "id": "md2-real-sociedad-anderlecht",
+      "source": "real-sociedad",
+      "target": "anderlecht",
+      "round": 2,
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "id": "md2-lazio-nice",
+      "source": "lazio",
+      "target": "nice",
+      "round": 2,
+      "homeGoals": 4,
+      "awayGoals": 1
+    },
+    {
+      "id": "md2-slavia-prague-ajax",
+      "source": "slavia-prague",
+      "target": "ajax",
+      "round": 2,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md2-tsg-hoffenheim-dynamo-kyiv",
+      "source": "tsg-hoffenheim",
+      "target": "dynamo-kyiv",
+      "round": 2,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md2-athletic-bilbao-az",
+      "source": "athletic-bilbao",
+      "target": "az",
+      "round": 2,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md2-besiktas-eintracht-frankfurt",
+      "source": "besiktas",
+      "target": "eintracht-frankfurt",
+      "round": 2,
+      "homeGoals": 1,
+      "awayGoals": 3
+    },
+    {
+      "id": "md2-porto-manchester-united",
+      "source": "porto",
+      "target": "manchester-united",
+      "round": 2,
+      "homeGoals": 3,
+      "awayGoals": 3
+    },
+    {
+      "id": "md2-twente-fenerbahce",
+      "source": "twente",
+      "target": "fenerbahce",
+      "round": 2,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md2-viktoria-plzen-ludogorets-razgrad",
+      "source": "viktoria-plzen",
+      "target": "ludogorets-razgrad",
+      "round": 2,
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "id": "md2-if-elfsborg-roma",
+      "source": "if-elfsborg",
+      "target": "roma",
+      "round": 2,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md2-paok-fcsb",
+      "source": "paok",
+      "target": "fcsb",
+      "round": 2,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "md2-union-saint-gilloise-bod-glimt",
+      "source": "union-saint-gilloise",
+      "target": "bod-glimt",
+      "round": 2,
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "id": "md2-rangers-lyon",
+      "source": "rangers",
+      "target": "lyon",
+      "round": 2,
+      "homeGoals": 1,
+      "awayGoals": 4
+    },
+    {
+      "id": "md3-galatasaray-if-elfsborg",
+      "source": "galatasaray",
+      "target": "if-elfsborg",
+      "round": 3,
+      "homeGoals": 4,
+      "awayGoals": 3
+    },
+    {
+      "id": "md3-braga-bod-glimt",
+      "source": "braga",
+      "target": "bod-glimt",
+      "round": 3,
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "id": "md3-roma-dynamo-kyiv",
+      "source": "roma",
+      "target": "dynamo-kyiv",
+      "round": 3,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md3-eintracht-frankfurt-rfs",
+      "source": "eintracht-frankfurt",
+      "target": "rfs",
+      "round": 3,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md3-midtjylland-union-saint-gilloise",
+      "source": "midtjylland",
+      "target": "union-saint-gilloise",
+      "round": 3,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md3-ferencvaros-nice",
+      "source": "ferencvaros",
+      "target": "nice",
+      "round": 3,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md3-maccabi-tel-aviv-real-sociedad",
+      "source": "maccabi-tel-aviv",
+      "target": "real-sociedad",
+      "round": 3,
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "id": "md3-paok-viktoria-plzen",
+      "source": "paok",
+      "target": "viktoria-plzen",
+      "round": 3,
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "id": "md3-qarabag-ajax",
+      "source": "qarabag",
+      "target": "ajax",
+      "round": 3,
+      "homeGoals": 0,
+      "awayGoals": 3
+    },
+    {
+      "id": "md3-athletic-bilbao-slavia-prague",
+      "source": "athletic-bilbao",
+      "target": "slavia-prague",
+      "round": 3,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md3-porto-tsg-hoffenheim",
+      "source": "porto",
+      "target": "tsg-hoffenheim",
+      "round": 3,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md3-twente-lazio",
+      "source": "twente",
+      "target": "lazio",
+      "round": 3,
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "id": "md3-fenerbahce-manchester-united",
+      "source": "fenerbahce",
+      "target": "manchester-united",
+      "round": 3,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md3-malmo-ff-olympiacos",
+      "source": "malmo-ff",
+      "target": "olympiacos",
+      "round": 3,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "md3-lyon-besiktas",
+      "source": "lyon",
+      "target": "besiktas",
+      "round": 3,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "md3-rangers-fcsb",
+      "source": "rangers",
+      "target": "fcsb",
+      "round": 3,
+      "homeGoals": 4,
+      "awayGoals": 0
+    },
+    {
+      "id": "md3-anderlecht-ludogorets-razgrad",
+      "source": "anderlecht",
+      "target": "ludogorets-razgrad",
+      "round": 3,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md3-tottenham-hotspur-az",
+      "source": "tottenham-hotspur",
+      "target": "az",
+      "round": 3,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md4-besiktas-malmo-ff",
+      "source": "besiktas",
+      "target": "malmo-ff",
+      "round": 4,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md4-eintracht-frankfurt-slavia-prague",
+      "source": "eintracht-frankfurt",
+      "target": "slavia-prague",
+      "round": 4,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md4-bod-glimt-qarabag",
+      "source": "bod-glimt",
+      "target": "qarabag",
+      "round": 4,
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "id": "md4-fcsb-midtjylland",
+      "source": "fcsb",
+      "target": "midtjylland",
+      "round": 4,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md4-galatasaray-tottenham-hotspur",
+      "source": "galatasaray",
+      "target": "tottenham-hotspur",
+      "round": 4,
+      "homeGoals": 3,
+      "awayGoals": 2
+    },
+    {
+      "id": "md4-if-elfsborg-braga",
+      "source": "if-elfsborg",
+      "target": "braga",
+      "round": 4,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md4-nice-twente",
+      "source": "nice",
+      "target": "twente",
+      "round": 4,
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "id": "md4-olympiacos-rangers",
+      "source": "olympiacos",
+      "target": "rangers",
+      "round": 4,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md4-ludogorets-razgrad-athletic-bilbao",
+      "source": "ludogorets-razgrad",
+      "target": "athletic-bilbao",
+      "round": 4,
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "id": "md4-union-saint-gilloise-roma",
+      "source": "union-saint-gilloise",
+      "target": "roma",
+      "round": 4,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md4-ajax-maccabi-tel-aviv",
+      "source": "ajax",
+      "target": "maccabi-tel-aviv",
+      "round": 4,
+      "homeGoals": 5,
+      "awayGoals": 0
+    },
+    {
+      "id": "md4-az-fenerbahce",
+      "source": "az",
+      "target": "fenerbahce",
+      "round": 4,
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "id": "md4-dynamo-kyiv-ferencvaros",
+      "source": "dynamo-kyiv",
+      "target": "ferencvaros",
+      "round": 4,
+      "homeGoals": 0,
+      "awayGoals": 4
+    },
+    {
+      "id": "md4-rfs-anderlecht",
+      "source": "rfs",
+      "target": "anderlecht",
+      "round": 4,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md4-viktoria-plzen-real-sociedad",
+      "source": "viktoria-plzen",
+      "target": "real-sociedad",
+      "round": 4,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md4-manchester-united-paok",
+      "source": "manchester-united",
+      "target": "paok",
+      "round": 4,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md4-lazio-porto",
+      "source": "lazio",
+      "target": "porto",
+      "round": 4,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md4-tsg-hoffenheim-lyon",
+      "source": "tsg-hoffenheim",
+      "target": "lyon",
+      "round": 4,
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "id": "md5-athletic-bilbao-if-elfsborg",
+      "source": "athletic-bilbao",
+      "target": "if-elfsborg",
+      "round": 5,
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "id": "md5-az-galatasaray",
+      "source": "az",
+      "target": "galatasaray",
+      "round": 5,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md5-besiktas-maccabi-tel-aviv",
+      "source": "besiktas",
+      "target": "maccabi-tel-aviv",
+      "round": 5,
+      "homeGoals": 1,
+      "awayGoals": 3
+    },
+    {
+      "id": "md5-dynamo-kyiv-viktoria-plzen",
+      "source": "dynamo-kyiv",
+      "target": "viktoria-plzen",
+      "round": 5,
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "id": "md5-rfs-paok",
+      "source": "rfs",
+      "target": "paok",
+      "round": 5,
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "id": "md5-qarabag-lyon",
+      "source": "qarabag",
+      "target": "lyon",
+      "round": 5,
+      "homeGoals": 1,
+      "awayGoals": 4
+    },
+    {
+      "id": "md5-anderlecht-porto",
+      "source": "anderlecht",
+      "target": "porto",
+      "round": 5,
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "id": "md5-lazio-ludogorets-razgrad",
+      "source": "lazio",
+      "target": "ludogorets-razgrad",
+      "round": 5,
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "id": "md5-midtjylland-eintracht-frankfurt",
+      "source": "midtjylland",
+      "target": "eintracht-frankfurt",
+      "round": 5,
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "id": "md5-twente-union-saint-gilloise",
+      "source": "twente",
+      "target": "union-saint-gilloise",
+      "round": 5,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "md5-ferencvaros-malmo-ff",
+      "source": "ferencvaros",
+      "target": "malmo-ff",
+      "round": 5,
+      "homeGoals": 4,
+      "awayGoals": 1
+    },
+    {
+      "id": "md5-fcsb-olympiacos",
+      "source": "fcsb",
+      "target": "olympiacos",
+      "round": 5,
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "id": "md5-manchester-united-bod-glimt",
+      "source": "manchester-united",
+      "target": "bod-glimt",
+      "round": 5,
+      "homeGoals": 3,
+      "awayGoals": 2
+    },
+    {
+      "id": "md5-nice-rangers",
+      "source": "nice",
+      "target": "rangers",
+      "round": 5,
+      "homeGoals": 1,
+      "awayGoals": 4
+    },
+    {
+      "id": "md5-real-sociedad-ajax",
+      "source": "real-sociedad",
+      "target": "ajax",
+      "round": 5,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md5-braga-tsg-hoffenheim",
+      "source": "braga",
+      "target": "tsg-hoffenheim",
+      "round": 5,
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "id": "md5-slavia-prague-fenerbahce",
+      "source": "slavia-prague",
+      "target": "fenerbahce",
+      "round": 5,
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "id": "md5-tottenham-hotspur-roma",
+      "source": "tottenham-hotspur",
+      "target": "roma",
+      "round": 5,
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "id": "md6-fenerbahce-athletic-bilbao",
+      "source": "fenerbahce",
+      "target": "athletic-bilbao",
+      "round": 6,
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "id": "md6-roma-braga",
+      "source": "roma",
+      "target": "braga",
+      "round": 6,
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "id": "md6-viktoria-plzen-manchester-united",
+      "source": "viktoria-plzen",
+      "target": "manchester-united",
+      "round": 6,
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "id": "md6-malmo-ff-galatasaray",
+      "source": "malmo-ff",
+      "target": "galatasaray",
+      "round": 6,
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "id": "md6-olympiacos-twente",
+      "source": "olympiacos",
+      "target": "twente",
+      "round": 6,
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "id": "md6-paok-ferencvaros",
+      "source": "paok",
+      "target": "ferencvaros",
+      "round": 6,
+      "homeGoals": 5,
+      "awayGoals": 0
+    },
+    {
+      "id": "md6-ludogorets-razgrad-az",
+      "source": "ludogorets-razgrad",
+      "target": "az",
+      "round": 6,
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "id": "md6-union-saint-gilloise-nice",
+      "source": "union-saint-gilloise",
+      "target": "nice",
+      "round": 6,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md6-tsg-hoffenheim-fcsb",
+      "source": "tsg-hoffenheim",
+      "target": "fcsb",
+      "round": 6,
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "id": "md6-ajax-lazio",
+      "source": "ajax",
+      "target": "lazio",
+      "round": 6,
+      "homeGoals": 1,
+      "awayGoals": 3
+    },
+    {
+      "id": "md6-porto-midtjylland",
+      "source": "porto",
+      "target": "midtjylland",
+      "round": 6,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md6-bod-glimt-besiktas",
+      "source": "bod-glimt",
+      "target": "besiktas",
+      "round": 6,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md6-if-elfsborg-qarabag",
+      "source": "if-elfsborg",
+      "target": "qarabag",
+      "round": 6,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md6-maccabi-tel-aviv-rfs",
+      "source": "maccabi-tel-aviv",
+      "target": "rfs",
+      "round": 6,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md6-lyon-eintracht-frankfurt",
+      "source": "lyon",
+      "target": "eintracht-frankfurt",
+      "round": 6,
+      "homeGoals": 3,
+      "awayGoals": 2
+    },
+    {
+      "id": "md6-rangers-tottenham-hotspur",
+      "source": "rangers",
+      "target": "tottenham-hotspur",
+      "round": 6,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md6-real-sociedad-dynamo-kyiv",
+      "source": "real-sociedad",
+      "target": "dynamo-kyiv",
+      "round": 6,
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "id": "md6-slavia-prague-anderlecht",
+      "source": "slavia-prague",
+      "target": "anderlecht",
+      "round": 6,
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "id": "md7-galatasaray-dynamo-kyiv",
+      "source": "galatasaray",
+      "target": "dynamo-kyiv",
+      "round": 7,
+      "homeGoals": 3,
+      "awayGoals": 3
+    },
+    {
+      "id": "md7-besiktas-athletic-bilbao",
+      "source": "besiktas",
+      "target": "athletic-bilbao",
+      "round": 7,
+      "homeGoals": 4,
+      "awayGoals": 1
+    },
+    {
+      "id": "md7-az-roma",
+      "source": "az",
+      "target": "roma",
+      "round": 7,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md7-porto-olympiacos",
+      "source": "porto",
+      "target": "olympiacos",
+      "round": 7,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "md7-viktoria-plzen-anderlecht",
+      "source": "viktoria-plzen",
+      "target": "anderlecht",
+      "round": 7,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md7-fenerbahce-lyon",
+      "source": "fenerbahce",
+      "target": "lyon",
+      "round": 7,
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "id": "md7-bod-glimt-maccabi-tel-aviv",
+      "source": "bod-glimt",
+      "target": "maccabi-tel-aviv",
+      "round": 7,
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "id": "md7-malmo-ff-twente",
+      "source": "malmo-ff",
+      "target": "twente",
+      "round": 7,
+      "homeGoals": 2,
+      "awayGoals": 3
+    },
+    {
+      "id": "md7-qarabag-fcsb",
+      "source": "qarabag",
+      "target": "fcsb",
+      "round": 7,
+      "homeGoals": 2,
+      "awayGoals": 3
+    },
+    {
+      "id": "md7-tsg-hoffenheim-tottenham-hotspur",
+      "source": "tsg-hoffenheim",
+      "target": "tottenham-hotspur",
+      "round": 7,
+      "homeGoals": 2,
+      "awayGoals": 3
+    },
+    {
+      "id": "md7-eintracht-frankfurt-ferencvaros",
+      "source": "eintracht-frankfurt",
+      "target": "ferencvaros",
+      "round": 7,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md7-rfs-ajax",
+      "source": "rfs",
+      "target": "ajax",
+      "round": 7,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md7-if-elfsborg-nice",
+      "source": "if-elfsborg",
+      "target": "nice",
+      "round": 7,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md7-manchester-united-rangers",
+      "source": "manchester-united",
+      "target": "rangers",
+      "round": 7,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md7-paok-slavia-prague",
+      "source": "paok",
+      "target": "slavia-prague",
+      "round": 7,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md7-ludogorets-razgrad-midtjylland",
+      "source": "ludogorets-razgrad",
+      "target": "midtjylland",
+      "round": 7,
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "id": "md7-union-saint-gilloise-braga",
+      "source": "union-saint-gilloise",
+      "target": "braga",
+      "round": 7,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md7-lazio-real-sociedad",
+      "source": "lazio",
+      "target": "real-sociedad",
+      "round": 7,
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "id": "md8-ajax-galatasaray",
+      "source": "ajax",
+      "target": "galatasaray",
+      "round": 8,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md8-roma-eintracht-frankfurt",
+      "source": "roma",
+      "target": "eintracht-frankfurt",
+      "round": 8,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md8-athletic-bilbao-viktoria-plzen",
+      "source": "athletic-bilbao",
+      "target": "viktoria-plzen",
+      "round": 8,
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "id": "md8-dynamo-kyiv-rfs",
+      "source": "dynamo-kyiv",
+      "target": "rfs",
+      "round": 8,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md8-midtjylland-fenerbahce",
+      "source": "midtjylland",
+      "target": "fenerbahce",
+      "round": 8,
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "id": "md8-twente-besiktas",
+      "source": "twente",
+      "target": "besiktas",
+      "round": 8,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md8-ferencvaros-az",
+      "source": "ferencvaros",
+      "target": "az",
+      "round": 8,
+      "homeGoals": 4,
+      "awayGoals": 3
+    },
+    {
+      "id": "md8-fcsb-manchester-united",
+      "source": "fcsb",
+      "target": "manchester-united",
+      "round": 8,
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "id": "md8-maccabi-tel-aviv-porto",
+      "source": "maccabi-tel-aviv",
+      "target": "porto",
+      "round": 8,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "md8-nice-bod-glimt",
+      "source": "nice",
+      "target": "bod-glimt",
+      "round": 8,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md8-olympiacos-qarabag",
+      "source": "olympiacos",
+      "target": "qarabag",
+      "round": 8,
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "id": "md8-lyon-ludogorets-razgrad",
+      "source": "lyon",
+      "target": "ludogorets-razgrad",
+      "round": 8,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md8-rangers-union-saint-gilloise",
+      "source": "rangers",
+      "target": "union-saint-gilloise",
+      "round": 8,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md8-real-sociedad-paok",
+      "source": "real-sociedad",
+      "target": "paok",
+      "round": 8,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md8-anderlecht-tsg-hoffenheim",
+      "source": "anderlecht",
+      "target": "tsg-hoffenheim",
+      "round": 8,
+      "homeGoals": 3,
+      "awayGoals": 4
+    },
+    {
+      "id": "md8-braga-lazio",
+      "source": "braga",
+      "target": "lazio",
+      "round": 8,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md8-slavia-prague-malmo-ff",
+      "source": "slavia-prague",
+      "target": "malmo-ff",
+      "round": 8,
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "id": "md8-tottenham-hotspur-if-elfsborg",
+      "source": "tottenham-hotspur",
+      "target": "if-elfsborg",
+      "round": 8,
+      "homeGoals": 3,
+      "awayGoals": 0
+    }
+  ],
+  "clusters": []
+}

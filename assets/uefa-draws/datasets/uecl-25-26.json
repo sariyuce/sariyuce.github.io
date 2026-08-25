@@ -1,0 +1,1209 @@
+{
+  "id": "uecl-25-26-league-phase",
+  "name": "UECL 2025-26 — League Phase",
+  "season": "2025-26",
+  "competition": "UEFA Conference League",
+  "phase": "League phase",
+  "directed": true,
+  "meta": {
+    "rounds": 6,
+    "roundLabel": "Matchday",
+    "groupings": [
+      "country",
+      "pot"
+    ]
+  },
+  "nodes": [
+    {
+      "id": "fiorentina",
+      "label": "Fiorentina",
+      "country": "Italy",
+      "countryCode": "ITA",
+      "pot": 1,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg/120px-ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "az",
+      "label": "AZ",
+      "country": "Netherlands",
+      "countryCode": "NED",
+      "pot": 1,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AZ_Alkmaar.svg/250px-AZ_Alkmaar.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "shakhtar-donetsk",
+      "label": "Shakhtar Donetsk",
+      "country": "Ukraine",
+      "countryCode": "UKR",
+      "pot": 1,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/FC_Shakhtar_Donetsk.svg/330px-FC_Shakhtar_Donetsk.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "slovan-bratislava",
+      "label": "Slovan Bratislava",
+      "country": "Slovakia",
+      "countryCode": "SVK",
+      "pot": 1,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SK_Slovan_Bratislava_logo.svg/250px-SK_Slovan_Bratislava_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "rapid-wien",
+      "label": "Rapid Wien",
+      "country": "Austria",
+      "countryCode": "AUT",
+      "pot": 1,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/SK_Rapid_Wien_Logo.svg/500px-SK_Rapid_Wien_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "legia-warsaw",
+      "label": "Legia Warsaw",
+      "country": "Poland",
+      "countryCode": "POL",
+      "pot": 1,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Legia_Warsaw_logo.svg/330px-Legia_Warsaw_logo.svg.png",
+      "extra": {}
+    },
+    {
+      "id": "sparta-prague",
+      "label": "Sparta Prague",
+      "country": "Czechia",
+      "countryCode": "CZE",
+      "pot": 2,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/AC-Sparta-LOGO2021.svg/250px-AC-Sparta-LOGO2021.svg.png",
+      "extra": {}
+    },
+    {
+      "id": "dynamo-kyiv",
+      "label": "Dynamo Kyiv",
+      "country": "Ukraine",
+      "countryCode": "UKR",
+      "pot": 2,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dynamo_logo.svg/500px-Dynamo_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "crystal-palace",
+      "label": "Crystal Palace",
+      "country": "England",
+      "countryCode": "ENG",
+      "pot": 2,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Crystal_Palace_FC_logo_%282022%29.svg/330px-Crystal_Palace_FC_logo_%282022%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "lech-poznan",
+      "label": "Lech Poznań",
+      "country": "Poland",
+      "countryCode": "POL",
+      "pot": 2,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/KKS_Lech_Pozna%C5%84.svg/250px-KKS_Lech_Pozna%C5%84.svg.png",
+      "extra": {}
+    },
+    {
+      "id": "rayo-vallecano",
+      "label": "Rayo Vallecano",
+      "country": "Spain",
+      "countryCode": "ESP",
+      "pot": 2,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Rayo_Vallecano_logo.svg/330px-Rayo_Vallecano_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "shamrock-rovers",
+      "label": "Shamrock Rovers",
+      "country": "Republic of Ireland",
+      "countryCode": "IRL",
+      "pot": 2,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Shamrock_Rovers_F.C._crest.svg/330px-Shamrock_Rovers_F.C._crest.svg.png",
+      "extra": {}
+    },
+    {
+      "id": "omonia",
+      "label": "Omonia",
+      "country": "Cyprus",
+      "countryCode": "CYP",
+      "pot": 3,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/AC_Omonia_logo.svg/250px-AC_Omonia_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "mainz-05",
+      "label": "Mainz 05",
+      "country": "Germany",
+      "countryCode": "GER",
+      "pot": 3,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/1._FSV_Mainz_05_logo.svg/330px-1._FSV_Mainz_05_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "strasbourg",
+      "label": "Strasbourg",
+      "country": "France",
+      "countryCode": "FRA",
+      "pot": 3,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Racing_Club_de_Strasbourg_logo.svg/330px-Racing_Club_de_Strasbourg_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "jagiellonia-biaystok",
+      "label": "Jagiellonia Białystok",
+      "country": "Poland",
+      "countryCode": "POL",
+      "pot": 3,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Jagiellonia_Bia%C5%82ystok_logo.svg/250px-Jagiellonia_Bia%C5%82ystok_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "celje",
+      "label": "Celje",
+      "country": "Slovenia",
+      "countryCode": "SVN",
+      "pot": 3,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/f/fc/NK_Celje.png",
+      "extra": {}
+    },
+    {
+      "id": "rijeka",
+      "label": "Rijeka",
+      "country": "Croatia",
+      "countryCode": "CRO",
+      "pot": 3,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HNK_Rijeka.svg/330px-HNK_Rijeka.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "zrinjski-mostar",
+      "label": "Zrinjski Mostar",
+      "country": "Bosnia and Herzegovina",
+      "countryCode": "BIH",
+      "pot": 4,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/H%C5%A0K_Zrinjski_Mostar.svg/330px-H%C5%A0K_Zrinjski_Mostar.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "lincoln-red-imps",
+      "label": "Lincoln Red Imps",
+      "country": "Gibraltar",
+      "countryCode": "GIB",
+      "pot": 4,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Lincoln_Red_Imps_FC_logo.svg/330px-Lincoln_Red_Imps_FC_logo.svg.png",
+      "extra": {}
+    },
+    {
+      "id": "kups",
+      "label": "KuPS",
+      "country": "Finland",
+      "countryCode": "FIN",
+      "pot": 4,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/KuPS_logo.svg/250px-KuPS_logo.svg.png",
+      "extra": {}
+    },
+    {
+      "id": "aek-athens",
+      "label": "AEK Athens",
+      "country": "Greece",
+      "countryCode": "GRE",
+      "pot": 4,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/AEK_Athens_FC_logo.svg/120px-AEK_Athens_FC_logo.svg.png",
+      "extra": {}
+    },
+    {
+      "id": "aberdeen",
+      "label": "Aberdeen",
+      "country": "Scotland",
+      "countryCode": "SCO",
+      "pot": 4,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Aberdeen_FC_stars_crest.svg/250px-Aberdeen_FC_stars_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "drita",
+      "label": "Drita",
+      "country": "Kosovo",
+      "countryCode": "KOS",
+      "pot": 4,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/FC_Drita.svg/330px-FC_Drita.svg.png",
+      "extra": {}
+    },
+    {
+      "id": "breiablik",
+      "label": "Breiðablik",
+      "country": "Iceland",
+      "countryCode": "ISL",
+      "pot": 5,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/7/7b/Brei%C3%B0ablik_men%27s_football_logo.png",
+      "extra": {}
+    },
+    {
+      "id": "sigma-olomouc",
+      "label": "Sigma Olomouc",
+      "country": "Czechia",
+      "countryCode": "CZE",
+      "pot": 5,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/SK_Sigma_Olomouc_logo.svg/330px-SK_Sigma_Olomouc_logo.svg.png",
+      "extra": {}
+    },
+    {
+      "id": "samsunspor",
+      "label": "Samsunspor",
+      "country": "Turkey",
+      "countryCode": "TUR",
+      "pot": 5,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Samsunspor_crest.svg/250px-Samsunspor_crest.svg.png",
+      "extra": {}
+    },
+    {
+      "id": "rakow-czestochowa",
+      "label": "Raków Częstochowa",
+      "country": "Poland",
+      "countryCode": "POL",
+      "pot": 5,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Rks_rakow_crest_ai.svg/960px-Rks_rakow_crest_ai.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "aek-larnaca",
+      "label": "AEK Larnaca",
+      "country": "Cyprus",
+      "countryCode": "CYP",
+      "pot": 5,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/AEK_Larnaca_logo.svg/250px-AEK_Larnaca_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "shkendija",
+      "label": "Shkëndija",
+      "country": "North Macedonia",
+      "countryCode": "MKD",
+      "pot": 5,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/KF_Shk%C3%ABndija_Logo.svg/500px-KF_Shk%C3%ABndija_Logo.svg.png",
+      "extra": {}
+    },
+    {
+      "id": "bk-hacken",
+      "label": "BK Häcken",
+      "country": "Sweden",
+      "countryCode": "SWE",
+      "pot": 6,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/BK_Hacken_logo.svg/120px-BK_Hacken_logo.svg.png",
+      "extra": {}
+    },
+    {
+      "id": "lausanne-sport",
+      "label": "Lausanne-Sport",
+      "country": "Switzerland",
+      "countryCode": "SUI",
+      "pot": 6,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/FC_Lausanne-Sport_logo.svg/250px-FC_Lausanne-Sport_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "universitatea-craiova",
+      "label": "Universitatea Craiova",
+      "country": "Romania",
+      "countryCode": "ROU",
+      "pot": 6,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/CS_Universitatea_Craiova_logo.svg/250px-CS_Universitatea_Craiova_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "hamrun-spartans",
+      "label": "Hamrun Spartans",
+      "country": "Malta",
+      "countryCode": "MLT",
+      "pot": 6,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/de/Hamrun_badge_hi_deffb1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "extra": {}
+    },
+    {
+      "id": "noah",
+      "label": "Noah",
+      "country": "Armenia",
+      "countryCode": "ARM",
+      "pot": 6,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/FC_Noah_logo_%282024%29.svg/250px-FC_Noah_logo_%282024%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extra": {}
+    },
+    {
+      "id": "shelbourne",
+      "label": "Shelbourne",
+      "country": "Republic of Ireland",
+      "countryCode": "IRL",
+      "pot": 6,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Shelbourne_F.C._crest.svg/330px-Shelbourne_F.C._crest.svg.png",
+      "extra": {}
+    }
+  ],
+  "edges": [
+    {
+      "id": "md1-dynamo-kyiv-crystal-palace",
+      "source": "dynamo-kyiv",
+      "target": "crystal-palace",
+      "round": 1,
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "id": "md1-lausanne-sport-breiablik",
+      "source": "lausanne-sport",
+      "target": "breiablik",
+      "round": 1,
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "id": "md1-noah-rijeka",
+      "source": "noah",
+      "target": "rijeka",
+      "round": 1,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md1-zrinjski-mostar-lincoln-red-imps",
+      "source": "zrinjski-mostar",
+      "target": "lincoln-red-imps",
+      "round": 1,
+      "homeGoals": 5,
+      "awayGoals": 0
+    },
+    {
+      "id": "md1-jagiellonia-biaystok-hamrun-spartans",
+      "source": "jagiellonia-biaystok",
+      "target": "hamrun-spartans",
+      "round": 1,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md1-lech-poznan-rapid-wien",
+      "source": "lech-poznan",
+      "target": "rapid-wien",
+      "round": 1,
+      "homeGoals": 4,
+      "awayGoals": 1
+    },
+    {
+      "id": "md1-kups-drita",
+      "source": "kups",
+      "target": "drita",
+      "round": 1,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md1-omonia-mainz-05",
+      "source": "omonia",
+      "target": "mainz-05",
+      "round": 1,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "md1-rayo-vallecano-shkendija",
+      "source": "rayo-vallecano",
+      "target": "shkendija",
+      "round": 1,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md1-aberdeen-shakhtar-donetsk",
+      "source": "aberdeen",
+      "target": "shakhtar-donetsk",
+      "round": 1,
+      "homeGoals": 2,
+      "awayGoals": 3
+    },
+    {
+      "id": "md1-sparta-prague-shamrock-rovers",
+      "source": "sparta-prague",
+      "target": "shamrock-rovers",
+      "round": 1,
+      "homeGoals": 4,
+      "awayGoals": 1
+    },
+    {
+      "id": "md1-fiorentina-sigma-olomouc",
+      "source": "fiorentina",
+      "target": "sigma-olomouc",
+      "round": 1,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md1-aek-larnaca-az",
+      "source": "aek-larnaca",
+      "target": "az",
+      "round": 1,
+      "homeGoals": 4,
+      "awayGoals": 0
+    },
+    {
+      "id": "md1-legia-warsaw-samsunspor",
+      "source": "legia-warsaw",
+      "target": "samsunspor",
+      "round": 1,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "md1-celje-aek-athens",
+      "source": "celje",
+      "target": "aek-athens",
+      "round": 1,
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "id": "md1-rakow-czestochowa-universitatea-craiova",
+      "source": "rakow-czestochowa",
+      "target": "universitatea-craiova",
+      "round": 1,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md1-shelbourne-bk-hacken",
+      "source": "shelbourne",
+      "target": "bk-hacken",
+      "round": 1,
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "id": "md1-slovan-bratislava-strasbourg",
+      "source": "slovan-bratislava",
+      "target": "strasbourg",
+      "round": 1,
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "id": "md2-aek-athens-aberdeen",
+      "source": "aek-athens",
+      "target": "aberdeen",
+      "round": 2,
+      "homeGoals": 6,
+      "awayGoals": 0
+    },
+    {
+      "id": "md2-bk-hacken-rayo-vallecano",
+      "source": "bk-hacken",
+      "target": "rayo-vallecano",
+      "round": 2,
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "id": "md2-breiablik-kups",
+      "source": "breiablik",
+      "target": "kups",
+      "round": 2,
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "id": "md2-shakhtar-donetsk-legia-warsaw",
+      "source": "shakhtar-donetsk",
+      "target": "legia-warsaw",
+      "round": 2,
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "id": "md2-drita-omonia",
+      "source": "drita",
+      "target": "omonia",
+      "round": 2,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md2-rijeka-sparta-prague",
+      "source": "rijeka",
+      "target": "sparta-prague",
+      "round": 2,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md2-shkendija-shelbourne",
+      "source": "shkendija",
+      "target": "shelbourne",
+      "round": 2,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md2-strasbourg-jagiellonia-biaystok",
+      "source": "strasbourg",
+      "target": "jagiellonia-biaystok",
+      "round": 2,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md2-rapid-wien-fiorentina",
+      "source": "rapid-wien",
+      "target": "fiorentina",
+      "round": 2,
+      "homeGoals": 0,
+      "awayGoals": 3
+    },
+    {
+      "id": "md2-az-slovan-bratislava",
+      "source": "az",
+      "target": "slovan-bratislava",
+      "round": 2,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md2-mainz-05-zrinjski-mostar",
+      "source": "mainz-05",
+      "target": "zrinjski-mostar",
+      "round": 2,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md2-crystal-palace-aek-larnaca",
+      "source": "crystal-palace",
+      "target": "aek-larnaca",
+      "round": 2,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "md2-hamrun-spartans-lausanne-sport",
+      "source": "hamrun-spartans",
+      "target": "lausanne-sport",
+      "round": 2,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "md2-lincoln-red-imps-lech-poznan",
+      "source": "lincoln-red-imps",
+      "target": "lech-poznan",
+      "round": 2,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md2-samsunspor-dynamo-kyiv",
+      "source": "samsunspor",
+      "target": "dynamo-kyiv",
+      "round": 2,
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "id": "md2-shamrock-rovers-celje",
+      "source": "shamrock-rovers",
+      "target": "celje",
+      "round": 2,
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "id": "md2-sigma-olomouc-rakow-czestochowa",
+      "source": "sigma-olomouc",
+      "target": "rakow-czestochowa",
+      "round": 2,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md2-universitatea-craiova-noah",
+      "source": "universitatea-craiova",
+      "target": "noah",
+      "round": 2,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md3-mainz-05-fiorentina",
+      "source": "mainz-05",
+      "target": "fiorentina",
+      "round": 3,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md3-sparta-prague-rakow-czestochowa",
+      "source": "sparta-prague",
+      "target": "rakow-czestochowa",
+      "round": 3,
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "id": "md3-aek-athens-shamrock-rovers",
+      "source": "aek-athens",
+      "target": "shamrock-rovers",
+      "round": 3,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md3-aek-larnaca-aberdeen",
+      "source": "aek-larnaca",
+      "target": "aberdeen",
+      "round": 3,
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "id": "md3-shakhtar-donetsk-breiablik",
+      "source": "shakhtar-donetsk",
+      "target": "breiablik",
+      "round": 3,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md3-noah-sigma-olomouc",
+      "source": "noah",
+      "target": "sigma-olomouc",
+      "round": 3,
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "id": "md3-kups-slovan-bratislava",
+      "source": "kups",
+      "target": "slovan-bratislava",
+      "round": 3,
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "id": "md3-celje-legia-warsaw",
+      "source": "celje",
+      "target": "legia-warsaw",
+      "round": 3,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md3-samsunspor-hamrun-spartans",
+      "source": "samsunspor",
+      "target": "hamrun-spartans",
+      "round": 3,
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "id": "md3-bk-hacken-strasbourg",
+      "source": "bk-hacken",
+      "target": "strasbourg",
+      "round": 3,
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "id": "md3-crystal-palace-az",
+      "source": "crystal-palace",
+      "target": "az",
+      "round": 3,
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "id": "md3-lausanne-sport-omonia",
+      "source": "lausanne-sport",
+      "target": "omonia",
+      "round": 3,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md3-dynamo-kyiv-zrinjski-mostar",
+      "source": "dynamo-kyiv",
+      "target": "zrinjski-mostar",
+      "round": 3,
+      "homeGoals": 6,
+      "awayGoals": 0
+    },
+    {
+      "id": "md3-shkendija-jagiellonia-biaystok",
+      "source": "shkendija",
+      "target": "jagiellonia-biaystok",
+      "round": 3,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md3-lincoln-red-imps-rijeka",
+      "source": "lincoln-red-imps",
+      "target": "rijeka",
+      "round": 3,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md3-rayo-vallecano-lech-poznan",
+      "source": "rayo-vallecano",
+      "target": "lech-poznan",
+      "round": 3,
+      "homeGoals": 3,
+      "awayGoals": 2
+    },
+    {
+      "id": "md3-shelbourne-drita",
+      "source": "shelbourne",
+      "target": "drita",
+      "round": 3,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "md3-rapid-wien-universitatea-craiova",
+      "source": "rapid-wien",
+      "target": "universitatea-craiova",
+      "round": 3,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "md4-az-shelbourne",
+      "source": "az",
+      "target": "shelbourne",
+      "round": 4,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md4-hamrun-spartans-lincoln-red-imps",
+      "source": "hamrun-spartans",
+      "target": "lincoln-red-imps",
+      "round": 4,
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "id": "md4-zrinjski-mostar-bk-hacken",
+      "source": "zrinjski-mostar",
+      "target": "bk-hacken",
+      "round": 4,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md4-lech-poznan-lausanne-sport",
+      "source": "lech-poznan",
+      "target": "lausanne-sport",
+      "round": 4,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md4-omonia-dynamo-kyiv",
+      "source": "omonia",
+      "target": "dynamo-kyiv",
+      "round": 4,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md4-rakow-czestochowa-rapid-wien",
+      "source": "rakow-czestochowa",
+      "target": "rapid-wien",
+      "round": 4,
+      "homeGoals": 4,
+      "awayGoals": 1
+    },
+    {
+      "id": "md4-sigma-olomouc-celje",
+      "source": "sigma-olomouc",
+      "target": "celje",
+      "round": 4,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md4-universitatea-craiova-mainz-05",
+      "source": "universitatea-craiova",
+      "target": "mainz-05",
+      "round": 4,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md4-slovan-bratislava-rayo-vallecano",
+      "source": "slovan-bratislava",
+      "target": "rayo-vallecano",
+      "round": 4,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md4-aberdeen-noah",
+      "source": "aberdeen",
+      "target": "noah",
+      "round": 4,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md4-fiorentina-aek-athens",
+      "source": "fiorentina",
+      "target": "aek-athens",
+      "round": 4,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "md4-breiablik-samsunspor",
+      "source": "breiablik",
+      "target": "samsunspor",
+      "round": 4,
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "id": "md4-drita-shkendija",
+      "source": "drita",
+      "target": "shkendija",
+      "round": 4,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md4-rijeka-aek-larnaca",
+      "source": "rijeka",
+      "target": "aek-larnaca",
+      "round": 4,
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "id": "md4-jagiellonia-biaystok-kups",
+      "source": "jagiellonia-biaystok",
+      "target": "kups",
+      "round": 4,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md4-legia-warsaw-sparta-prague",
+      "source": "legia-warsaw",
+      "target": "sparta-prague",
+      "round": 4,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "md4-strasbourg-crystal-palace",
+      "source": "strasbourg",
+      "target": "crystal-palace",
+      "round": 4,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md4-shamrock-rovers-shakhtar-donetsk",
+      "source": "shamrock-rovers",
+      "target": "shakhtar-donetsk",
+      "round": 4,
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "id": "md5-fiorentina-dynamo-kyiv",
+      "source": "fiorentina",
+      "target": "dynamo-kyiv",
+      "round": 5,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md5-bk-hacken-aek-larnaca",
+      "source": "bk-hacken",
+      "target": "aek-larnaca",
+      "round": 5,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md5-breiablik-shamrock-rovers",
+      "source": "breiablik",
+      "target": "shamrock-rovers",
+      "round": 5,
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "id": "md5-drita-az",
+      "source": "drita",
+      "target": "az",
+      "round": 5,
+      "homeGoals": 0,
+      "awayGoals": 3
+    },
+    {
+      "id": "md5-noah-legia-warsaw",
+      "source": "noah",
+      "target": "legia-warsaw",
+      "round": 5,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md5-jagiellonia-biaystok-rayo-vallecano",
+      "source": "jagiellonia-biaystok",
+      "target": "rayo-vallecano",
+      "round": 5,
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "id": "md5-shkendija-slovan-bratislava",
+      "source": "shkendija",
+      "target": "slovan-bratislava",
+      "round": 5,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md5-samsunspor-aek-athens",
+      "source": "samsunspor",
+      "target": "aek-athens",
+      "round": 5,
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "id": "md5-universitatea-craiova-sparta-prague",
+      "source": "universitatea-craiova",
+      "target": "sparta-prague",
+      "round": 5,
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "id": "md5-aberdeen-strasbourg",
+      "source": "aberdeen",
+      "target": "strasbourg",
+      "round": 5,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "md5-hamrun-spartans-shakhtar-donetsk",
+      "source": "hamrun-spartans",
+      "target": "shakhtar-donetsk",
+      "round": 5,
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "id": "md5-rijeka-celje",
+      "source": "rijeka",
+      "target": "celje",
+      "round": 5,
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "id": "md5-lech-poznan-mainz-05",
+      "source": "lech-poznan",
+      "target": "mainz-05",
+      "round": 5,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md5-kups-lausanne-sport",
+      "source": "kups",
+      "target": "lausanne-sport",
+      "round": 5,
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "id": "md5-lincoln-red-imps-sigma-olomouc",
+      "source": "lincoln-red-imps",
+      "target": "sigma-olomouc",
+      "round": 5,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "id": "md5-rakow-czestochowa-zrinjski-mostar",
+      "source": "rakow-czestochowa",
+      "target": "zrinjski-mostar",
+      "round": 5,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md5-shelbourne-crystal-palace",
+      "source": "shelbourne",
+      "target": "crystal-palace",
+      "round": 5,
+      "homeGoals": 0,
+      "awayGoals": 3
+    },
+    {
+      "id": "md5-rapid-wien-omonia",
+      "source": "rapid-wien",
+      "target": "omonia",
+      "round": 5,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "md6-mainz-05-samsunspor",
+      "source": "mainz-05",
+      "target": "samsunspor",
+      "round": 6,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md6-sparta-prague-aberdeen",
+      "source": "sparta-prague",
+      "target": "aberdeen",
+      "round": 6,
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "id": "md6-aek-athens-universitatea-craiova",
+      "source": "aek-athens",
+      "target": "universitatea-craiova",
+      "round": 6,
+      "homeGoals": 3,
+      "awayGoals": 2
+    },
+    {
+      "id": "md6-aek-larnaca-shkendija",
+      "source": "aek-larnaca",
+      "target": "shkendija",
+      "round": 6,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md6-az-jagiellonia-biaystok",
+      "source": "az",
+      "target": "jagiellonia-biaystok",
+      "round": 6,
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "id": "md6-crystal-palace-kups",
+      "source": "crystal-palace",
+      "target": "kups",
+      "round": 6,
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
+      "id": "md6-shakhtar-donetsk-rijeka",
+      "source": "shakhtar-donetsk",
+      "target": "rijeka",
+      "round": 6,
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "id": "md6-dynamo-kyiv-noah",
+      "source": "dynamo-kyiv",
+      "target": "noah",
+      "round": 6,
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "id": "md6-lausanne-sport-fiorentina",
+      "source": "lausanne-sport",
+      "target": "fiorentina",
+      "round": 6,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "id": "md6-zrinjski-mostar-rapid-wien",
+      "source": "zrinjski-mostar",
+      "target": "rapid-wien",
+      "round": 6,
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "id": "md6-legia-warsaw-lincoln-red-imps",
+      "source": "legia-warsaw",
+      "target": "lincoln-red-imps",
+      "round": 6,
+      "homeGoals": 4,
+      "awayGoals": 1
+    },
+    {
+      "id": "md6-celje-shelbourne",
+      "source": "celje",
+      "target": "shelbourne",
+      "round": 6,
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "id": "md6-omonia-rakow-czestochowa",
+      "source": "omonia",
+      "target": "rakow-czestochowa",
+      "round": 6,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "id": "md6-strasbourg-breiablik",
+      "source": "strasbourg",
+      "target": "breiablik",
+      "round": 6,
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "id": "md6-rayo-vallecano-drita",
+      "source": "rayo-vallecano",
+      "target": "drita",
+      "round": 6,
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
+      "id": "md6-shamrock-rovers-hamrun-spartans",
+      "source": "shamrock-rovers",
+      "target": "hamrun-spartans",
+      "round": 6,
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "id": "md6-sigma-olomouc-lech-poznan",
+      "source": "sigma-olomouc",
+      "target": "lech-poznan",
+      "round": 6,
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "id": "md6-slovan-bratislava-bk-hacken",
+      "source": "slovan-bratislava",
+      "target": "bk-hacken",
+      "round": 6,
+      "homeGoals": 1,
+      "awayGoals": 0
+    }
+  ],
+  "clusters": []
+}
