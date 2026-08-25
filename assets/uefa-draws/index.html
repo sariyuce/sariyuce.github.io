@@ -17,10 +17,10 @@
 
     <label>Layout
       <select id="layoutSelect">
-        <option value="cocluster" selected>Co-cluster proximity (d3-force)</option>
+        <option value="cocluster">Co-cluster proximity (d3-force)</option>
         <option value="concentric-pot">Concentric (by pot)</option>
         <option value="circle-country">Circle (by country)</option>
-        <option value="circle-pot">Circle (by pot)</option>
+        <option value="circle-pot" selected>Circle (by pot)</option>
         <option value="cise-pot">Cluster circles by pot (CISE)</option>
         <option value="cise-country">Cluster circles by country (CISE)</option>
         <option value="radial-country">Radial: dense countries at center</option>
@@ -56,10 +56,10 @@
     </div>
 
     <label class="check">
-      <input type="checkbox" id="showEdgeLabels" checked /> Show scores on edges
+      <input type="checkbox" id="showEdgeLabels" /> Show scores on edges
     </label>
     <label class="check">
-      <input type="checkbox" id="colorEdges" checked /> Color & direction on edges
+      <input type="checkbox" id="colorEdges" /> Color & direction on edges
     </label>
     <label class="check">
       <input type="checkbox" id="focusSelected" /> Focus selected node only
