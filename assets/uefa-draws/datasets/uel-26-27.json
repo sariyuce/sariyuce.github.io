@@ -20,7 +20,7 @@
       "country": "Germany",
       "countryCode": "GER",
       "pot": 1,
-      "logo": "",
+      "logo": "logos/500px-Bayer_04_Leverkusen_logo.svg.png",
       "extra": {}
     },
     {
@@ -29,7 +29,7 @@
       "country": "Portugal",
       "countryCode": "POR",
       "pot": 1,
-      "logo": "",
+      "logo": "logos/330px-SL_Benfica_logo.svg.png",
       "extra": {}
     },
     {
@@ -38,7 +38,7 @@
       "country": "Italy",
       "countryCode": "ITA",
       "pot": 1,
-      "logo": "",
+      "logo": "logos/250px-Juventus_FC_-_logo_black__Italy__2020_.svg.png",
       "extra": {}
     },
     {
@@ -47,7 +47,7 @@
       "country": "Italy",
       "countryCode": "ITA",
       "pot": 1,
-      "logo": "",
+      "logo": "logos/500px-Logo_of_AC_Milan.svg.png",
       "extra": {}
     },
     {
@@ -56,7 +56,7 @@
       "country": "France",
       "countryCode": "FRA",
       "pot": 1,
-      "logo": "",
+      "logo": "logos/330px-Olympique_Lyonnais_logo.svg.png",
       "extra": {}
     },
     {
@@ -65,7 +65,7 @@
       "country": "Netherlands",
       "countryCode": "NED",
       "pot": 1,
-      "logo": "",
+      "logo": "logos/250px-AZ_Alkmaar.svg.png",
       "extra": {}
     },
     {
@@ -74,7 +74,7 @@
       "country": "Greece",
       "countryCode": "GRE",
       "pot": 1,
-      "logo": "",
+      "logo": "logos/330px-Olympiacos_FC_crest.svg.png",
       "extra": {}
     },
     {
@@ -83,7 +83,7 @@
       "country": "Spain",
       "countryCode": "ESP",
       "pot": 1,
-      "logo": "",
+      "logo": "logos/250px-Real_Sociedad_logo.svg.png",
       "extra": {}
     },
     {
@@ -92,7 +92,7 @@
       "country": "France",
       "countryCode": "FRA",
       "pot": 1,
-      "logo": "",
+      "logo": "logos/330px-Olympique_de_Marseille_2026_logo.svg.png",
       "extra": {}
     },
     {
@@ -101,7 +101,7 @@
       "country": "Hungary",
       "countryCode": "HUN",
       "pot": 2,
-      "logo": "",
+      "logo": "logos/960px-Ferencvarosi_TC.svg.png",
       "extra": {}
     },
     {
@@ -110,7 +110,7 @@
       "country": "Czechia",
       "countryCode": "CZE",
       "pot": 2,
-      "logo": "",
+      "logo": "logos/250px-Viktoria_Plzen_logo.svg.png",
       "extra": {}
     },
     {
@@ -119,7 +119,7 @@
       "country": "Belgium",
       "countryCode": "BEL",
       "pot": 2,
-      "logo": "",
+      "logo": "logos/USG.png",
       "extra": {}
     },
     {
@@ -128,7 +128,7 @@
       "country": "Croatia",
       "countryCode": "CRO",
       "pot": 2,
-      "logo": "",
+      "logo": "logos/960px-Logo_GNK_Dinamo_Zagreb__2019_.svg.png",
       "extra": {}
     },
     {
@@ -137,7 +137,7 @@
       "country": "Austria",
       "countryCode": "AUT",
       "pot": 2,
-      "logo": "",
+      "logo": "logos/330px-FC_Red_Bull_Salzburg_logo.svg.png",
       "extra": {}
     },
     {
@@ -146,7 +146,7 @@
       "country": "Scotland",
       "countryCode": "SCO",
       "pot": 2,
-      "logo": "",
+      "logo": "logos/330px-Celtic_FC_crest.svg.png",
       "extra": {}
     },
     {
@@ -155,7 +155,7 @@
       "country": "Czechia",
       "countryCode": "CZE",
       "pot": 2,
-      "logo": "",
+      "logo": "logos/250px-AC-Sparta-LOGO2021.svg.png",
       "extra": {}
     },
     {
@@ -164,7 +164,7 @@
       "country": "France",
       "countryCode": "FRA",
       "pot": 2,
-      "logo": "",
+      "logo": "logos/Stade_Rennais_FC.svg",
       "extra": {}
     },
     {
@@ -173,7 +173,7 @@
       "country": "Belgium",
       "countryCode": "BEL",
       "pot": 2,
-      "logo": "",
+      "logo": "logos/330px-R.S.C._Anderlecht.svg.png",
       "extra": {}
     },
     {
@@ -182,7 +182,7 @@
       "country": "Austria",
       "countryCode": "AUT",
       "pot": 3,
-      "logo": "",
+      "logo": "logos/330px-SK_Sturm_Graz_logo.svg.png",
       "extra": {}
     },
     {
@@ -191,7 +191,7 @@
       "country": "Poland",
       "countryCode": "POL",
       "pot": 3,
-      "logo": "",
+      "logo": "logos/250px-KKS_Lech_Pozna_.svg.png",
       "extra": {}
     },
     {
@@ -200,7 +200,7 @@
       "country": "England",
       "countryCode": "ENG",
       "pot": 3,
-      "logo": "",
+      "logo": "logos/330px-Crystal_Palace_FC_logo__2022_.svg.png",
       "extra": {}
     },
     {
@@ -209,7 +209,7 @@
       "country": "England",
       "countryCode": "ENG",
       "pot": 3,
-      "logo": "",
+      "logo": "logos/AFC_Bournemouth__2013_.svg",
       "extra": {}
     },
     {
@@ -218,7 +218,7 @@
       "country": "England",
       "countryCode": "ENG",
       "pot": 3,
-      "logo": "",
+      "logo": "logos/Logo_Sunderland.svg",
       "extra": {}
     },
     {
@@ -227,7 +227,7 @@
       "country": "Slovenia",
       "countryCode": "SVN",
       "pot": 3,
-      "logo": "",
+      "logo": "logos/NK_Celje.png",
       "extra": {}
     },
     {
@@ -236,7 +236,7 @@
       "country": "Poland",
       "countryCode": "POL",
       "pot": 3,
-      "logo": "",
+      "logo": "logos/Jagiellonia_Bia_ystok_logo.svg",
       "extra": {}
     },
     {
@@ -245,7 +245,7 @@
       "country": "Cyprus",
       "countryCode": "CYP",
       "pot": 3,
-      "logo": "",
+      "logo": "logos/250px-AC_Omonia_logo.svg.png",
       "extra": {}
     },
     {
@@ -254,7 +254,7 @@
       "country": "Spain",
       "countryCode": "ESP",
       "pot": 3,
-      "logo": "",
+      "logo": "logos/250px-RC_Celta_de_Vigo_logo.svg.png",
       "extra": {}
     },
     {
@@ -263,7 +263,7 @@
       "country": "Germany",
       "countryCode": "GER",
       "pot": 4,
-      "logo": "",
+      "logo": "logos/960px-Logo_TSG_Hoffenheim.svg.png",
       "extra": {}
     },
     {
@@ -272,7 +272,7 @@
       "country": "Turkey",
       "countryCode": "TUR",
       "pot": 4,
-      "logo": "",
+      "logo": "logos/250px-BesiktasJK-Logo.svg.png",
       "extra": {}
     },
     {
@@ -281,7 +281,7 @@
       "country": "Portugal",
       "countryCode": "POR",
       "pot": 4,
-      "logo": "",
+      "logo": "logos/S.C.U._Torreense_logo.svg",
       "extra": {}
     },
     {
@@ -290,7 +290,7 @@
       "country": "Israel",
       "countryCode": "ISR",
       "pot": 4,
-      "logo": "",
+      "logo": "logos/Logo-hapoel-positive.svg",
       "extra": {}
     },
     {
@@ -299,7 +299,7 @@
       "country": "Netherlands",
       "countryCode": "NED",
       "pot": 4,
-      "logo": "",
+      "logo": "logos/NEC_Nijmegen_logo.svg",
       "extra": {}
     },
     {
@@ -308,7 +308,7 @@
       "country": "Greece",
       "countryCode": "GRE",
       "pot": 4,
-      "logo": "",
+      "logo": "logos/OFI_Crete_F.C._logo.svg",
       "extra": {}
     },
     {
@@ -317,7 +317,7 @@
       "country": "Norway",
       "countryCode": "NOR",
       "pot": 4,
-      "logo": "",
+      "logo": "logos/Lillestrom_SK_logo.svg",
       "extra": {}
     },
     {
@@ -326,7 +326,7 @@
       "country": "Bulgaria",
       "countryCode": "BUL",
       "pot": 4,
-      "logo": "",
+      "logo": "logos/Levski_Sofia_crest__2026_.svg",
       "extra": {}
     },
     {
@@ -335,7 +335,7 @@
       "country": "Armenia",
       "countryCode": "ARM",
       "pot": 4,
-      "logo": "",
+      "logo": "logos/FC_Ararat-Armenia_logo.svg",
       "extra": {}
     }
   ],

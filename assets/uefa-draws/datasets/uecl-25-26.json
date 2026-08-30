@@ -20,7 +20,7 @@
       "country": "Italy",
       "countryCode": "ITA",
       "pot": 1,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg/120px-ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logo": "logos/120px-ACF_Fiorentina_-_logo__Italy__2022_.svg.png",
       "extra": {}
     },
     {
@@ -29,7 +29,7 @@
       "country": "Netherlands",
       "countryCode": "NED",
       "pot": 1,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AZ_Alkmaar.svg/250px-AZ_Alkmaar.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logo": "logos/250px-AZ_Alkmaar.svg.png",
       "extra": {}
     },
     {
@@ -38,7 +38,7 @@
       "country": "Ukraine",
       "countryCode": "UKR",
       "pot": 1,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/FC_Shakhtar_Donetsk.svg/330px-FC_Shakhtar_Donetsk.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logo": "logos/330px-FC_Shakhtar_Donetsk.svg.png",
       "extra": {}
     },
     {
@@ -47,7 +47,7 @@
       "country": "Slovakia",
       "countryCode": "SVK",
       "pot": 1,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SK_Slovan_Bratislava_logo.svg/250px-SK_Slovan_Bratislava_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logo": "logos/250px-SK_Slovan_Bratislava_logo.svg.png",
       "extra": {}
     },
     {
@@ -56,7 +56,7 @@
       "country": "Austria",
       "countryCode": "AUT",
       "pot": 1,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/SK_Rapid_Wien_Logo.svg/500px-SK_Rapid_Wien_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logo": "logos/500px-SK_Rapid_Wien_Logo.svg.png",
       "extra": {}
     },
     {
@@ -65,7 +65,7 @@
       "country": "Poland",
       "countryCode": "POL",
       "pot": 1,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Legia_Warsaw_logo.svg/330px-Legia_Warsaw_logo.svg.png",
+      "logo": "logos/330px-Legia_Warsaw_logo.svg.png",
       "extra": {}
     },
     {
@@ -74,7 +74,7 @@
       "country": "Czechia",
       "countryCode": "CZE",
       "pot": 2,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/AC-Sparta-LOGO2021.svg/250px-AC-Sparta-LOGO2021.svg.png",
+      "logo": "logos/250px-AC-Sparta-LOGO2021.svg.png",
       "extra": {}
     },
     {
@@ -83,7 +83,7 @@
       "country": "Ukraine",
       "countryCode": "UKR",
       "pot": 2,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dynamo_logo.svg/500px-Dynamo_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logo": "logos/500px-Dynamo_logo.svg.png",
       "extra": {}
     },
     {
@@ -92,7 +92,7 @@
       "country": "England",
       "countryCode": "ENG",
       "pot": 2,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Crystal_Palace_FC_logo_%282022%29.svg/330px-Crystal_Palace_FC_logo_%282022%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logo": "logos/330px-Crystal_Palace_FC_logo__2022_.svg.png",
       "extra": {}
     },
     {
@@ -101,7 +101,7 @@
       "country": "Poland",
       "countryCode": "POL",
       "pot": 2,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/KKS_Lech_Pozna%C5%84.svg/250px-KKS_Lech_Pozna%C5%84.svg.png",
+      "logo": "logos/250px-KKS_Lech_Pozna_.svg.png",
       "extra": {}
     },
     {
@@ -110,7 +110,7 @@
       "country": "Spain",
       "countryCode": "ESP",
       "pot": 2,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Rayo_Vallecano_logo.svg/330px-Rayo_Vallecano_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logo": "logos/330px-Rayo_Vallecano_logo.svg.png",
       "extra": {}
     },
     {
@@ -119,7 +119,7 @@
       "country": "Republic of Ireland",
       "countryCode": "IRL",
       "pot": 2,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Shamrock_Rovers_F.C._crest.svg/330px-Shamrock_Rovers_F.C._crest.svg.png",
+      "logo": "logos/330px-Shamrock_Rovers_F.C._crest.svg.png",
       "extra": {}
     },
     {
@@ -128,7 +128,7 @@
       "country": "Cyprus",
       "countryCode": "CYP",
       "pot": 3,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/AC_Omonia_logo.svg/250px-AC_Omonia_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logo": "logos/250px-AC_Omonia_logo.svg.png",
       "extra": {}
     },
     {
@@ -137,7 +137,7 @@
       "country": "Germany",
       "countryCode": "GER",
       "pot": 3,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/1._FSV_Mainz_05_logo.svg/330px-1._FSV_Mainz_05_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logo": "logos/330px-1._FSV_Mainz_05_logo.svg.png",
       "extra": {}
     },
     {
@@ -146,7 +146,7 @@
       "country": "France",
       "countryCode": "FRA",
       "pot": 3,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Racing_Club_de_Strasbourg_logo.svg/330px-Racing_Club_de_Strasbourg_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logo": "logos/330px-Racing_Club_de_Strasbourg_logo.svg.png",
       "extra": {}
     },
     {
@@ -155,7 +155,7 @@
       "country": "Poland",
       "countryCode": "POL",
       "pot": 3,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Jagiellonia_Bia%C5%82ystok_logo.svg/250px-Jagiellonia_Bia%C5%82ystok_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logo": "logos/250px-Jagiellonia_Bia_ystok_logo.svg.png",
       "extra": {}
     },
     {
@@ -164,7 +164,7 @@
       "country": "Slovenia",
       "countryCode": "SVN",
       "pot": 3,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/f/fc/NK_Celje.png",
+      "logo": "logos/NK_Celje.png",
       "extra": {}
     },
     {
@@ -173,7 +173,7 @@
       "country": "Croatia",
       "countryCode": "CRO",
       "pot": 3,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HNK_Rijeka.svg/330px-HNK_Rijeka.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logo": "logos/330px-HNK_Rijeka.svg.png",
       "extra": {}
     },
     {
@@ -182,7 +182,7 @@
       "country": "Bosnia and Herzegovina",
       "countryCode": "BIH",
       "pot": 4,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/H%C5%A0K_Zrinjski_Mostar.svg/330px-H%C5%A0K_Zrinjski_Mostar.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logo": "logos/330px-H_K_Zrinjski_Mostar.svg.png",
       "extra": {}
     },
     {
@@ -191,7 +191,7 @@
       "country": "Gibraltar",
       "countryCode": "GIB",
       "pot": 4,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Lincoln_Red_Imps_FC_logo.svg/330px-Lincoln_Red_Imps_FC_logo.svg.png",
+      "logo": "logos/330px-Lincoln_Red_Imps_FC_logo.svg.png",
       "extra": {}
     },
     {
@@ -200,7 +200,7 @@
       "country": "Finland",
       "countryCode": "FIN",
       "pot": 4,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/KuPS_logo.svg/250px-KuPS_logo.svg.png",
+      "logo": "logos/250px-KuPS_logo.svg.png",
       "extra": {}
     },
     {
@@ -209,7 +209,7 @@
       "country": "Greece",
       "countryCode": "GRE",
       "pot": 4,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/AEK_Athens_FC_logo.svg/120px-AEK_Athens_FC_logo.svg.png",
+      "logo": "logos/120px-AEK_Athens_FC_logo.svg.png",
       "extra": {}
     },
     {
@@ -218,7 +218,7 @@
       "country": "Scotland",
       "countryCode": "SCO",
       "pot": 4,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Aberdeen_FC_stars_crest.svg/250px-Aberdeen_FC_stars_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logo": "logos/250px-Aberdeen_FC_stars_crest.svg.png",
       "extra": {}
     },
     {
@@ -227,7 +227,7 @@
       "country": "Kosovo",
       "countryCode": "KOS",
       "pot": 4,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/FC_Drita.svg/330px-FC_Drita.svg.png",
+      "logo": "logos/330px-FC_Drita.svg.png",
       "extra": {}
     },
     {
@@ -236,7 +236,7 @@
       "country": "Iceland",
       "countryCode": "ISL",
       "pot": 5,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/7/7b/Brei%C3%B0ablik_men%27s_football_logo.png",
+      "logo": "logos/Brei_ablik_men_s_football_logo.png",
       "extra": {}
     },
     {
@@ -245,7 +245,7 @@
       "country": "Czechia",
       "countryCode": "CZE",
       "pot": 5,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/SK_Sigma_Olomouc_logo.svg/330px-SK_Sigma_Olomouc_logo.svg.png",
+      "logo": "logos/330px-SK_Sigma_Olomouc_logo.svg.png",
       "extra": {}
     },
     {
@@ -254,7 +254,7 @@
       "country": "Turkey",
       "countryCode": "TUR",
       "pot": 5,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Samsunspor_crest.svg/250px-Samsunspor_crest.svg.png",
+      "logo": "logos/250px-Samsunspor_crest.svg.png",
       "extra": {}
     },
     {
@@ -263,7 +263,7 @@
       "country": "Poland",
       "countryCode": "POL",
       "pot": 5,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Rks_rakow_crest_ai.svg/960px-Rks_rakow_crest_ai.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logo": "logos/960px-Rks_rakow_crest_ai.svg.png",
       "extra": {}
     },
     {
@@ -272,7 +272,7 @@
       "country": "Cyprus",
       "countryCode": "CYP",
       "pot": 5,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/AEK_Larnaca_logo.svg/250px-AEK_Larnaca_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logo": "logos/250px-AEK_Larnaca_logo.svg.png",
       "extra": {}
     },
     {
@@ -281,7 +281,7 @@
       "country": "North Macedonia",
       "countryCode": "MKD",
       "pot": 5,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/KF_Shk%C3%ABndija_Logo.svg/500px-KF_Shk%C3%ABndija_Logo.svg.png",
+      "logo": "logos/500px-KF_Shk_ndija_Logo.svg.png",
       "extra": {}
     },
     {
@@ -290,7 +290,7 @@
       "country": "Sweden",
       "countryCode": "SWE",
       "pot": 6,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/BK_Hacken_logo.svg/120px-BK_Hacken_logo.svg.png",
+      "logo": "logos/120px-BK_Hacken_logo.svg.png",
       "extra": {}
     },
     {
@@ -299,7 +299,7 @@
       "country": "Switzerland",
       "countryCode": "SUI",
       "pot": 6,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/FC_Lausanne-Sport_logo.svg/250px-FC_Lausanne-Sport_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logo": "logos/250px-FC_Lausanne-Sport_logo.svg.png",
       "extra": {}
     },
     {
@@ -308,7 +308,7 @@
       "country": "Romania",
       "countryCode": "ROU",
       "pot": 6,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/CS_Universitatea_Craiova_logo.svg/250px-CS_Universitatea_Craiova_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logo": "logos/250px-CS_Universitatea_Craiova_logo.svg.png",
       "extra": {}
     },
     {
@@ -317,7 +317,7 @@
       "country": "Malta",
       "countryCode": "MLT",
       "pot": 6,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/de/Hamrun_badge_hi_deffb1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "logo": "logos/Hamrun_badge_hi_deffb1.png",
       "extra": {}
     },
     {
@@ -326,7 +326,7 @@
       "country": "Armenia",
       "countryCode": "ARM",
       "pot": 6,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/FC_Noah_logo_%282024%29.svg/250px-FC_Noah_logo_%282024%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logo": "logos/250px-FC_Noah_logo__2024_.svg.png",
       "extra": {}
     },
     {
@@ -335,7 +335,7 @@
       "country": "Republic of Ireland",
       "countryCode": "IRL",
       "pot": 6,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Shelbourne_F.C._crest.svg/330px-Shelbourne_F.C._crest.svg.png",
+      "logo": "logos/330px-Shelbourne_F.C._crest.svg.png",
       "extra": {}
     }
   ],

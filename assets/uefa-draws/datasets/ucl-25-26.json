@@ -20,7 +20,7 @@
       "country": "Netherlands",
       "countryCode": "NED",
       "pot": 3,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_AFC_Ajax_%281928-1991%2C_2025-%29.png",
+      "logo": "logos/Logo_AFC_Ajax__1928-1991__2025-_.png",
       "extra": {}
     },
     {
@@ -29,7 +29,7 @@
       "country": "England",
       "countryCode": "ENG",
       "pot": 2,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/330px-Arsenal_FC.svg.png",
+      "logo": "logos/330px-Arsenal_FC.svg.png",
       "extra": {}
     },
     {
@@ -38,7 +38,7 @@
       "country": "Italy",
       "countryCode": "ITA",
       "pot": 2,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/250px-AtalantaBC.svg.png",
+      "logo": "logos/250px-AtalantaBC.svg.png",
       "extra": {}
     },
     {
@@ -47,7 +47,7 @@
       "country": "Spain",
       "countryCode": "ESP",
       "pot": 4,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Club_Athletic_Bilbao_logo.svg/250px-Club_Athletic_Bilbao_logo.svg.png",
+      "logo": "logos/250px-Club_Athletic_Bilbao_logo.svg.png",
       "extra": {}
     },
     {
@@ -56,7 +56,7 @@
       "country": "Spain",
       "countryCode": "ESP",
       "pot": 2,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Atletico_Madrid_Logo_2024.svg/330px-Atletico_Madrid_Logo_2024.svg.png",
+      "logo": "logos/330px-Atletico_Madrid_Logo_2024.svg.png",
       "extra": {}
     },
     {
@@ -65,7 +65,7 @@
       "country": "Spain",
       "countryCode": "ESP",
       "pot": 1,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/250px-FC_Barcelona_%28crest%29.svg.png",
+      "logo": "logos/250px-FC_Barcelona__crest_.svg.png",
       "extra": {}
     },
     {
@@ -74,7 +74,7 @@
       "country": "Germany",
       "countryCode": "GER",
       "pot": 1,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/960px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+      "logo": "logos/960px-FC_Bayern_M_nchen_logo__2024_.svg.png",
       "extra": {}
     },
     {
@@ -83,7 +83,7 @@
       "country": "Portugal",
       "countryCode": "POR",
       "pot": 2,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/SL_Benfica_logo.svg/330px-SL_Benfica_logo.svg.png",
+      "logo": "logos/330px-SL_Benfica_logo.svg.png",
       "extra": {}
     },
     {
@@ -92,7 +92,7 @@
       "country": "Norway",
       "countryCode": "NOR",
       "pot": 3,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/FK_Bodo_Glimt_logo.svg/250px-FK_Bodo_Glimt_logo.svg.png",
+      "logo": "logos/250px-FK_Bodo_Glimt_logo.svg.png",
       "extra": {}
     },
     {
@@ -101,7 +101,7 @@
       "country": "Germany",
       "countryCode": "GER",
       "pot": 1,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/960px-Borussia_Dortmund_logo.svg.png",
+      "logo": "logos/960px-Borussia_Dortmund_logo.svg.png",
       "extra": {}
     },
     {
@@ -110,7 +110,7 @@
       "country": "England",
       "countryCode": "ENG",
       "pot": 1,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/250px-Chelsea_FC.svg.png",
+      "logo": "logos/250px-Chelsea_FC.svg.png",
       "extra": {}
     },
     {
@@ -119,7 +119,7 @@
       "country": "Belgium",
       "countryCode": "BEL",
       "pot": 2,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Club_Brugge_KV_logo.svg/250px-Club_Brugge_KV_logo.svg.png",
+      "logo": "logos/Club_brugge.png",
       "extra": {}
     },
     {
@@ -128,7 +128,7 @@
       "country": "Denmark",
       "countryCode": "DEN",
       "pot": 4,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/FC_Copenhagen_logo.svg/330px-FC_Copenhagen_logo.svg.png",
+      "logo": "logos/330px-FC_Copenhagen_logo.svg.png",
       "extra": {}
     },
     {
@@ -137,7 +137,7 @@
       "country": "Germany",
       "countryCode": "GER",
       "pot": 2,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Eintracht_Frankfurt_crest.svg/330px-Eintracht_Frankfurt_crest.svg.png",
+      "logo": "logos/330px-Eintracht_Frankfurt_crest.svg.png",
       "extra": {}
     },
     {
@@ -146,7 +146,7 @@
       "country": "Turkey",
       "countryCode": "TUR",
       "pot": 4,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Galatasaray_S.K._Logo_2026_5-stars.svg/1920px-Galatasaray_S.K._Logo_2026_5-stars.svg.png",
+      "logo": "logos/1920px-Galatasaray_S.K._Logo_2026_5-stars.svg.png",
       "extra": {}
     },
     {
@@ -155,7 +155,7 @@
       "country": "Italy",
       "countryCode": "ITA",
       "pot": 1,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/960px-FC_Internazionale_Milano_2021.svg.png",
+      "logo": "logos/960px-FC_Internazionale_Milano_2021.svg.png",
       "extra": {}
     },
     {
@@ -164,7 +164,7 @@
       "country": "Italy",
       "countryCode": "ITA",
       "pot": 2,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg/250px-Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg.png",
+      "logo": "logos/250px-Juventus_FC_-_logo_black__Italy__2020_.svg.png",
       "extra": {}
     },
     {
@@ -173,7 +173,7 @@
       "country": "Kazakhstan",
       "countryCode": "KAZ",
       "pot": 4,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/FCKairat_logo.png",
+      "logo": "logos/FCKairat_logo.png",
       "extra": {}
     },
     {
@@ -182,7 +182,7 @@
       "country": "Germany",
       "countryCode": "GER",
       "pot": 2,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/500px-Bayer_04_Leverkusen_logo.svg.png",
+      "logo": "logos/500px-Bayer_04_Leverkusen_logo.svg.png",
       "extra": {}
     },
     {
@@ -191,7 +191,7 @@
       "country": "England",
       "countryCode": "ENG",
       "pot": 1,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/250px-Liverpool_FC.svg.png",
+      "logo": "logos/250px-Liverpool_FC.svg.png",
       "extra": {}
     },
     {
@@ -200,7 +200,7 @@
       "country": "England",
       "countryCode": "ENG",
       "pot": 1,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/330px-Manchester_City_FC_badge.svg.png",
+      "logo": "logos/330px-Manchester_City_FC_badge.svg.png",
       "extra": {}
     },
     {
@@ -209,7 +209,7 @@
       "country": "France",
       "countryCode": "FRA",
       "pot": 3,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Olympique_de_Marseille_2026_logo.svg/330px-Olympique_de_Marseille_2026_logo.svg.png",
+      "logo": "logos/330px-Olympique_de_Marseille_2026_logo.svg.png",
       "extra": {}
     },
     {
@@ -218,7 +218,7 @@
       "country": "France",
       "countryCode": "FRA",
       "pot": 4,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/LogoASMonacoFC2021.svg/250px-LogoASMonacoFC2021.svg.png",
+      "logo": "logos/250px-LogoASMonacoFC2021.svg.png",
       "extra": {}
     },
     {
@@ -227,7 +227,7 @@
       "country": "Italy",
       "countryCode": "ITA",
       "pot": 3,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/SSC_Napoli_2025_%28white_and_azure%29.svg/960px-SSC_Napoli_2025_%28white_and_azure%29.svg.png",
+      "logo": "logos/960px-SSC_Napoli_2025__white_and_azure_.svg.png",
       "extra": {}
     },
     {
@@ -236,7 +236,7 @@
       "country": "England",
       "countryCode": "ENG",
       "pot": 4,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/330px-Newcastle_United_Logo.svg.png",
+      "logo": "logos/330px-Newcastle_United_Logo.svg.png",
       "extra": {}
     },
     {
@@ -245,7 +245,7 @@
       "country": "Greece",
       "countryCode": "GRE",
       "pot": 3,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Olympiacos_FC_crest.svg/330px-Olympiacos_FC_crest.svg.png",
+      "logo": "logos/330px-Olympiacos_FC_crest.svg.png",
       "extra": {}
     },
     {
@@ -254,7 +254,7 @@
       "country": "Cyprus",
       "countryCode": "CYP",
       "pot": 4,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Pafos_FC_crest.svg/330px-Pafos_FC_crest.svg.png",
+      "logo": "logos/330px-Pafos_FC_crest.svg.png",
       "extra": {}
     },
     {
@@ -263,7 +263,7 @@
       "country": "France",
       "countryCode": "FRA",
       "pot": 1,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/330px-Paris_Saint-Germain_F.C..svg.png",
+      "logo": "logos/330px-Paris_Saint-Germain_F.C..svg.png",
       "extra": {}
     },
     {
@@ -272,7 +272,7 @@
       "country": "Netherlands",
       "countryCode": "NED",
       "pot": 3,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/PSV_Eindhoven.svg/500px-PSV_Eindhoven.svg.png",
+      "logo": "logos/500px-PSV_Eindhoven.svg.png",
       "extra": {}
     },
     {
@@ -281,7 +281,7 @@
       "country": "Azerbaijan",
       "countryCode": "AZE",
       "pot": 4,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Qaraba%C4%9F_FK_logo.svg/250px-Qaraba%C4%9F_FK_logo.svg.png",
+      "logo": "logos/250px-Qaraba__FK_logo.svg.png",
       "extra": {}
     },
     {
@@ -290,7 +290,7 @@
       "country": "Spain",
       "countryCode": "ESP",
       "pot": 1,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/330px-Real_Madrid_CF.svg.png",
+      "logo": "logos/330px-Real_Madrid_CF.svg.png",
       "extra": {}
     },
     {
@@ -299,7 +299,7 @@
       "country": "Czechia",
       "countryCode": "CZE",
       "pot": 3,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/SK_Slavia_Praha_full_logo.svg/500px-SK_Slavia_Praha_full_logo.svg.png",
+      "logo": "logos/500px-SK_Slavia_Praha_full_logo.svg.png",
       "extra": {}
     },
     {
@@ -308,7 +308,7 @@
       "country": "Portugal",
       "countryCode": "POR",
       "pot": 3,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sporting_CP_crest.svg/120px-Sporting_CP_crest.svg.png",
+      "logo": "logos/120px-Sporting_CP_crest.svg.png",
       "extra": {}
     },
     {
@@ -317,7 +317,7 @@
       "country": "England",
       "countryCode": "ENG",
       "pot": 3,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/120px-Tottenham_Hotspur.svg.png",
+      "logo": "logos/120px-Tottenham_Hotspur.svg.png",
       "extra": {}
     },
     {
@@ -326,7 +326,7 @@
       "country": "Belgium",
       "countryCode": "BEL",
       "pot": 4,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f6/USG.png",
+      "logo": "logos/USG.png",
       "extra": {}
     },
     {
@@ -335,7 +335,7 @@
       "country": "Spain",
       "countryCode": "ESP",
       "pot": 2,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Villarreal_CF_logo-en.svg/330px-Villarreal_CF_logo-en.svg.png",
+      "logo": "logos/330px-Villarreal_CF_logo-en.svg.png",
       "extra": {}
     }
   ],
