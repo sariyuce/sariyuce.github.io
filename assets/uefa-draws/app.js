@@ -15,14 +15,14 @@ cytoscape.use(cise);
 // ---------- Dataset registry ----------
 // Add new datasets by dropping a JSON in /datasets and an entry here.
 const DATASETS = [
-  { id: "ucl-26-27", name: "UCL 2026-27 League Phase", path: "datasets/ucl-26-27.json" },
-  { id: "uel-26-27", name: "UEL 2026-27 League Phase", path: "datasets/uel-26-27.json" },
-  { id: "uecl-26-27", name: "UECL 2026-27 League Phase", path: "datasets/uecl-26-27.json" },
-  { id: "ucl-25-26", name: "UCL 2025-26 League Phase", path: "datasets/ucl-25-26.json" },
-  { id: "ucl-24-25", name: "UCL 2024-25 League Phase", path: "datasets/ucl-24-25.json" },
-  { id: "uel-25-26", name: "UEL 2025-26 League Phase", path: "datasets/uel-25-26.json" },
-  { id: "uel-24-25", name: "UEL 2024-25 League Phase", path: "datasets/uel-24-25.json" },
-  { id: "uecl-25-26", name: "UECL 2025-26 League Phase", path: "datasets/uecl-25-26.json" },
+  { id: "ucl-26-27",  name: "Champions League 26-27",  path: "datasets/ucl-26-27.json" },
+  { id: "uel-26-27",  name: "Europa League 26-27",     path: "datasets/uel-26-27.json" },
+  { id: "uecl-26-27", name: "Conference League 26-27", path: "datasets/uecl-26-27.json" },
+  { id: "ucl-25-26",  name: "Champions League 25-26",  path: "datasets/ucl-25-26.json" },
+  { id: "uel-25-26",  name: "Europa League 25-26",     path: "datasets/uel-25-26.json" },
+  { id: "uecl-25-26", name: "Conference League 25-26", path: "datasets/uecl-25-26.json" },
+  { id: "ucl-24-25",  name: "Champions League 24-25",  path: "datasets/ucl-24-25.json" },
+  { id: "uel-24-25",  name: "Europa League 24-25",     path: "datasets/uel-24-25.json" },
 ];
 
 // ---------- Visual encoding tables ----------
@@ -85,15 +85,30 @@ let dataset = null;
 let savedPositionsKey = null;  // localStorage key for current dataset
 
 // ---------- Load + render dataset ----------
+// Cache-bust every fetch so browsers don't serve stale dataset JSONs whose
+// logo URLs still point at Wikipedia. Bump this string when data changes.
+const DATA_VERSION = "20260830c";
+
 async function loadDataset(id) {
   const def = DATASETS.find((d) => d.id === id);
-  const resp = await fetch(def.path);
+  const resp = await fetch(`${def.path}?v=${DATA_VERSION}`);
   if (!resp.ok) throw new Error(`Failed to load ${def.path}: ${resp.status}`);
   dataset = await resp.json();
   savedPositionsKey = `vis:positions:${dataset.id}`;
+  // Datasets whose season hasn't kicked off yet carry null goals on every
+  // edge. Score-driven and direction-driven edge toggles are meaningless
+  // there, so we disable and uncheck them.
+  const hasAnyScore = dataset.edges.some(
+    (e) => e.homeGoals != null && e.awayGoals != null,
+  );
+  for (const ctrl of [showEdgeLabels, colorEdges]) {
+    ctrl.disabled = !hasAnyScore;
+    if (!hasAnyScore) ctrl.checked = false;
+  }
   $("datasetMeta").textContent =
     `${dataset.competition} · ${dataset.season} · ${dataset.phase} · ` +
-    `${dataset.nodes.length} teams, ${dataset.edges.length} matches`;
+    `${dataset.nodes.length} teams, ${dataset.edges.length} matches` +
+    (hasAnyScore ? "" : " (season not yet played)");
   buildCountryHighlightDropdown();
   buildClusterHighlightDropdown();
   buildLegend();
@@ -214,20 +229,27 @@ function buildLegend() {
 
 // ---------- Build Cytoscape elements + style ----------
 function nodesToCy(savedPositions) {
-  return dataset.nodes.map((n) => ({
-    group: "nodes",
-    data: {
-      id: n.id,
-      label: n.label,
-      country: n.country,
-      countryCode: n.countryCode,
-      pot: n.pot,
-      logo: n.logo || "",
-      countryColor: COUNTRY_COLOR[n.countryCode] || "#666",
-      potStyle: POT_STYLE[n.pot] || "solid",
-    },
-    position: savedPositions?.[n.id],
-  }));
+  return dataset.nodes.map((n) => {
+    const raw = n.logo || "";
+    // Append cache-bust so a browser holding an old cached logo URL still
+    // triggers a fresh fetch.
+    const logo = raw ? `${raw}?v=${DATA_VERSION}` : "";
+    return {
+      group: "nodes",
+      data: {
+        id: n.id,
+        label: n.label,
+        country: n.country,
+        countryCode: n.countryCode,
+        pot: n.pot,
+        logo,
+        hasLogo: logo ? "yes" : "no",
+        countryColor: COUNTRY_COLOR[n.countryCode] || "#666",
+        potStyle: POT_STYLE[n.pot] || "solid",
+      },
+      position: savedPositions?.[n.id],
+    };
+  });
 }
 
 function edgesToCy() {
@@ -269,6 +291,8 @@ function styleSheet() {
     "text-valign": "bottom",
     "text-halign": "center",
     "text-margin-y": 4,
+    "text-wrap": "wrap",
+    "text-max-width": 84,
     "text-outline-color": "#0f1115",
     "text-outline-width": 2,
     "border-color": "data(countryColor)",
@@ -276,13 +300,13 @@ function styleSheet() {
     "border-width": 3,
     "background-color": showLogos.checked ? "#ffffff" : "data(countryColor)",
   };
-  if (showLogos.checked) {
-    Object.assign(baseNode, {
-      "background-image": "data(logo)",
-      "background-fit": "contain",
-      "background-image-opacity": 1,
-    });
-  }
+  // Only nodes that carry a logo URL get the background-image rule below.
+  // Empty logo strings crash cytoscape's style parser, so we gate on hasLogo.
+  const logoNodeStyle = showLogos.checked ? {
+    "background-image": "data(logo)",
+    "background-fit": "contain",
+    "background-image-opacity": 1,
+  } : null;
 
   // Edge styling depends on whether color/direction is enabled.
   const edgeColored = colorEdges.checked;
@@ -306,6 +330,7 @@ function styleSheet() {
 
   return [
     { selector: "node", style: baseNode },
+    ...(logoNodeStyle ? [{ selector: 'node[hasLogo = "yes"]', style: logoNodeStyle }] : []),
     {
       selector: "node:selected",
       style: { "border-color": "#5cc8ff", "border-width": 5 },
@@ -330,27 +355,27 @@ function styleSheet() {
 }
 
 // ---------- Layouts ----------
-function circleByAttrPositions(attr, radius = 300) {
+function circleByAttrPositions(attr) {
   // Sort nodes by the chosen attribute, then label, and place them on a single
   // ring in that order. Insert a one-slot gap between each group so the
-  // grouping is visually obvious.
+  // grouping is visually obvious. Radius scales with slot count so adjacent
+  // nodes and their labels don't overlap; targets ~100 px of arc per slot.
   const sorted = [...dataset.nodes].sort((a, b) => {
     const av = String(a[attr]), bv = String(b[attr]);
-    if (av !== bv) {
-      return av.localeCompare(bv, undefined, { numeric: true });
-    }
+    if (av !== bv) return av.localeCompare(bv, undefined, { numeric: true });
     return a.label.localeCompare(b.label);
   });
   const N = sorted.length;
   const G = new Set(sorted.map((n) => n[attr])).size;
   const totalSlots = N + G;
+  const arcPerSlot = 100;                        // px between adjacent slots along the ring
+  const radius = Math.max(300, (arcPerSlot * totalSlots) / (2 * Math.PI));
   const slotAngle = (2 * Math.PI) / totalSlots;
 
   const positions = {};
-  let slot = 0;
-  let prevAttr = null;
+  let slot = 0, prevAttr = null;
   for (const n of sorted) {
-    if (prevAttr !== null && n[attr] !== prevAttr) slot += 1; // gap
+    if (prevAttr !== null && n[attr] !== prevAttr) slot += 1; // gap between groups
     const theta = slot * slotAngle - Math.PI / 2;
     positions[n.id] = { x: radius * Math.cos(theta), y: radius * Math.sin(theta) };
     slot += 1;
