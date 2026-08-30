@@ -1493,5 +1493,35 @@
       "awayGoals": 4
     }
   ],
-  "clusters": []
+  "clusters": [
+    [
+      "bayer-leverkusen",
+      "atletico-madrid",
+      "feyenoord",
+      "red-bull-salzburg",
+      "sparta-prague",
+      "brest"
+    ],
+    [
+      "bayer-leverkusen",
+      "atletico-madrid",
+      "feyenoord",
+      "red-bull-salzburg",
+      "sparta-prague"
+    ],
+    [
+      "bayer-leverkusen",
+      "atletico-madrid",
+      "red-bull-salzburg",
+      "sparta-prague",
+      "brest"
+    ],
+    [
+      "bayer-leverkusen",
+      "feyenoord",
+      "red-bull-salzburg",
+      "sparta-prague",
+      "brest"
+    ]
+  ]
 }

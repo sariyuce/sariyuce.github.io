@@ -1493,5 +1493,56 @@
       "awayGoals": 2
     }
   ],
-  "clusters": []
+  "clusters": [
+    [
+      "red-bull-salzburg",
+      "aston-villa",
+      "maccabi-tel-aviv",
+      "basel",
+      "sc-freiburg",
+      "bologna"
+    ],
+    [
+      "feyenoord",
+      "braga",
+      "red-star-belgrade",
+      "celtic",
+      "sturm-graz"
+    ],
+    [
+      "lille",
+      "paok",
+      "young-boys",
+      "ludogorets-razgrad",
+      "celta-vigo"
+    ],
+    [
+      "real-betis",
+      "lyon",
+      "paok",
+      "young-boys",
+      "ludogorets-razgrad"
+    ],
+    [
+      "red-bull-salzburg",
+      "aston-villa",
+      "lyon",
+      "basel",
+      "go-ahead-eagles"
+    ],
+    [
+      "red-bull-salzburg",
+      "aston-villa",
+      "maccabi-tel-aviv",
+      "sc-freiburg",
+      "bologna"
+    ],
+    [
+      "red-bull-salzburg",
+      "aston-villa",
+      "basel",
+      "sc-freiburg",
+      "bologna"
+    ]
+  ]
 }

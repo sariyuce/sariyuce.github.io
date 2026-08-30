@@ -1493,5 +1493,28 @@
       "awayGoals": 0
     }
   ],
-  "clusters": []
+  "clusters": [
+    [
+      "roma",
+      "tottenham-hotspur",
+      "az",
+      "galatasaray",
+      "athletic-bilbao",
+      "if-elfsborg"
+    ],
+    [
+      "roma",
+      "tottenham-hotspur",
+      "az",
+      "galatasaray",
+      "if-elfsborg"
+    ],
+    [
+      "roma",
+      "tottenham-hotspur",
+      "az",
+      "athletic-bilbao",
+      "if-elfsborg"
+    ]
+  ]
 }
