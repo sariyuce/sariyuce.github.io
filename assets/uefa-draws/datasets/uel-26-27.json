@@ -1,0 +1,1505 @@
+{
+  "id": "uel-26-27",
+  "name": "UEL 2026-27 League Phase",
+  "season": "2026-27",
+  "competition": "UEFA Europa League",
+  "phase": "League phase",
+  "directed": false,
+  "meta": {
+    "rounds": 8,
+    "roundLabel": "Matchday",
+    "groupings": [
+      "country",
+      "pot"
+    ]
+  },
+  "nodes": [
+    {
+      "id": "bayer-leverkusen",
+      "label": "Bayer Leverkusen",
+      "country": "Germany",
+      "countryCode": "GER",
+      "pot": 1,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "benfica",
+      "label": "Benfica",
+      "country": "Portugal",
+      "countryCode": "POR",
+      "pot": 1,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "juventus",
+      "label": "Juventus",
+      "country": "Italy",
+      "countryCode": "ITA",
+      "pot": 1,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "milan",
+      "label": "Milan",
+      "country": "Italy",
+      "countryCode": "ITA",
+      "pot": 1,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "lyon",
+      "label": "Lyon",
+      "country": "France",
+      "countryCode": "FRA",
+      "pot": 1,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "az",
+      "label": "AZ",
+      "country": "Netherlands",
+      "countryCode": "NED",
+      "pot": 1,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "olympiacos",
+      "label": "Olympiacos",
+      "country": "Greece",
+      "countryCode": "GRE",
+      "pot": 1,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "real-sociedad",
+      "label": "Real Sociedad",
+      "country": "Spain",
+      "countryCode": "ESP",
+      "pot": 1,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "marseille",
+      "label": "Marseille",
+      "country": "France",
+      "countryCode": "FRA",
+      "pot": 1,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "ferencvaros",
+      "label": "Ferencváros",
+      "country": "Hungary",
+      "countryCode": "HUN",
+      "pot": 2,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "viktoria-plzen",
+      "label": "Viktoria Plzeň",
+      "country": "Czechia",
+      "countryCode": "CZE",
+      "pot": 2,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "union-saint-gilloise",
+      "label": "Union Saint-Gilloise",
+      "country": "Belgium",
+      "countryCode": "BEL",
+      "pot": 2,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "dinamo-zagreb",
+      "label": "Dinamo Zagreb",
+      "country": "Croatia",
+      "countryCode": "CRO",
+      "pot": 2,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "red-bull-salzburg",
+      "label": "Red Bull Salzburg",
+      "country": "Austria",
+      "countryCode": "AUT",
+      "pot": 2,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "celtic",
+      "label": "Celtic",
+      "country": "Scotland",
+      "countryCode": "SCO",
+      "pot": 2,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "sparta-prague",
+      "label": "Sparta Prague",
+      "country": "Czechia",
+      "countryCode": "CZE",
+      "pot": 2,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "rennes",
+      "label": "Rennes",
+      "country": "France",
+      "countryCode": "FRA",
+      "pot": 2,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "anderlecht",
+      "label": "Anderlecht",
+      "country": "Belgium",
+      "countryCode": "BEL",
+      "pot": 2,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "sturm-graz",
+      "label": "Sturm Graz",
+      "country": "Austria",
+      "countryCode": "AUT",
+      "pot": 3,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "lech-poznan",
+      "label": "Lech Poznań",
+      "country": "Poland",
+      "countryCode": "POL",
+      "pot": 3,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "crystal-palace",
+      "label": "Crystal Palace",
+      "country": "England",
+      "countryCode": "ENG",
+      "pot": 3,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "bournemouth",
+      "label": "Bournemouth",
+      "country": "England",
+      "countryCode": "ENG",
+      "pot": 3,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "sunderland",
+      "label": "Sunderland",
+      "country": "England",
+      "countryCode": "ENG",
+      "pot": 3,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "celje",
+      "label": "Celje",
+      "country": "Slovenia",
+      "countryCode": "SVN",
+      "pot": 3,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "jagiellonia",
+      "label": "Jagiellonia Białystok",
+      "country": "Poland",
+      "countryCode": "POL",
+      "pot": 3,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "omonia",
+      "label": "Omonia",
+      "country": "Cyprus",
+      "countryCode": "CYP",
+      "pot": 3,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "celta-vigo",
+      "label": "Celta Vigo",
+      "country": "Spain",
+      "countryCode": "ESP",
+      "pot": 3,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "tsg-hoffenheim",
+      "label": "TSG Hoffenheim",
+      "country": "Germany",
+      "countryCode": "GER",
+      "pot": 4,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "besiktas",
+      "label": "Beşiktaş",
+      "country": "Turkey",
+      "countryCode": "TUR",
+      "pot": 4,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "torreense",
+      "label": "Torreense",
+      "country": "Portugal",
+      "countryCode": "POR",
+      "pot": 4,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "hapoel-beer-sheva",
+      "label": "Hapoel Be'er Sheva",
+      "country": "Israel",
+      "countryCode": "ISR",
+      "pot": 4,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "nec",
+      "label": "NEC",
+      "country": "Netherlands",
+      "countryCode": "NED",
+      "pot": 4,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "ofi",
+      "label": "OFI",
+      "country": "Greece",
+      "countryCode": "GRE",
+      "pot": 4,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "lillestrom",
+      "label": "Lillestrøm",
+      "country": "Norway",
+      "countryCode": "NOR",
+      "pot": 4,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "levski-sofia",
+      "label": "Levski Sofia",
+      "country": "Bulgaria",
+      "countryCode": "BUL",
+      "pot": 4,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "ararat-armenia",
+      "label": "Ararat-Armenia",
+      "country": "Armenia",
+      "countryCode": "ARM",
+      "pot": 4,
+      "logo": "",
+      "extra": {}
+    }
+  ],
+  "edges": [
+    {
+      "id": "e001-anderlecht-dinamo-zagreb",
+      "source": "anderlecht",
+      "target": "dinamo-zagreb",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e002-anderlecht-jagiellonia",
+      "source": "anderlecht",
+      "target": "jagiellonia",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e003-anderlecht-lyon",
+      "source": "anderlecht",
+      "target": "lyon",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e004-anderlecht-marseille",
+      "source": "anderlecht",
+      "target": "marseille",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e005-anderlecht-ofi",
+      "source": "anderlecht",
+      "target": "ofi",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e006-anderlecht-red-bull-salzburg",
+      "source": "anderlecht",
+      "target": "red-bull-salzburg",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e007-anderlecht-sunderland",
+      "source": "anderlecht",
+      "target": "sunderland",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e008-anderlecht-tsg-hoffenheim",
+      "source": "anderlecht",
+      "target": "tsg-hoffenheim",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e009-ararat-armenia-az",
+      "source": "ararat-armenia",
+      "target": "az",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e010-ararat-armenia-celje",
+      "source": "ararat-armenia",
+      "target": "celje",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e011-ararat-armenia-jagiellonia",
+      "source": "ararat-armenia",
+      "target": "jagiellonia",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e012-ararat-armenia-milan",
+      "source": "ararat-armenia",
+      "target": "milan",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e013-ararat-armenia-nec",
+      "source": "ararat-armenia",
+      "target": "nec",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e014-ararat-armenia-red-bull-salzburg",
+      "source": "ararat-armenia",
+      "target": "red-bull-salzburg",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e015-ararat-armenia-sparta-prague",
+      "source": "ararat-armenia",
+      "target": "sparta-prague",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e016-ararat-armenia-torreense",
+      "source": "ararat-armenia",
+      "target": "torreense",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e017-az-benfica",
+      "source": "az",
+      "target": "benfica",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e018-az-dinamo-zagreb",
+      "source": "az",
+      "target": "dinamo-zagreb",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e019-az-hapoel-beer-sheva",
+      "source": "az",
+      "target": "hapoel-beer-sheva",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e020-az-juventus",
+      "source": "az",
+      "target": "juventus",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e021-az-sparta-prague",
+      "source": "az",
+      "target": "sparta-prague",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e022-az-sturm-graz",
+      "source": "az",
+      "target": "sturm-graz",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e023-az-sunderland",
+      "source": "az",
+      "target": "sunderland",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e024-bayer-leverkusen-besiktas",
+      "source": "bayer-leverkusen",
+      "target": "besiktas",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e025-bayer-leverkusen-celje",
+      "source": "bayer-leverkusen",
+      "target": "celje",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e026-bayer-leverkusen-dinamo-zagreb",
+      "source": "bayer-leverkusen",
+      "target": "dinamo-zagreb",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e027-bayer-leverkusen-lech-poznan",
+      "source": "bayer-leverkusen",
+      "target": "lech-poznan",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e028-bayer-leverkusen-lyon",
+      "source": "bayer-leverkusen",
+      "target": "lyon",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e029-bayer-leverkusen-marseille",
+      "source": "bayer-leverkusen",
+      "target": "marseille",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e030-bayer-leverkusen-ofi",
+      "source": "bayer-leverkusen",
+      "target": "ofi",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e031-bayer-leverkusen-red-bull-salzburg",
+      "source": "bayer-leverkusen",
+      "target": "red-bull-salzburg",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e032-benfica-celtic",
+      "source": "benfica",
+      "target": "celtic",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e033-benfica-lech-poznan",
+      "source": "benfica",
+      "target": "lech-poznan",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e034-benfica-milan",
+      "source": "benfica",
+      "target": "milan",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e035-benfica-nec",
+      "source": "benfica",
+      "target": "nec",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e036-benfica-ofi",
+      "source": "benfica",
+      "target": "ofi",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e037-benfica-omonia",
+      "source": "benfica",
+      "target": "omonia",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e038-benfica-viktoria-plzen",
+      "source": "benfica",
+      "target": "viktoria-plzen",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e039-besiktas-celtic",
+      "source": "besiktas",
+      "target": "celtic",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e040-besiktas-crystal-palace",
+      "source": "besiktas",
+      "target": "crystal-palace",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e041-besiktas-hapoel-beer-sheva",
+      "source": "besiktas",
+      "target": "hapoel-beer-sheva",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e042-besiktas-marseille",
+      "source": "besiktas",
+      "target": "marseille",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e043-besiktas-omonia",
+      "source": "besiktas",
+      "target": "omonia",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e044-besiktas-tsg-hoffenheim",
+      "source": "besiktas",
+      "target": "tsg-hoffenheim",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e045-besiktas-union-saint-gilloise",
+      "source": "besiktas",
+      "target": "union-saint-gilloise",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e046-bournemouth-celta-vigo",
+      "source": "bournemouth",
+      "target": "celta-vigo",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e047-bournemouth-hapoel-beer-sheva",
+      "source": "bournemouth",
+      "target": "hapoel-beer-sheva",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e048-bournemouth-lillestrom",
+      "source": "bournemouth",
+      "target": "lillestrom",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e049-bournemouth-milan",
+      "source": "bournemouth",
+      "target": "milan",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e050-bournemouth-real-sociedad",
+      "source": "bournemouth",
+      "target": "real-sociedad",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e051-bournemouth-sparta-prague",
+      "source": "bournemouth",
+      "target": "sparta-prague",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e052-bournemouth-sturm-graz",
+      "source": "bournemouth",
+      "target": "sturm-graz",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e053-bournemouth-viktoria-plzen",
+      "source": "bournemouth",
+      "target": "viktoria-plzen",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e054-celje-ferencvaros",
+      "source": "celje",
+      "target": "ferencvaros",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e055-celje-nec",
+      "source": "celje",
+      "target": "nec",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e056-celje-olympiacos",
+      "source": "celje",
+      "target": "olympiacos",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e057-celje-omonia",
+      "source": "celje",
+      "target": "omonia",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e058-celje-red-bull-salzburg",
+      "source": "celje",
+      "target": "red-bull-salzburg",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e059-celje-sturm-graz",
+      "source": "celje",
+      "target": "sturm-graz",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e060-celta-vigo-celtic",
+      "source": "celta-vigo",
+      "target": "celtic",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e061-celta-vigo-hapoel-beer-sheva",
+      "source": "celta-vigo",
+      "target": "hapoel-beer-sheva",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e062-celta-vigo-juventus",
+      "source": "celta-vigo",
+      "target": "juventus",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e063-celta-vigo-lillestrom",
+      "source": "celta-vigo",
+      "target": "lillestrom",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e064-celta-vigo-marseille",
+      "source": "celta-vigo",
+      "target": "marseille",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e065-celta-vigo-omonia",
+      "source": "celta-vigo",
+      "target": "omonia",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e066-celta-vigo-union-saint-gilloise",
+      "source": "celta-vigo",
+      "target": "union-saint-gilloise",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e067-celtic-ferencvaros",
+      "source": "celtic",
+      "target": "ferencvaros",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e068-celtic-marseille",
+      "source": "celtic",
+      "target": "marseille",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e069-celtic-omonia",
+      "source": "celtic",
+      "target": "omonia",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e070-celtic-torreense",
+      "source": "celtic",
+      "target": "torreense",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e071-celtic-union-saint-gilloise",
+      "source": "celtic",
+      "target": "union-saint-gilloise",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e072-crystal-palace-jagiellonia",
+      "source": "crystal-palace",
+      "target": "jagiellonia",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e073-crystal-palace-lech-poznan",
+      "source": "crystal-palace",
+      "target": "lech-poznan",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e074-crystal-palace-lyon",
+      "source": "crystal-palace",
+      "target": "lyon",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e075-crystal-palace-real-sociedad",
+      "source": "crystal-palace",
+      "target": "real-sociedad",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e076-crystal-palace-red-bull-salzburg",
+      "source": "crystal-palace",
+      "target": "red-bull-salzburg",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e077-crystal-palace-sparta-prague",
+      "source": "crystal-palace",
+      "target": "sparta-prague",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e078-crystal-palace-tsg-hoffenheim",
+      "source": "crystal-palace",
+      "target": "tsg-hoffenheim",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e079-dinamo-zagreb-hapoel-beer-sheva",
+      "source": "dinamo-zagreb",
+      "target": "hapoel-beer-sheva",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e080-dinamo-zagreb-nec",
+      "source": "dinamo-zagreb",
+      "target": "nec",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e081-dinamo-zagreb-rennes",
+      "source": "dinamo-zagreb",
+      "target": "rennes",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e082-dinamo-zagreb-sturm-graz",
+      "source": "dinamo-zagreb",
+      "target": "sturm-graz",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e083-dinamo-zagreb-sunderland",
+      "source": "dinamo-zagreb",
+      "target": "sunderland",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e084-ferencvaros-juventus",
+      "source": "ferencvaros",
+      "target": "juventus",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e085-ferencvaros-lech-poznan",
+      "source": "ferencvaros",
+      "target": "lech-poznan",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e086-ferencvaros-milan",
+      "source": "ferencvaros",
+      "target": "milan",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e087-ferencvaros-torreense",
+      "source": "ferencvaros",
+      "target": "torreense",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e088-ferencvaros-tsg-hoffenheim",
+      "source": "ferencvaros",
+      "target": "tsg-hoffenheim",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e089-ferencvaros-viktoria-plzen",
+      "source": "ferencvaros",
+      "target": "viktoria-plzen",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e090-hapoel-beer-sheva-juventus",
+      "source": "hapoel-beer-sheva",
+      "target": "juventus",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e091-hapoel-beer-sheva-ofi",
+      "source": "hapoel-beer-sheva",
+      "target": "ofi",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e092-hapoel-beer-sheva-union-saint-gilloise",
+      "source": "hapoel-beer-sheva",
+      "target": "union-saint-gilloise",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e093-jagiellonia-levski-sofia",
+      "source": "jagiellonia",
+      "target": "levski-sofia",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e094-jagiellonia-lyon",
+      "source": "jagiellonia",
+      "target": "lyon",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e095-jagiellonia-olympiacos",
+      "source": "jagiellonia",
+      "target": "olympiacos",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e096-jagiellonia-sunderland",
+      "source": "jagiellonia",
+      "target": "sunderland",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e097-jagiellonia-viktoria-plzen",
+      "source": "jagiellonia",
+      "target": "viktoria-plzen",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e098-juventus-nec",
+      "source": "juventus",
+      "target": "nec",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e099-juventus-omonia",
+      "source": "juventus",
+      "target": "omonia",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e100-juventus-real-sociedad",
+      "source": "juventus",
+      "target": "real-sociedad",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e101-juventus-rennes",
+      "source": "juventus",
+      "target": "rennes",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e102-lech-poznan-ofi",
+      "source": "lech-poznan",
+      "target": "ofi",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e103-lech-poznan-sunderland",
+      "source": "lech-poznan",
+      "target": "sunderland",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e104-lech-poznan-torreense",
+      "source": "lech-poznan",
+      "target": "torreense",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e105-lech-poznan-union-saint-gilloise",
+      "source": "lech-poznan",
+      "target": "union-saint-gilloise",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e106-levski-sofia-lillestrom",
+      "source": "levski-sofia",
+      "target": "lillestrom",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e107-levski-sofia-marseille",
+      "source": "levski-sofia",
+      "target": "marseille",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e108-levski-sofia-milan",
+      "source": "levski-sofia",
+      "target": "milan",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e109-levski-sofia-nec",
+      "source": "levski-sofia",
+      "target": "nec",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e110-levski-sofia-red-bull-salzburg",
+      "source": "levski-sofia",
+      "target": "red-bull-salzburg",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e111-levski-sofia-sunderland",
+      "source": "levski-sofia",
+      "target": "sunderland",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e112-levski-sofia-viktoria-plzen",
+      "source": "levski-sofia",
+      "target": "viktoria-plzen",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e113-lillestrom-lyon",
+      "source": "lillestrom",
+      "target": "lyon",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e114-lillestrom-real-sociedad",
+      "source": "lillestrom",
+      "target": "real-sociedad",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e115-lillestrom-sparta-prague",
+      "source": "lillestrom",
+      "target": "sparta-prague",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e116-lillestrom-torreense",
+      "source": "lillestrom",
+      "target": "torreense",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e117-lillestrom-viktoria-plzen",
+      "source": "lillestrom",
+      "target": "viktoria-plzen",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e118-lyon-real-sociedad",
+      "source": "lyon",
+      "target": "real-sociedad",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e119-lyon-tsg-hoffenheim",
+      "source": "lyon",
+      "target": "tsg-hoffenheim",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e120-lyon-union-saint-gilloise",
+      "source": "lyon",
+      "target": "union-saint-gilloise",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e121-marseille-olympiacos",
+      "source": "marseille",
+      "target": "olympiacos",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e122-marseille-sturm-graz",
+      "source": "marseille",
+      "target": "sturm-graz",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e123-milan-olympiacos",
+      "source": "milan",
+      "target": "olympiacos",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e124-milan-red-bull-salzburg",
+      "source": "milan",
+      "target": "red-bull-salzburg",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e125-milan-sunderland",
+      "source": "milan",
+      "target": "sunderland",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e126-nec-omonia",
+      "source": "nec",
+      "target": "omonia",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e127-nec-rennes",
+      "source": "nec",
+      "target": "rennes",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e128-ofi-rennes",
+      "source": "ofi",
+      "target": "rennes",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e129-ofi-sturm-graz",
+      "source": "ofi",
+      "target": "sturm-graz",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e130-ofi-tsg-hoffenheim",
+      "source": "ofi",
+      "target": "tsg-hoffenheim",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e131-olympiacos-rennes",
+      "source": "olympiacos",
+      "target": "rennes",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e132-olympiacos-sparta-prague",
+      "source": "olympiacos",
+      "target": "sparta-prague",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e133-olympiacos-torreense",
+      "source": "olympiacos",
+      "target": "torreense",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e134-olympiacos-tsg-hoffenheim",
+      "source": "olympiacos",
+      "target": "tsg-hoffenheim",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e135-omonia-rennes",
+      "source": "omonia",
+      "target": "rennes",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e136-real-sociedad-torreense",
+      "source": "real-sociedad",
+      "target": "torreense",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e137-real-sociedad-union-saint-gilloise",
+      "source": "real-sociedad",
+      "target": "union-saint-gilloise",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e138-real-sociedad-viktoria-plzen",
+      "source": "real-sociedad",
+      "target": "viktoria-plzen",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e139-red-bull-salzburg-sparta-prague",
+      "source": "red-bull-salzburg",
+      "target": "sparta-prague",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e140-rennes-sparta-prague",
+      "source": "rennes",
+      "target": "sparta-prague",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e141-rennes-sturm-graz",
+      "source": "rennes",
+      "target": "sturm-graz",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e142-sturm-graz-tsg-hoffenheim",
+      "source": "sturm-graz",
+      "target": "tsg-hoffenheim",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e143-sunderland-torreense",
+      "source": "sunderland",
+      "target": "torreense",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e144-union-saint-gilloise-viktoria-plzen",
+      "source": "union-saint-gilloise",
+      "target": "viktoria-plzen",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    }
+  ],
+  "clusters": [
+    [
+      "benfica",
+      "juventus",
+      "rennes",
+      "omonia",
+      "nec"
+    ]
+  ]
+}
