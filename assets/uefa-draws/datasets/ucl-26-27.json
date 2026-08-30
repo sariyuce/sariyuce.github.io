@@ -1,0 +1,1505 @@
+{
+  "id": "ucl-26-27",
+  "name": "UCL 2026-27 League Phase",
+  "season": "2026-27",
+  "competition": "UEFA Champions League",
+  "phase": "League phase",
+  "directed": false,
+  "meta": {
+    "rounds": 8,
+    "roundLabel": "Matchday",
+    "groupings": [
+      "country",
+      "pot"
+    ]
+  },
+  "nodes": [
+    {
+      "id": "paris-saint-germain",
+      "label": "Paris Saint-Germain",
+      "country": "France",
+      "countryCode": "FRA",
+      "pot": 1,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "bayern-munich",
+      "label": "Bayern Munich",
+      "country": "Germany",
+      "countryCode": "GER",
+      "pot": 1,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "real-madrid",
+      "label": "Real Madrid",
+      "country": "Spain",
+      "countryCode": "ESP",
+      "pot": 1,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "liverpool",
+      "label": "Liverpool",
+      "country": "England",
+      "countryCode": "ENG",
+      "pot": 1,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "inter",
+      "label": "Inter",
+      "country": "Italy",
+      "countryCode": "ITA",
+      "pot": 1,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "manchester-city",
+      "label": "Manchester City",
+      "country": "England",
+      "countryCode": "ENG",
+      "pot": 1,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "arsenal",
+      "label": "Arsenal",
+      "country": "England",
+      "countryCode": "ENG",
+      "pot": 1,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "barcelona",
+      "label": "Barcelona",
+      "country": "Spain",
+      "countryCode": "ESP",
+      "pot": 1,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "atletico-madrid",
+      "label": "Atlético Madrid",
+      "country": "Spain",
+      "countryCode": "ESP",
+      "pot": 1,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "borussia-dortmund",
+      "label": "Borussia Dortmund",
+      "country": "Germany",
+      "countryCode": "GER",
+      "pot": 2,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "roma",
+      "label": "Roma",
+      "country": "Italy",
+      "countryCode": "ITA",
+      "pot": 2,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "sporting-cp",
+      "label": "Sporting CP",
+      "country": "Portugal",
+      "countryCode": "POR",
+      "pot": 2,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "aston-villa",
+      "label": "Aston Villa",
+      "country": "England",
+      "countryCode": "ENG",
+      "pot": 2,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "porto",
+      "label": "Porto",
+      "country": "Portugal",
+      "countryCode": "POR",
+      "pot": 2,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "manchester-united",
+      "label": "Manchester United",
+      "country": "England",
+      "countryCode": "ENG",
+      "pot": 2,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "club-brugge",
+      "label": "Club Brugge",
+      "country": "Belgium",
+      "countryCode": "BEL",
+      "pot": 2,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "real-betis",
+      "label": "Real Betis",
+      "country": "Spain",
+      "countryCode": "ESP",
+      "pot": 2,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "psv",
+      "label": "PSV",
+      "country": "Netherlands",
+      "countryCode": "NED",
+      "pot": 2,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "feyenoord",
+      "label": "Feyenoord",
+      "country": "Netherlands",
+      "countryCode": "NED",
+      "pot": 3,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "lille",
+      "label": "Lille",
+      "country": "France",
+      "countryCode": "FRA",
+      "pot": 3,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "bodo-glimt",
+      "label": "Bodø/Glimt",
+      "country": "Norway",
+      "countryCode": "NOR",
+      "pot": 3,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "napoli",
+      "label": "Napoli",
+      "country": "Italy",
+      "countryCode": "ITA",
+      "pot": 3,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "rb-leipzig",
+      "label": "RB Leipzig",
+      "country": "Germany",
+      "countryCode": "GER",
+      "pot": 3,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "villarreal",
+      "label": "Villarreal",
+      "country": "Spain",
+      "countryCode": "ESP",
+      "pot": 3,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "fenerbahce",
+      "label": "Fenerbahçe",
+      "country": "Turkey",
+      "countryCode": "TUR",
+      "pot": 3,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "shakhtar-donetsk",
+      "label": "Shakhtar Donetsk",
+      "country": "Ukraine",
+      "countryCode": "UKR",
+      "pot": 3,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "galatasaray",
+      "label": "Galatasaray",
+      "country": "Turkey",
+      "countryCode": "TUR",
+      "pot": 3,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "slavia-praha",
+      "label": "Slavia Praha",
+      "country": "Czechia",
+      "countryCode": "CZE",
+      "pot": 4,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "slovan-bratislava",
+      "label": "Slovan Bratislava",
+      "country": "Slovakia",
+      "countryCode": "SVK",
+      "pot": 4,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "vfb-stuttgart",
+      "label": "VfB Stuttgart",
+      "country": "Germany",
+      "countryCode": "GER",
+      "pot": 4,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "aek-athens",
+      "label": "AEK Athens",
+      "country": "Greece",
+      "countryCode": "GRE",
+      "pot": 4,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "lask",
+      "label": "LASK",
+      "country": "Austria",
+      "countryCode": "AUT",
+      "pot": 4,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "como",
+      "label": "Como",
+      "country": "Italy",
+      "countryCode": "ITA",
+      "pot": 4,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "lens",
+      "label": "Lens",
+      "country": "France",
+      "countryCode": "FRA",
+      "pot": 4,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "viking",
+      "label": "Viking",
+      "country": "Norway",
+      "countryCode": "NOR",
+      "pot": 4,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "sabah",
+      "label": "Sabah",
+      "country": "Azerbaijan",
+      "countryCode": "AZE",
+      "pot": 4,
+      "logo": "",
+      "extra": {}
+    }
+  ],
+  "edges": [
+    {
+      "id": "e001-aek-athens-borussia-dortmund",
+      "source": "aek-athens",
+      "target": "borussia-dortmund",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e002-aek-athens-como",
+      "source": "aek-athens",
+      "target": "como",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e003-aek-athens-galatasaray",
+      "source": "aek-athens",
+      "target": "galatasaray",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e004-aek-athens-lask",
+      "source": "aek-athens",
+      "target": "lask",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e005-aek-athens-manchester-city",
+      "source": "aek-athens",
+      "target": "manchester-city",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e006-aek-athens-real-madrid",
+      "source": "aek-athens",
+      "target": "real-madrid",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e007-aek-athens-roma",
+      "source": "aek-athens",
+      "target": "roma",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e008-aek-athens-shakhtar-donetsk",
+      "source": "aek-athens",
+      "target": "shakhtar-donetsk",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e009-arsenal-bayern-munich",
+      "source": "arsenal",
+      "target": "bayern-munich",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e010-arsenal-borussia-dortmund",
+      "source": "arsenal",
+      "target": "borussia-dortmund",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e011-arsenal-lille",
+      "source": "arsenal",
+      "target": "lille",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e012-arsenal-napoli",
+      "source": "arsenal",
+      "target": "napoli",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e013-arsenal-real-betis",
+      "source": "arsenal",
+      "target": "real-betis",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e014-arsenal-real-madrid",
+      "source": "arsenal",
+      "target": "real-madrid",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e015-arsenal-sabah",
+      "source": "arsenal",
+      "target": "sabah",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e016-arsenal-slavia-praha",
+      "source": "arsenal",
+      "target": "slavia-praha",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e017-aston-villa-barcelona",
+      "source": "aston-villa",
+      "target": "barcelona",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e018-aston-villa-borussia-dortmund",
+      "source": "aston-villa",
+      "target": "borussia-dortmund",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e019-aston-villa-club-brugge",
+      "source": "aston-villa",
+      "target": "club-brugge",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e020-aston-villa-fenerbahce",
+      "source": "aston-villa",
+      "target": "fenerbahce",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e021-aston-villa-galatasaray",
+      "source": "aston-villa",
+      "target": "galatasaray",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e022-aston-villa-paris-saint-germain",
+      "source": "aston-villa",
+      "target": "paris-saint-germain",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e023-aston-villa-slavia-praha",
+      "source": "aston-villa",
+      "target": "slavia-praha",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e024-aston-villa-viking",
+      "source": "aston-villa",
+      "target": "viking",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e025-atletico-madrid-bayern-munich",
+      "source": "atletico-madrid",
+      "target": "bayern-munich",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e026-atletico-madrid-bodo-glimt",
+      "source": "atletico-madrid",
+      "target": "bodo-glimt",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e027-atletico-madrid-fenerbahce",
+      "source": "atletico-madrid",
+      "target": "fenerbahce",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e028-atletico-madrid-liverpool",
+      "source": "atletico-madrid",
+      "target": "liverpool",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e029-atletico-madrid-manchester-united",
+      "source": "atletico-madrid",
+      "target": "manchester-united",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e030-atletico-madrid-psv",
+      "source": "atletico-madrid",
+      "target": "psv",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e031-atletico-madrid-vfb-stuttgart",
+      "source": "atletico-madrid",
+      "target": "vfb-stuttgart",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e032-atletico-madrid-viking",
+      "source": "atletico-madrid",
+      "target": "viking",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e033-barcelona-como",
+      "source": "barcelona",
+      "target": "como",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e034-barcelona-feyenoord",
+      "source": "barcelona",
+      "target": "feyenoord",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e035-barcelona-galatasaray",
+      "source": "barcelona",
+      "target": "galatasaray",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e036-barcelona-manchester-city",
+      "source": "barcelona",
+      "target": "manchester-city",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e037-barcelona-paris-saint-germain",
+      "source": "barcelona",
+      "target": "paris-saint-germain",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e038-barcelona-sabah",
+      "source": "barcelona",
+      "target": "sabah",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e039-barcelona-sporting-cp",
+      "source": "barcelona",
+      "target": "sporting-cp",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e040-bayern-munich-bodo-glimt",
+      "source": "bayern-munich",
+      "target": "bodo-glimt",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e041-bayern-munich-lille",
+      "source": "bayern-munich",
+      "target": "lille",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e042-bayern-munich-manchester-united",
+      "source": "bayern-munich",
+      "target": "manchester-united",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e043-bayern-munich-real-betis",
+      "source": "bayern-munich",
+      "target": "real-betis",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e044-bayern-munich-slavia-praha",
+      "source": "bayern-munich",
+      "target": "slavia-praha",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e045-bayern-munich-viking",
+      "source": "bayern-munich",
+      "target": "viking",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e046-bodo-glimt-borussia-dortmund",
+      "source": "bodo-glimt",
+      "target": "borussia-dortmund",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e047-bodo-glimt-club-brugge",
+      "source": "bodo-glimt",
+      "target": "club-brugge",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e048-bodo-glimt-lask",
+      "source": "bodo-glimt",
+      "target": "lask",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e049-bodo-glimt-lens",
+      "source": "bodo-glimt",
+      "target": "lens",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e050-bodo-glimt-lille",
+      "source": "bodo-glimt",
+      "target": "lille",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e051-bodo-glimt-napoli",
+      "source": "bodo-glimt",
+      "target": "napoli",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e052-borussia-dortmund-inter",
+      "source": "borussia-dortmund",
+      "target": "inter",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e053-borussia-dortmund-real-betis",
+      "source": "borussia-dortmund",
+      "target": "real-betis",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e054-borussia-dortmund-sabah",
+      "source": "borussia-dortmund",
+      "target": "sabah",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e055-borussia-dortmund-villarreal",
+      "source": "borussia-dortmund",
+      "target": "villarreal",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e056-club-brugge-inter",
+      "source": "club-brugge",
+      "target": "inter",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e057-club-brugge-lens",
+      "source": "club-brugge",
+      "target": "lens",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e058-club-brugge-liverpool",
+      "source": "club-brugge",
+      "target": "liverpool",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e059-club-brugge-napoli",
+      "source": "club-brugge",
+      "target": "napoli",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e060-club-brugge-psv",
+      "source": "club-brugge",
+      "target": "psv",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e061-club-brugge-vfb-stuttgart",
+      "source": "club-brugge",
+      "target": "vfb-stuttgart",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e062-como-feyenoord",
+      "source": "como",
+      "target": "feyenoord",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e063-como-lens",
+      "source": "como",
+      "target": "lens",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e064-como-manchester-united",
+      "source": "como",
+      "target": "manchester-united",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e065-como-paris-saint-germain",
+      "source": "como",
+      "target": "paris-saint-germain",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e066-como-rb-leipzig",
+      "source": "como",
+      "target": "rb-leipzig",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e067-como-real-betis",
+      "source": "como",
+      "target": "real-betis",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e068-fenerbahce-lask",
+      "source": "fenerbahce",
+      "target": "lask",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e069-fenerbahce-liverpool",
+      "source": "fenerbahce",
+      "target": "liverpool",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e070-fenerbahce-roma",
+      "source": "fenerbahce",
+      "target": "roma",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e071-fenerbahce-shakhtar-donetsk",
+      "source": "fenerbahce",
+      "target": "shakhtar-donetsk",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e072-fenerbahce-slavia-praha",
+      "source": "fenerbahce",
+      "target": "slavia-praha",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e073-fenerbahce-villarreal",
+      "source": "fenerbahce",
+      "target": "villarreal",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e074-feyenoord-galatasaray",
+      "source": "feyenoord",
+      "target": "galatasaray",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e075-feyenoord-inter",
+      "source": "feyenoord",
+      "target": "inter",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e076-feyenoord-porto",
+      "source": "feyenoord",
+      "target": "porto",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e077-feyenoord-rb-leipzig",
+      "source": "feyenoord",
+      "target": "rb-leipzig",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e078-feyenoord-real-betis",
+      "source": "feyenoord",
+      "target": "real-betis",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e079-feyenoord-viking",
+      "source": "feyenoord",
+      "target": "viking",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e080-galatasaray-lille",
+      "source": "galatasaray",
+      "target": "lille",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e081-galatasaray-paris-saint-germain",
+      "source": "galatasaray",
+      "target": "paris-saint-germain",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e082-galatasaray-sporting-cp",
+      "source": "galatasaray",
+      "target": "sporting-cp",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e083-galatasaray-vfb-stuttgart",
+      "source": "galatasaray",
+      "target": "vfb-stuttgart",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e084-inter-liverpool",
+      "source": "inter",
+      "target": "liverpool",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e085-inter-real-madrid",
+      "source": "inter",
+      "target": "real-madrid",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e086-inter-shakhtar-donetsk",
+      "source": "inter",
+      "target": "shakhtar-donetsk",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e087-inter-slovan-bratislava",
+      "source": "inter",
+      "target": "slovan-bratislava",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e088-inter-vfb-stuttgart",
+      "source": "inter",
+      "target": "vfb-stuttgart",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e089-lask-liverpool",
+      "source": "lask",
+      "target": "liverpool",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e090-lask-porto",
+      "source": "lask",
+      "target": "porto",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e091-lask-real-madrid",
+      "source": "lask",
+      "target": "real-madrid",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e092-lask-slovan-bratislava",
+      "source": "lask",
+      "target": "slovan-bratislava",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e093-lask-sporting-cp",
+      "source": "lask",
+      "target": "sporting-cp",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e094-lens-liverpool",
+      "source": "lens",
+      "target": "liverpool",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e095-lens-manchester-city",
+      "source": "lens",
+      "target": "manchester-city",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e096-lens-rb-leipzig",
+      "source": "lens",
+      "target": "rb-leipzig",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e097-lens-slavia-praha",
+      "source": "lens",
+      "target": "slavia-praha",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e098-lens-sporting-cp",
+      "source": "lens",
+      "target": "sporting-cp",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e099-lille-real-betis",
+      "source": "lille",
+      "target": "real-betis",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e100-lille-roma",
+      "source": "lille",
+      "target": "roma",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e101-lille-slovan-bratislava",
+      "source": "lille",
+      "target": "slovan-bratislava",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e102-lille-vfb-stuttgart",
+      "source": "lille",
+      "target": "vfb-stuttgart",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e103-liverpool-porto",
+      "source": "liverpool",
+      "target": "porto",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e104-liverpool-villarreal",
+      "source": "liverpool",
+      "target": "villarreal",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e105-manchester-city-napoli",
+      "source": "manchester-city",
+      "target": "napoli",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e106-manchester-city-paris-saint-germain",
+      "source": "manchester-city",
+      "target": "paris-saint-germain",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e107-manchester-city-porto",
+      "source": "manchester-city",
+      "target": "porto",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e108-manchester-city-rb-leipzig",
+      "source": "manchester-city",
+      "target": "rb-leipzig",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e109-manchester-city-sporting-cp",
+      "source": "manchester-city",
+      "target": "sporting-cp",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e110-manchester-united-rb-leipzig",
+      "source": "manchester-united",
+      "target": "rb-leipzig",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e111-manchester-united-roma",
+      "source": "manchester-united",
+      "target": "roma",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e112-manchester-united-sabah",
+      "source": "manchester-united",
+      "target": "sabah",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e113-manchester-united-sporting-cp",
+      "source": "manchester-united",
+      "target": "sporting-cp",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e114-manchester-united-villarreal",
+      "source": "manchester-united",
+      "target": "villarreal",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e115-napoli-porto",
+      "source": "napoli",
+      "target": "porto",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e116-napoli-sabah",
+      "source": "napoli",
+      "target": "sabah",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e117-napoli-viking",
+      "source": "napoli",
+      "target": "viking",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e118-napoli-villarreal",
+      "source": "napoli",
+      "target": "villarreal",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e119-paris-saint-germain-roma",
+      "source": "paris-saint-germain",
+      "target": "roma",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e120-paris-saint-germain-slovan-bratislava",
+      "source": "paris-saint-germain",
+      "target": "slovan-bratislava",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e121-paris-saint-germain-villarreal",
+      "source": "paris-saint-germain",
+      "target": "villarreal",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e122-porto-psv",
+      "source": "porto",
+      "target": "psv",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e123-porto-real-betis",
+      "source": "porto",
+      "target": "real-betis",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e124-porto-slavia-praha",
+      "source": "porto",
+      "target": "slavia-praha",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e125-psv-rb-leipzig",
+      "source": "psv",
+      "target": "rb-leipzig",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e126-psv-real-madrid",
+      "source": "psv",
+      "target": "real-madrid",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e127-psv-shakhtar-donetsk",
+      "source": "psv",
+      "target": "shakhtar-donetsk",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e128-psv-vfb-stuttgart",
+      "source": "psv",
+      "target": "vfb-stuttgart",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e129-psv-viking",
+      "source": "psv",
+      "target": "viking",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e130-rb-leipzig-real-madrid",
+      "source": "rb-leipzig",
+      "target": "real-madrid",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e131-rb-leipzig-shakhtar-donetsk",
+      "source": "rb-leipzig",
+      "target": "shakhtar-donetsk",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e132-real-betis-slovan-bratislava",
+      "source": "real-betis",
+      "target": "slovan-bratislava",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e133-real-madrid-roma",
+      "source": "real-madrid",
+      "target": "roma",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e134-real-madrid-shakhtar-donetsk",
+      "source": "real-madrid",
+      "target": "shakhtar-donetsk",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e135-roma-slovan-bratislava",
+      "source": "roma",
+      "target": "slovan-bratislava",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e136-roma-sporting-cp",
+      "source": "roma",
+      "target": "sporting-cp",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e137-sabah-slavia-praha",
+      "source": "sabah",
+      "target": "slavia-praha",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e138-sabah-viking",
+      "source": "sabah",
+      "target": "viking",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e139-sabah-villarreal",
+      "source": "sabah",
+      "target": "villarreal",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e140-shakhtar-donetsk-slovan-bratislava",
+      "source": "shakhtar-donetsk",
+      "target": "slovan-bratislava",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e141-shakhtar-donetsk-sporting-cp",
+      "source": "shakhtar-donetsk",
+      "target": "sporting-cp",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e142-slavia-praha-villarreal",
+      "source": "slavia-praha",
+      "target": "villarreal",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e143-slovan-bratislava-vfb-stuttgart",
+      "source": "slovan-bratislava",
+      "target": "vfb-stuttgart",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e144-vfb-stuttgart-viking",
+      "source": "vfb-stuttgart",
+      "target": "viking",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    }
+  ],
+  "clusters": [
+    [
+      "paris-saint-germain",
+      "manchester-city",
+      "barcelona",
+      "sporting-cp",
+      "galatasaray"
+    ]
+  ]
+}

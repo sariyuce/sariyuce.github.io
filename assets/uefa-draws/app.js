@@ -15,6 +15,9 @@ cytoscape.use(cise);
 // ---------- Dataset registry ----------
 // Add new datasets by dropping a JSON in /datasets and an entry here.
 const DATASETS = [
+  { id: "ucl-26-27", name: "UCL 2026-27 League Phase", path: "datasets/ucl-26-27.json" },
+  { id: "uel-26-27", name: "UEL 2026-27 League Phase", path: "datasets/uel-26-27.json" },
+  { id: "uecl-26-27", name: "UECL 2026-27 League Phase", path: "datasets/uecl-26-27.json" },
   { id: "ucl-25-26", name: "UCL 2025-26 League Phase", path: "datasets/ucl-25-26.json" },
   { id: "ucl-24-25", name: "UCL 2024-25 League Phase", path: "datasets/ucl-24-25.json" },
   { id: "uel-25-26", name: "UEL 2025-26 League Phase", path: "datasets/uel-25-26.json" },

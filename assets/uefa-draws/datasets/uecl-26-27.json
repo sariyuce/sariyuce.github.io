@@ -1,0 +1,1217 @@
+{
+  "id": "uecl-26-27",
+  "name": "UECL 2026-27 League Phase",
+  "season": "2026-27",
+  "competition": "UEFA Conference League",
+  "phase": "League phase",
+  "directed": false,
+  "meta": {
+    "rounds": 6,
+    "roundLabel": "Matchday",
+    "groupings": [
+      "country",
+      "pot"
+    ]
+  },
+  "nodes": [
+    {
+      "id": "atalanta",
+      "label": "Atalanta",
+      "country": "Italy",
+      "countryCode": "ITA",
+      "pot": 1,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "braga",
+      "label": "Braga",
+      "country": "Portugal",
+      "countryCode": "POR",
+      "pot": 1,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "ajax",
+      "label": "Ajax",
+      "country": "Netherlands",
+      "countryCode": "NED",
+      "pot": 1,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "sc-freiburg",
+      "label": "SC Freiburg",
+      "country": "Germany",
+      "countryCode": "GER",
+      "pot": 1,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "monaco",
+      "label": "Monaco",
+      "country": "France",
+      "countryCode": "FRA",
+      "pot": 1,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "copenhagen",
+      "label": "Copenhagen",
+      "country": "Denmark",
+      "countryCode": "DEN",
+      "pot": 1,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "midtjylland",
+      "label": "Midtjylland",
+      "country": "Denmark",
+      "countryCode": "DEN",
+      "pot": 2,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "red-star-belgrade",
+      "label": "Red Star Belgrade",
+      "country": "Serbia",
+      "countryCode": "SRB",
+      "pot": 2,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "gent",
+      "label": "Gent",
+      "country": "Belgium",
+      "countryCode": "BEL",
+      "pot": 2,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "panathinaikos",
+      "label": "Panathinaikos",
+      "country": "Greece",
+      "countryCode": "GRE",
+      "pot": 2,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "pafos",
+      "label": "Pafos",
+      "country": "Cyprus",
+      "countryCode": "CYP",
+      "pot": 2,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "brighton",
+      "label": "Brighton & Hove Albion",
+      "country": "England",
+      "countryCode": "ENG",
+      "pot": 2,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "lugano",
+      "label": "Lugano",
+      "country": "Switzerland",
+      "countryCode": "SUI",
+      "pot": 3,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "getafe",
+      "label": "Getafe",
+      "country": "Spain",
+      "countryCode": "ESP",
+      "pot": 3,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "kups",
+      "label": "KuPS",
+      "country": "Finland",
+      "countryCode": "FIN",
+      "pot": 3,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "twente",
+      "label": "Twente",
+      "country": "Netherlands",
+      "countryCode": "NED",
+      "pot": 3,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "lincoln-red-imps",
+      "label": "Lincoln Red Imps",
+      "country": "Gibraltar",
+      "countryCode": "GIB",
+      "pot": 3,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "borac-banja-luka",
+      "label": "Borac Banja Luka",
+      "country": "Bosnia and Herzegovina",
+      "countryCode": "BIH",
+      "pot": 3,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "sint-truiden",
+      "label": "Sint-Truiden",
+      "country": "Belgium",
+      "countryCode": "BEL",
+      "pot": 4,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "brann",
+      "label": "Brann",
+      "country": "Norway",
+      "countryCode": "NOR",
+      "pot": 4,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "hearts",
+      "label": "Heart of Midlothian",
+      "country": "Scotland",
+      "countryCode": "SCO",
+      "pot": 4,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "kairat",
+      "label": "Kairat",
+      "country": "Kazakhstan",
+      "countryCode": "KAZ",
+      "pot": 4,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "trabzonspor",
+      "label": "Trabzonspor",
+      "country": "Turkey",
+      "countryCode": "TUR",
+      "pot": 4,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "universitatea-craiova",
+      "label": "Universitatea Craiova",
+      "country": "Romania",
+      "countryCode": "ROU",
+      "pot": 4,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "riga",
+      "label": "Riga",
+      "country": "Latvia",
+      "countryCode": "LAT",
+      "pot": 5,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "hajduk-split",
+      "label": "Hajduk Split",
+      "country": "Croatia",
+      "countryCode": "CRO",
+      "pot": 5,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "jablonec",
+      "label": "Jablonec",
+      "country": "Czechia",
+      "countryCode": "CZE",
+      "pot": 5,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "nordsjaelland",
+      "label": "Nordsjælland",
+      "country": "Denmark",
+      "countryCode": "DEN",
+      "pot": 5,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "agf",
+      "label": "AGF",
+      "country": "Denmark",
+      "countryCode": "DEN",
+      "pot": 5,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "inter-club-escaldes",
+      "label": "Inter Club d'Escaldes",
+      "country": "Andorra",
+      "countryCode": "AND",
+      "pot": 5,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "thun",
+      "label": "Thun",
+      "country": "Switzerland",
+      "countryCode": "SUI",
+      "pot": 6,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "cska-sofia",
+      "label": "CSKA Sofia",
+      "country": "Bulgaria",
+      "countryCode": "BUL",
+      "pot": 6,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "kauno-zalgiris",
+      "label": "Kauno Žalgiris",
+      "country": "Lithuania",
+      "countryCode": "LTU",
+      "pot": 6,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "mjallby",
+      "label": "Mjällby AIF",
+      "country": "Sweden",
+      "countryCode": "SWE",
+      "pot": 6,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "iberia-1999",
+      "label": "Iberia 1999",
+      "country": "Georgia",
+      "countryCode": "GEO",
+      "pot": 6,
+      "logo": "",
+      "extra": {}
+    },
+    {
+      "id": "egnatia",
+      "label": "Egnatia",
+      "country": "Albania",
+      "countryCode": "ALB",
+      "pot": 6,
+      "logo": "",
+      "extra": {}
+    }
+  ],
+  "edges": [
+    {
+      "id": "e001-agf-braga",
+      "source": "agf",
+      "target": "braga",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e002-agf-brann",
+      "source": "agf",
+      "target": "brann",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e003-agf-egnatia",
+      "source": "agf",
+      "target": "egnatia",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e004-agf-gent",
+      "source": "agf",
+      "target": "gent",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e005-agf-inter-club-escaldes",
+      "source": "agf",
+      "target": "inter-club-escaldes",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e006-agf-twente",
+      "source": "agf",
+      "target": "twente",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e007-ajax-atalanta",
+      "source": "ajax",
+      "target": "atalanta",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e008-ajax-getafe",
+      "source": "ajax",
+      "target": "getafe",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e009-ajax-hajduk-split",
+      "source": "ajax",
+      "target": "hajduk-split",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e010-ajax-midtjylland",
+      "source": "ajax",
+      "target": "midtjylland",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e011-ajax-sint-truiden",
+      "source": "ajax",
+      "target": "sint-truiden",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e012-ajax-thun",
+      "source": "ajax",
+      "target": "thun",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e013-atalanta-borac-banja-luka",
+      "source": "atalanta",
+      "target": "borac-banja-luka",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e014-atalanta-kairat",
+      "source": "atalanta",
+      "target": "kairat",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e015-atalanta-mjallby",
+      "source": "atalanta",
+      "target": "mjallby",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e016-atalanta-pafos",
+      "source": "atalanta",
+      "target": "pafos",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e017-atalanta-riga",
+      "source": "atalanta",
+      "target": "riga",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e018-borac-banja-luka-hearts",
+      "source": "borac-banja-luka",
+      "target": "hearts",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e019-borac-banja-luka-kups",
+      "source": "borac-banja-luka",
+      "target": "kups",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e020-borac-banja-luka-mjallby",
+      "source": "borac-banja-luka",
+      "target": "mjallby",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e021-borac-banja-luka-panathinaikos",
+      "source": "borac-banja-luka",
+      "target": "panathinaikos",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e022-borac-banja-luka-riga",
+      "source": "borac-banja-luka",
+      "target": "riga",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e023-braga-brann",
+      "source": "braga",
+      "target": "brann",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e024-braga-copenhagen",
+      "source": "braga",
+      "target": "copenhagen",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e025-braga-egnatia",
+      "source": "braga",
+      "target": "egnatia",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e026-braga-gent",
+      "source": "braga",
+      "target": "gent",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e027-braga-kups",
+      "source": "braga",
+      "target": "kups",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e028-brann-gent",
+      "source": "brann",
+      "target": "gent",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e029-brann-kauno-zalgiris",
+      "source": "brann",
+      "target": "kauno-zalgiris",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e030-brann-lincoln-red-imps",
+      "source": "brann",
+      "target": "lincoln-red-imps",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e031-brann-sint-truiden",
+      "source": "brann",
+      "target": "sint-truiden",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e032-brighton-getafe",
+      "source": "brighton",
+      "target": "getafe",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e033-brighton-jablonec",
+      "source": "brighton",
+      "target": "jablonec",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e034-brighton-kauno-zalgiris",
+      "source": "brighton",
+      "target": "kauno-zalgiris",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e035-brighton-monaco",
+      "source": "brighton",
+      "target": "monaco",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e036-brighton-panathinaikos",
+      "source": "brighton",
+      "target": "panathinaikos",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e037-brighton-universitatea-craiova",
+      "source": "brighton",
+      "target": "universitatea-craiova",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e038-copenhagen-iberia-1999",
+      "source": "copenhagen",
+      "target": "iberia-1999",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e039-copenhagen-inter-club-escaldes",
+      "source": "copenhagen",
+      "target": "inter-club-escaldes",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e040-copenhagen-lugano",
+      "source": "copenhagen",
+      "target": "lugano",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e041-copenhagen-red-star-belgrade",
+      "source": "copenhagen",
+      "target": "red-star-belgrade",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e042-copenhagen-universitatea-craiova",
+      "source": "copenhagen",
+      "target": "universitatea-craiova",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e043-cska-sofia-kups",
+      "source": "cska-sofia",
+      "target": "kups",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e044-cska-sofia-monaco",
+      "source": "cska-sofia",
+      "target": "monaco",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e045-cska-sofia-nordsjaelland",
+      "source": "cska-sofia",
+      "target": "nordsjaelland",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e046-cska-sofia-panathinaikos",
+      "source": "cska-sofia",
+      "target": "panathinaikos",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e047-cska-sofia-thun",
+      "source": "cska-sofia",
+      "target": "thun",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e048-cska-sofia-trabzonspor",
+      "source": "cska-sofia",
+      "target": "trabzonspor",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e049-egnatia-kauno-zalgiris",
+      "source": "egnatia",
+      "target": "kauno-zalgiris",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e050-egnatia-lincoln-red-imps",
+      "source": "egnatia",
+      "target": "lincoln-red-imps",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e051-egnatia-midtjylland",
+      "source": "egnatia",
+      "target": "midtjylland",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e052-egnatia-universitatea-craiova",
+      "source": "egnatia",
+      "target": "universitatea-craiova",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e053-gent-kups",
+      "source": "gent",
+      "target": "kups",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e054-gent-red-star-belgrade",
+      "source": "gent",
+      "target": "red-star-belgrade",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e055-gent-thun",
+      "source": "gent",
+      "target": "thun",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e056-getafe-iberia-1999",
+      "source": "getafe",
+      "target": "iberia-1999",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e057-getafe-inter-club-escaldes",
+      "source": "getafe",
+      "target": "inter-club-escaldes",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e058-getafe-lugano",
+      "source": "getafe",
+      "target": "lugano",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e059-getafe-universitatea-craiova",
+      "source": "getafe",
+      "target": "universitatea-craiova",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e060-hajduk-split-lincoln-red-imps",
+      "source": "hajduk-split",
+      "target": "lincoln-red-imps",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e061-hajduk-split-midtjylland",
+      "source": "hajduk-split",
+      "target": "midtjylland",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e062-hajduk-split-nordsjaelland",
+      "source": "hajduk-split",
+      "target": "nordsjaelland",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e063-hajduk-split-sint-truiden",
+      "source": "hajduk-split",
+      "target": "sint-truiden",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e064-hajduk-split-thun",
+      "source": "hajduk-split",
+      "target": "thun",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e065-hearts-monaco",
+      "source": "hearts",
+      "target": "monaco",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e066-hearts-nordsjaelland",
+      "source": "hearts",
+      "target": "nordsjaelland",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e067-hearts-pafos",
+      "source": "hearts",
+      "target": "pafos",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e068-hearts-thun",
+      "source": "hearts",
+      "target": "thun",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e069-hearts-trabzonspor",
+      "source": "hearts",
+      "target": "trabzonspor",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e070-iberia-1999-jablonec",
+      "source": "iberia-1999",
+      "target": "jablonec",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e071-iberia-1999-mjallby",
+      "source": "iberia-1999",
+      "target": "mjallby",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e072-iberia-1999-red-star-belgrade",
+      "source": "iberia-1999",
+      "target": "red-star-belgrade",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e073-iberia-1999-sint-truiden",
+      "source": "iberia-1999",
+      "target": "sint-truiden",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e074-inter-club-escaldes-mjallby",
+      "source": "inter-club-escaldes",
+      "target": "mjallby",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e075-inter-club-escaldes-red-star-belgrade",
+      "source": "inter-club-escaldes",
+      "target": "red-star-belgrade",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e076-inter-club-escaldes-universitatea-craiova",
+      "source": "inter-club-escaldes",
+      "target": "universitatea-craiova",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e077-jablonec-lugano",
+      "source": "jablonec",
+      "target": "lugano",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e078-jablonec-riga",
+      "source": "jablonec",
+      "target": "riga",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e079-jablonec-sc-freiburg",
+      "source": "jablonec",
+      "target": "sc-freiburg",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e080-jablonec-trabzonspor",
+      "source": "jablonec",
+      "target": "trabzonspor",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e081-kairat-mjallby",
+      "source": "kairat",
+      "target": "mjallby",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e082-kairat-panathinaikos",
+      "source": "kairat",
+      "target": "panathinaikos",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e083-kairat-riga",
+      "source": "kairat",
+      "target": "riga",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e084-kairat-twente",
+      "source": "kairat",
+      "target": "twente",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e085-kairat-universitatea-craiova",
+      "source": "kairat",
+      "target": "universitatea-craiova",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e086-kauno-zalgiris-lugano",
+      "source": "kauno-zalgiris",
+      "target": "lugano",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e087-kauno-zalgiris-riga",
+      "source": "kauno-zalgiris",
+      "target": "riga",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e088-kauno-zalgiris-sc-freiburg",
+      "source": "kauno-zalgiris",
+      "target": "sc-freiburg",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e089-kups-nordsjaelland",
+      "source": "kups",
+      "target": "nordsjaelland",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e090-kups-trabzonspor",
+      "source": "kups",
+      "target": "trabzonspor",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e091-lincoln-red-imps-midtjylland",
+      "source": "lincoln-red-imps",
+      "target": "midtjylland",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e092-lincoln-red-imps-monaco",
+      "source": "lincoln-red-imps",
+      "target": "monaco",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e093-lincoln-red-imps-twente",
+      "source": "lincoln-red-imps",
+      "target": "twente",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e094-lugano-red-star-belgrade",
+      "source": "lugano",
+      "target": "red-star-belgrade",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e095-lugano-sint-truiden",
+      "source": "lugano",
+      "target": "sint-truiden",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e096-midtjylland-pafos",
+      "source": "midtjylland",
+      "target": "pafos",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e097-midtjylland-sint-truiden",
+      "source": "midtjylland",
+      "target": "sint-truiden",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e098-mjallby-pafos",
+      "source": "mjallby",
+      "target": "pafos",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e099-monaco-nordsjaelland",
+      "source": "monaco",
+      "target": "nordsjaelland",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e100-monaco-sc-freiburg",
+      "source": "monaco",
+      "target": "sc-freiburg",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e101-nordsjaelland-panathinaikos",
+      "source": "nordsjaelland",
+      "target": "panathinaikos",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e102-pafos-riga",
+      "source": "pafos",
+      "target": "riga",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e103-pafos-twente",
+      "source": "pafos",
+      "target": "twente",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e104-panathinaikos-sc-freiburg",
+      "source": "panathinaikos",
+      "target": "sc-freiburg",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e105-red-star-belgrade-trabzonspor",
+      "source": "red-star-belgrade",
+      "target": "trabzonspor",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e106-sc-freiburg-trabzonspor",
+      "source": "sc-freiburg",
+      "target": "trabzonspor",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e107-sc-freiburg-twente",
+      "source": "sc-freiburg",
+      "target": "twente",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": "e108-thun-twente",
+      "source": "thun",
+      "target": "twente",
+      "round": null,
+      "homeGoals": null,
+      "awayGoals": null
+    }
+  ],
+  "clusters": [
+    [
+      "atalanta",
+      "pafos",
+      "borac-banja-luka",
+      "riga",
+      "mjallby"
+    ]
+  ]
+}
